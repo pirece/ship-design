@@ -1,0 +1,437 @@
+[
+  {
+    "name": "母型船海上照片",
+    "source": "船舶设计任务信息图幻灯片.png",
+    "region": [
+      66,
+      332,
+      773,
+      572
+    ],
+    "slide": "船舶设计任务信息图幻灯片.png",
+    "method": "原图裁切",
+    "path": "assets/母型船海上照片.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "保留原图局部；内部细节为栅格图像"
+  },
+  {
+    "name": "路线_母型船",
+    "source": "船舶总体设计流程与任务概览.png",
+    "region": [
+      89,
+      202,
+      533,
+      311
+    ],
+    "slide": "船舶总体设计流程与任务概览.png",
+    "method": "原图裁切",
+    "path": "assets/路线_母型船.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "保留原图局部；内部细节为栅格图像"
+  },
+  {
+    "name": "路线_目标船",
+    "source": "船舶总体设计流程与任务概览.png",
+    "region": [
+      1144,
+      202,
+      1589,
+      311
+    ],
+    "slide": "船舶总体设计流程与任务概览.png",
+    "method": "原图裁切",
+    "path": "assets/路线_目标船.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "保留原图局部；内部细节为栅格图像"
+  },
+  {
+    "name": "分工_船体模型",
+    "source": "上海交大风格B组成员分工图.png",
+    "region": [
+      482,
+      221,
+      763,
+      400
+    ],
+    "slide": "上海交大风格B组成员分工图.png",
+    "method": "原图裁切",
+    "path": "assets/分工_船体模型.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "保留原图局部；内部细节为栅格图像"
+  },
+  {
+    "name": "分工_彩色模型",
+    "source": "上海交大风格B组成员分工图.png",
+    "region": [
+      1325,
+      216,
+      1604,
+      400
+    ],
+    "slide": "上海交大风格B组成员分工图.png",
+    "method": "原图裁切",
+    "path": "assets/分工_彩色模型.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "原始彩色模型及色标原样保留，色标内极小数值无法辨读"
+  },
+  {
+    "name": "分工_舱室工程图",
+    "source": "上海交大风格B组成员分工图.png",
+    "region": [
+      1273,
+      589,
+      1607,
+      797
+    ],
+    "slide": "上海交大风格B组成员分工图.png",
+    "method": "原图裁切",
+    "path": "assets/分工_舱室工程图.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "工程图中的细小编号不可辨读，保留原始证据"
+  },
+  {
+    "name": "进展_侧视图",
+    "source": "船舶设计项目总体进展 infographics.png",
+    "region": [
+      334,
+      246,
+      698,
+      337
+    ],
+    "slide": "船舶设计项目总体进展 infographics.png",
+    "method": "原图裁切",
+    "path": "assets/进展_侧视图.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "保留原图局部；内部细节为栅格图像"
+  },
+  {
+    "name": "进展_俯视图",
+    "source": "船舶设计项目总体进展 infographics.png",
+    "region": [
+      335,
+      349,
+      615,
+      419
+    ],
+    "slide": "船舶设计项目总体进展 infographics.png",
+    "method": "原图裁切",
+    "path": "assets/进展_俯视图.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "保留原图局部；内部细节为栅格图像"
+  },
+  {
+    "name": "进展_蓝色船体",
+    "source": "船舶设计项目总体进展 infographics.png",
+    "region": [
+      1189,
+      203,
+      1614,
+      320
+    ],
+    "slide": "船舶设计项目总体进展 infographics.png",
+    "method": "原图裁切",
+    "path": "assets/进展_蓝色船体.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "保留原图局部；内部细节为栅格图像"
+  },
+  {
+    "name": "进展_型线工程图",
+    "source": "船舶设计项目总体进展 infographics.png",
+    "region": [
+      1250,
+      320,
+      1605,
+      453
+    ],
+    "slide": "船舶设计项目总体进展 infographics.png",
+    "method": "原图裁切",
+    "path": "assets/进展_型线工程图.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "原图内的小号工程编号不可辨读，保留图像"
+  },
+  {
+    "name": "进展_总布置工程图",
+    "source": "船舶设计项目总体进展 infographics.png",
+    "region": [
+      359,
+      579,
+      785,
+      797
+    ],
+    "slide": "船舶设计项目总体进展 infographics.png",
+    "method": "原图裁切",
+    "path": "assets/进展_总布置工程图.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "原图工程细节和极小编号保留为图像"
+  },
+  {
+    "name": "进展_舱容模型",
+    "source": "船舶设计项目总体进展 infographics.png",
+    "region": [
+      1259,
+      578,
+      1606,
+      706
+    ],
+    "slide": "船舶设计项目总体进展 infographics.png",
+    "method": "原图裁切并排除相邻图表区域",
+    "path": "assets/进展_舱容模型.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "保留原图局部；内部细节为栅格图像",
+    "alpha_verified": true
+  },
+  {
+    "name": "成果_船侧视图",
+    "source": "船舶总体设计与快速性初估.png",
+    "region": [
+      67,
+      226,
+      653,
+      346
+    ],
+    "slide": "船舶总体设计与快速性初估.png",
+    "method": "原图裁切",
+    "path": "assets/成果_船侧视图.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "保留原图局部；内部细节为栅格图像"
+  },
+  {
+    "name": "成果_船俯视图",
+    "source": "船舶总体设计与快速性初估.png",
+    "region": [
+      61,
+      375,
+      640,
+      479
+    ],
+    "slide": "船舶总体设计与快速性初估.png",
+    "method": "原图裁切",
+    "path": "assets/成果_船俯视图.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "保留原图局部；内部细节为栅格图像"
+  },
+  {
+    "name": "主机A",
+    "source": "船舶总体设计与快速性初估.png",
+    "region": [
+      844,
+      666,
+      975,
+      781
+    ],
+    "slide": "船舶总体设计与快速性初估.png",
+    "method": "原图裁切",
+    "path": "assets/主机A.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "保留原图局部；内部细节为栅格图像"
+  },
+  {
+    "name": "主机B",
+    "source": "船舶总体设计与快速性初估.png",
+    "region": [
+      1246,
+      667,
+      1383,
+      782
+    ],
+    "slide": "船舶总体设计与快速性初估.png",
+    "method": "原图裁切",
+    "path": "assets/主机B.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "保留原图局部；内部细节为栅格图像"
+  },
+  {
+    "name": "三维船体模型_原始局部",
+    "source": "型线设计与三维建模阶段成果.png",
+    "region": [
+      53,
+      166,
+      925,
+      520
+    ],
+    "slide": "型线设计与三维建模阶段成果.png",
+    "method": "原图裁切与标注区域透明排除",
+    "path": "assets/三维船体模型_原始局部.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切及 Alpha 遮罩；未调用生成模型",
+    "known_difference": "提取时将叠加标注区域设为透明；船体像素未生成或修复，三个标注另建为原生对象",
+    "alpha_verified": true
+  },
+  {
+    "name": "二维型线图",
+    "source": "型线设计与三维建模阶段成果.png",
+    "region": [
+      965,
+      172,
+      1615,
+      483
+    ],
+    "slide": "型线设计与三维建模阶段成果.png",
+    "method": "原图裁切",
+    "path": "assets/二维型线图.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "工程图内部的极小表格和站位标号原图模糊，未虚构或转写，作为原始图像保留"
+  },
+  {
+    "name": "横剖面_ST_2",
+    "source": "型线设计与三维建模阶段成果.png",
+    "region": [
+      87,
+      668,
+      219,
+      787
+    ],
+    "slide": "型线设计与三维建模阶段成果.png",
+    "method": "原图裁切",
+    "path": "assets/横剖面_ST_2.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "保留原图局部；内部细节为栅格图像"
+  },
+  {
+    "name": "横剖面_ST_6",
+    "source": "型线设计与三维建模阶段成果.png",
+    "region": [
+      263,
+      668,
+      396,
+      787
+    ],
+    "slide": "型线设计与三维建模阶段成果.png",
+    "method": "原图裁切",
+    "path": "assets/横剖面_ST_6.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "保留原图局部；内部细节为栅格图像"
+  },
+  {
+    "name": "横剖面_ST_10",
+    "source": "型线设计与三维建模阶段成果.png",
+    "region": [
+      440,
+      668,
+      571,
+      787
+    ],
+    "slide": "型线设计与三维建模阶段成果.png",
+    "method": "原图裁切",
+    "path": "assets/横剖面_ST_10.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "保留原图局部；内部细节为栅格图像"
+  },
+  {
+    "name": "横剖面_ST_16",
+    "source": "型线设计与三维建模阶段成果.png",
+    "region": [
+      618,
+      668,
+      748,
+      787
+    ],
+    "slide": "型线设计与三维建模阶段成果.png",
+    "method": "原图裁切",
+    "path": "assets/横剖面_ST_16.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "保留原图局部；内部细节为栅格图像"
+  },
+  {
+    "name": "横剖面_ST_20.25",
+    "source": "型线设计与三维建模阶段成果.png",
+    "region": [
+      794,
+      668,
+      926,
+      787
+    ],
+    "slide": "型线设计与三维建模阶段成果.png",
+    "method": "原图裁切",
+    "path": "assets/横剖面_ST_20.25.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "保留原图局部；内部细节为栅格图像"
+  },
+  {
+    "name": "困难_蓝色船体",
+    "source": "船舶设计困难与解决措施闭环分析.png",
+    "region": [
+      49,
+      180,
+      396,
+      347
+    ],
+    "slide": "船舶设计困难与解决措施闭环分析.png",
+    "method": "原图裁切",
+    "path": "assets/困难_蓝色船体.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "保留原图局部；内部细节为栅格图像"
+  },
+  {
+    "name": "困难_货舱船体",
+    "source": "船舶设计困难与解决措施闭环分析.png",
+    "region": [
+      51,
+      432,
+      394,
+      606
+    ],
+    "slide": "船舶设计困难与解决措施闭环分析.png",
+    "method": "原图裁切",
+    "path": "assets/困难_货舱船体.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "保留原图局部；内部细节为栅格图像"
+  },
+  {
+    "name": "困难_尾部螺旋桨",
+    "source": "船舶设计困难与解决措施闭环分析.png",
+    "region": [
+      72,
+      695,
+      367,
+      844
+    ],
+    "slide": "船舶设计困难与解决措施闭环分析.png",
+    "method": "原图裁切",
+    "path": "assets/困难_尾部螺旋桨.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "保留原图局部；内部细节为栅格图像"
+  },
+  {
+    "name": "规划_船舶线稿",
+    "source": "大学船舶设计进展规划时间轴.png",
+    "region": [
+      1464,
+      713,
+      1622,
+      833
+    ],
+    "slide": "大学船舶设计进展规划时间轴.png",
+    "method": "原图裁切及灰度主体提取，排除蓝色正文",
+    "path": "assets/规划_船舶线稿.png",
+    "prompt": null,
+    "tool": "Pillow 精确裁切",
+    "known_difference": "极浅背景转为透明；少量接近正文颜色的线稿边缘可能减弱",
+    "alpha_verified": true
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "units": "m",
+  "geometry_and_text_match": true,
+  "counts": {
+    "TEXT": 67,
+    "LWPOLYLINE": 87
+  },
+  "coordinate_tolerance_m": 1e-06,
+  "converter": "GNU LibreDWG 0.14.8612, AC1015 R2000",
+  "commands": [
+    {
+      "executable": "dxf2dwg.exe",
+      "stdout": "Reading DXF file exchange.dxf\nWriting DWG file verified.dwg as r2000\n",
+      "stderr": ""
+    },
+    {
+      "executable": "dwg2dxf.exe",
+      "stdout": "Reading DWG file verified.dwg\nWriting DXF file reopened.dxf\n",
+      "stderr": "Warning: Empty ENDBLK for \"*Model_Space\" 1F\n"
+    }
+  ],
+  "importer_fixes": [
+    "Removed invalid type ACDBPLACEHOLDER(#D6) from DICTIONARY(#E)<ACAD_MATERIAL>, expected type MATERIAL",
+    "Removed invalid type ACDBPLACEHOLDER(#20) from DICTIONARY(#E)<ACAD_MATERIAL>, expected type MATERIAL",
+    "Removed invalid type ACDBPLACEHOLDER(#21) from DICTIONARY(#E)<ACAD_MATERIAL>, expected type MATERIAL"
+  ],
+  "native_AutoCAD_open_checked": false
+}

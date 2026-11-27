@@ -1,0 +1,44 @@
+[
+  {
+    "output": "model.png",
+    "source": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\outputs\\B组_首次汇报综合材料_v0.3_20261101\\图像\\01_组员三维曲面预览.png",
+    "source_size": [
+      2000,
+      1100
+    ],
+    "crop": [
+      80,
+      210,
+      1935,
+      690
+    ]
+  },
+  {
+    "output": "lines.png",
+    "source": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\outputs\\B组_首次汇报综合材料_v0.3_20261101\\图像\\02_组员型线图全图.png",
+    "source_size": [
+      5884,
+      2584
+    ],
+    "crop": [
+      20,
+      30,
+      5870,
+      2160
+    ]
+  },
+  {
+    "output": "section.png",
+    "source": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\outputs\\B组_首次汇报综合材料_v0.3_20261101\\图像\\04_典型横剖面.png",
+    "source_size": [
+      1807,
+      1089
+    ],
+    "crop": [
+      0,
+      70,
+      900,
+      1030
+    ]
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "text": "当前难以确定满载浮态与排水量的闭合关系",
+    "name": "文字_当前难以确定满载浮态与排水量的闭合关系",
+    "boundWidth": 209.87505,
+    "width": 202.67944,
+    "boundHeight": 13.09,
+    "slide": 1,
+    "height": 21.244017
+  },
+  {
+    "text": "空船重量初估 8310.7 t",
+    "name": "文字_空船重量初估 8310.7 t",
+    "boundWidth": 113.62504,
+    "width": 109.09094,
+    "boundHeight": 13.09,
+    "slide": 1,
+    "height": 19.521496
+  },
+  {
+    "text": "33500 t为载重量，包含货物、油水、人员\r和备品，尚不能直接等同为货物重量",
+    "name": "文字_33500 t为载重量，包含货物、油水、人员_和备品，尚不能直接等同为货",
+    "boundWidth": 205.62505,
+    "width": 202.67944,
+    "boundHeight": 26.18,
+    "slide": 1,
+    "height": 32.153072
+  },
+  {
+    "text": "主机两方案初步比选\r（≈14.42 / 14.44 kn）",
+    "name": "文字_主机两方案初步比选_（≈14.42 / 14.44 kn）",
+    "boundWidth": 116.5,
+    "width": 109.09094,
+    "boundHeight": 26.18,
+    "slide": 1,
+    "height": 30.43063
+  },
+  {
+    "text": "+",
+    "name": "文字_+",
+    "boundWidth": 46.75,
+    "width": 35.59811,
+    "boundHeight": 53.05,
+    "slide": 2,
+    "height": 41.339684
+  },
+  {
+    "text": "+",
+    "name": "文字_+",
+    "boundWidth": 46.75,
+    "width": 35.59811,
+    "boundHeight": 53.05,
+    "slide": 2,
+    "height": 41.339684
+  },
+  {
+    "text": "D = 14.407 m",
+    "name": "文字_D = 14.407 m",
+    "boundWidth": 74.12504,
+    "width": 67.17701,
+    "boundHeight": 13.09,
+    "slide": 3,
+    "height": 16.65071
+  },
+  {
+    "text": "由 “分别完成”\r转向 “相互验证”",
+    "name": "文字_由 “分别完成”_转向 “相互验证”",
+    "boundWidth": 158.0,
+    "width": 143.54071,
+    "boundHeight": 44.09,
+    "slide": 3,
+    "height": 49.952126
+  },
+  {
+    "text": "总布置/舱容",
+    "name": "文字_总布置/舱容",
+    "boundWidth": 69.37504,
+    "width": 65.45457,
+    "boundHeight": 14.47,
+    "slide": 4,
+    "height": 23.540709
+  },
+  {
+    "text": "快速性/推进",
+    "name": "文字_快速性/推进",
+    "boundWidth": 69.37504,
+    "width": 66.60284,
+    "boundHeight": 14.47,
+    "slide": 4,
+    "height": 23.540709
+  },
+  {
+    "text": "船型：钢质、单机单桨、尾机型双壳散货船\r航区：国际无限航区",
+    "name": "文字_船型：钢质、单机单桨、尾机型双壳散货船_航区：国际无限航区",
+    "boundWidth": 188.12505,
+    "width": 186.60283,
+    "boundHeight": 23.42,
+    "slide": 4,
+    "height": 29.282284
+  },
+  {
+    "text": "D = 14.407 m",
+    "name": "文字_D = 14.407 m",
+    "boundWidth": 69.62504,
+    "width": 64.880394,
+    "boundHeight": 12.39504,
+    "slide": 5,
+    "height": 20.095669
+  },
+  {
+    "text": "14 kn\rRₜ=478.991 kN\rPₑ=3449.505 kW",
+    "name": "文字_14 kn_Rₜ=478.991 kN_Pₑ=3449.505 kW",
+    "boundWidth": 84.37504,
+    "width": 79.23449,
+    "boundHeight": 37.18504,
+    "slide": 5,
+    "height": 41.339684
+  },
+  {
+    "text": "输出同版本静水力参数\r（排水量、LCB、LCF、MTC、KM 等）",
+    "name": "文字_输出同版本静水力参数_（排水量、LCB、LCF、MTC、KM 等）",
+    "boundWidth": 214.7,
+    "width": 196.93779,
+    "boundHeight": 28.94,
+    "slide": 6,
+    "height": 36.74638
+  },
+  {
+    "text": "形成第一轮完整设计状态\r（型线、布置、舱容、重量、稳性、快速性）",
+    "name": "文字_形成第一轮完整设计状态_（型线、布置、舱容、重量、稳性、快速性）",
+    "boundWidth": 243.62505,
+    "width": 219.90433,
+    "boundHeight": 28.94,
+    "slide": 6,
+    "height": 36.172283
+  },
+  {
+    "text": "总布置与设备（林森崎）",
+    "name": "文字_总布置与设备（林森崎）",
+    "boundWidth": 129.87505,
+    "width": 123.44496,
+    "boundHeight": 13.77504,
+    "slide": 6,
+    "height": 18.373228
+  },
+  {
+    "text": "型线与三维建模（王弘毅）",
+    "name": "文字_型线与三维建模（王弘毅）",
+    "boundWidth": 141.37505,
+    "width": 123.44496,
+    "boundHeight": 13.77504,
+    "slide": 6,
+    "height": 18.373228
+  }
+]

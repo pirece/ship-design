@@ -1,0 +1,72 @@
+{
+  "version": "v0.1",
+  "date": "2026-10-26",
+  "status": "第一轮初算，工程校核待完成",
+  "verification": {
+    "workbook_saved_values_and_formulas": true,
+    "target_input_linkage_test": true,
+    "pdf_pages": 4,
+    "pdf_visual_review": "4页均已检查，减号缺字已修正",
+    "cross_file_numeric_consistency": true,
+    "source_files_unchanged": true,
+    "desktop_excel_recalculation_tested": false,
+    "engineering_validation_completed": false
+  },
+  "files": [
+    {
+      "path": "00_阅读说明.md",
+      "bytes": 2981,
+      "sha256": "c88cebde399cac8d727280ce5c348ddd9176df1397c2e4751b700a851a5417fc"
+    },
+    {
+      "path": "01_第一步主尺度与重量初算.xlsx",
+      "bytes": 7519,
+      "sha256": "607e2eff66bd8dc3eff967b46223c6418ced5b64156962e39bd1df0e142a32cf"
+    },
+    {
+      "path": "02_第一步结果与计算说明.md",
+      "bytes": 6681,
+      "sha256": "a952977c7a64db775f322a9901971b91c574dc5b5ec372995c601504b84e5739"
+    },
+    {
+      "path": "02_第一步结果与计算说明.pdf",
+      "bytes": 119896,
+      "sha256": "eff9faa71644b13ada3386f6bce7579e2e4a23a26f687979044a6cadf6523c69"
+    },
+    {
+      "path": "03_Codex协作交接.md",
+      "bytes": 2795,
+      "sha256": "34dcb9ee683136c9f5de23f514e7a88c248f1f3cd2d617b8b6a050e0ad19f2e8"
+    },
+    {
+      "path": "04_统一参数_v0.1.json",
+      "bytes": 3596,
+      "sha256": "d00fdeb2166e64975c741c19c91b79881c8af0ef25e37f3caabcfe50ed555b18"
+    },
+    {
+      "path": "参考资料/DC081210,101,001JS装载手册(初步)-A_20230206.pdf",
+      "bytes": 7976877,
+      "sha256": "1e67d4e3e5857c27675918c7a76264266c1d1917fff3e523777b7f3affb9c5d0"
+    },
+    {
+      "path": "参考资料/《船舶设计Ⅱ》_课程设计指导书_20261016.docx",
+      "bytes": 339263,
+      "sha256": "826909bae02e83a4b82a1b84aca3c360a82690b351426210ade0fbd01b263c5b"
+    },
+    {
+      "path": "参考资料/历史版本/母型船改造结果_旧版_仅供核对.xlsx",
+      "bytes": 12423,
+      "sha256": "6a05203d701e31d43c78a4cd308019b51c45a96cc4369481c900e5831af7c6dc"
+    },
+    {
+      "path": "参考资料/课程资料目录_最初盘点快照.md",
+      "bytes": 12768,
+      "sha256": "2a409aefbf141af9f7a098b7d3c21ce04b0e6049067fc0c09012dcc21f985382"
+    },
+    {
+      "path": "参考资料/重量重心和浮态调整.xlsx",
+      "bytes": 25366,
+      "sha256": "21f2fc737d5ab738dd5dffd251bc9331b6a1fbb6855fa71066a6593cd7ef42ea"
+    }
+  ]
+}

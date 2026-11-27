@@ -1,0 +1,297 @@
+{
+  "openings": [
+    {
+      "id": "OWIT1",
+      "source_page": 74,
+      "frame": 15,
+      "parent_xyz_m": [
+        10.6,
+        8.2,
+        19.1
+      ],
+      "B3_candidate_xyz_m": [
+        10.459550812057623,
+        8.091350628195519,
+        18.846926463235906
+      ],
+      "source_condition": "unprotected"
+    },
+    {
+      "id": "OWIT2",
+      "source_page": 74,
+      "frame": 15,
+      "parent_xyz_m": [
+        10.6,
+        -8.2,
+        19.1
+      ],
+      "B3_candidate_xyz_m": [
+        10.459550812057623,
+        -8.091350628195519,
+        18.846926463235906
+      ],
+      "source_condition": "unprotected"
+    },
+    {
+      "id": "OWIT3",
+      "source_page": 74,
+      "frame": 30,
+      "parent_xyz_m": [
+        22.6,
+        9.6,
+        19.1
+      ],
+      "B3_candidate_xyz_m": [
+        22.30055173136814,
+        9.472800735448413,
+        18.846926463235906
+      ],
+      "source_condition": "unprotected"
+    },
+    {
+      "id": "OWIT4",
+      "source_page": 74,
+      "frame": 30,
+      "parent_xyz_m": [
+        22.6,
+        -9.6,
+        19.1
+      ],
+      "B3_candidate_xyz_m": [
+        22.30055173136814,
+        -9.472800735448413,
+        18.846926463235906
+      ],
+      "source_condition": "unprotected"
+    }
+  ],
+  "main_hatches": [
+    {
+      "hold": "CH1",
+      "aft_AP_m": 141.49996098576068,
+      "fore_AP_m": 154.91976202764593,
+      "half_breadth_m": 7.597975341634903,
+      "rim_BL_m": 16.62673879086481
+    },
+    {
+      "hold": "CH2",
+      "aft_AP_m": 113.87095884070281,
+      "fore_AP_m": 133.605960372887,
+      "half_breadth_m": 9.867500766092242,
+      "rim_BL_m": 16.62673879086481
+    },
+    {
+      "hold": "CH3",
+      "aft_AP_m": 85.45255663435756,
+      "fore_AP_m": 105.18755816654176,
+      "half_breadth_m": 9.867500766092242,
+      "rim_BL_m": 16.62673879086481
+    },
+    {
+      "hold": "CH4",
+      "aft_AP_m": 57.03415442801232,
+      "fore_AP_m": 76.76915596019651,
+      "half_breadth_m": 9.867500766092242,
+      "rim_BL_m": 16.62673879086481
+    },
+    {
+      "hold": "CH5",
+      "aft_AP_m": 28.615752221667083,
+      "fore_AP_m": 48.35075375385128,
+      "half_breadth_m": 9.867500766092242,
+      "rim_BL_m": 16.62673879086481
+    }
+  ],
+  "parent_wind_table": [
+    {
+      "draft_m": 2.0,
+      "area_m2": 2923.1,
+      "centroid_BL_m": 11.164,
+      "AZ_m3": 29710.8
+    },
+    {
+      "draft_m": 2.5,
+      "area_m2": 2837.6,
+      "centroid_BL_m": 11.433,
+      "AZ_m3": 28894.4
+    },
+    {
+      "draft_m": 3.0,
+      "area_m2": 2751.7,
+      "centroid_BL_m": 11.704,
+      "AZ_m3": 28077.7
+    },
+    {
+      "draft_m": 3.5,
+      "area_m2": 2665.7,
+      "centroid_BL_m": 11.976,
+      "AZ_m3": 27260.8
+    },
+    {
+      "draft_m": 4.0,
+      "area_m2": 2579.8,
+      "centroid_BL_m": 12.25,
+      "AZ_m3": 26444.0
+    },
+    {
+      "draft_m": 4.5,
+      "area_m2": 2494.2,
+      "centroid_BL_m": 12.525,
+      "AZ_m3": 25627.8
+    },
+    {
+      "draft_m": 5.0,
+      "area_m2": 2408.7,
+      "centroid_BL_m": 12.801,
+      "AZ_m3": 24812.0
+    },
+    {
+      "draft_m": 5.5,
+      "area_m2": 2323.3,
+      "centroid_BL_m": 13.079,
+      "AZ_m3": 23996.2
+    },
+    {
+      "draft_m": 6.0,
+      "area_m2": 2237.9,
+      "centroid_BL_m": 13.358,
+      "AZ_m3": 23180.5
+    },
+    {
+      "draft_m": 6.5,
+      "area_m2": 2152.4,
+      "centroid_BL_m": 13.641,
+      "AZ_m3": 22364.6
+    },
+    {
+      "draft_m": 7.0,
+      "area_m2": 2066.7,
+      "centroid_BL_m": 13.926,
+      "AZ_m3": 21548.0
+    },
+    {
+      "draft_m": 7.5,
+      "area_m2": 1980.4,
+      "centroid_BL_m": 14.217,
+      "AZ_m3": 20729.2
+    },
+    {
+      "draft_m": 8.0,
+      "area_m2": 1893.2,
+      "centroid_BL_m": 14.515,
+      "AZ_m3": 19907.2
+    },
+    {
+      "draft_m": 8.5,
+      "area_m2": 1805.2,
+      "centroid_BL_m": 14.82,
+      "AZ_m3": 19081.9
+    },
+    {
+      "draft_m": 9.0,
+      "area_m2": 1717.4,
+      "centroid_BL_m": 15.131,
+      "AZ_m3": 18257.2
+    },
+    {
+      "draft_m": 9.5,
+      "area_m2": 1629.7,
+      "centroid_BL_m": 15.447,
+      "AZ_m3": 17433.0
+    },
+    {
+      "draft_m": 9.83,
+      "area_m2": 1571.8,
+      "centroid_BL_m": 15.66,
+      "AZ_m3": 16889.4
+    },
+    {
+      "draft_m": 10.0,
+      "area_m2": 1542.0,
+      "centroid_BL_m": 15.771,
+      "AZ_m3": 16609.4
+    },
+    {
+      "draft_m": 10.27,
+      "area_m2": 1494.7,
+      "centroid_BL_m": 15.949,
+      "AZ_m3": 16164.7
+    }
+  ],
+  "parent_bilge_keel_area_m2": 18.66,
+  "frames_basis": "P002 note F.S.660/800 at FR10 and P021 p104; P015 21CFD, 282A0, 282A3, 21F55",
+  "CAD_evidence": {
+    "P020": {
+      "source_dwg": "P020__35000DWT散货船总布置图_2010VER.dwg",
+      "converted_audit_fixes": 26,
+      "converted_audit_errors": 0,
+      "text_entities": {
+        "1E8884": "NO.5 CARGO HATCH",
+        "1EACC2": "第五舱口盖",
+        "1E8D7A": "20000x20000",
+        "23ED86": "ENGINE CASING",
+        "2957CA": "LIFTING",
+        "2957CB": "HATCH"
+      }
+    },
+    "P008": {
+      "source_dwg": "P008__DC081210,250,001小舱口盖布置图-O.dwg",
+      "converted_audit_fixes": 158,
+      "converted_audit_errors": 0,
+      "text_entities": {
+        "9A94D": "WEATHERTIGHT HATCH COVER",
+        "9A94F": "WATERTIGHT HATCH COVER",
+        "9ABBA": "所有舱口盖要进行冲水试验.",
+        "9ABBB": "3.HOSE TEST TO BE CARRIED OUT FOR WATER TIGHT HATCH COVERS.",
+        "AB364": "\"THIS COVER IS TO BE LEFT CLOSED AT SEA. THE USE OF THE COVER IS TO BE AUTHORIZED "
+      }
+    },
+    "P004": {
+      "source_dwg": "P004__DC081210,257,002艏部人孔盖布置图-0.dwg",
+      "converted_audit_fixes": 131,
+      "converted_audit_errors": 0,
+      "text_entities": {
+        "AC572": "WATERTIGHT",
+        "AD82E": "人孔盖应为钢质水密或油密结构且要带有复合橡胶垫."
+      }
+    },
+    "P005": {
+      "source_dwg": "P005__DC081210,257,003艉部人孔盖布置图-O.dwg",
+      "converted_audit_fixes": 164,
+      "converted_audit_errors": 0,
+      "text_entities": {
+        "9347B": "人孔盖 W.T.",
+        "93495": "人孔盖 O.T."
+      }
+    },
+    "P006": {
+      "source_dwg": "P006__DC081210,257,001货舱区人孔盖布置图-O.dwg",
+      "converted_audit_fixes": 209,
+      "converted_audit_errors": 0,
+      "text_entities": {
+        "9A96B": "人孔盖 W.T.",
+        "9A977": "人孔盖 O.T."
+      }
+    }
+  },
+  "actual_target_downflood_angle_deg": null,
+  "unverified_target": [
+    "CH1–CH5主舱盖密封压紧、航行关闭及试验",
+    "目标A甲板窗布置、边缘和通往内部的路径",
+    "机舱及应急机舱通风筒、通风百叶、透气管及其风雨密装置",
+    "上建门槛、吊口、舷窗、工作开口和实际开启状态"
+  ],
+  "sources_sha256": {
+    "02_references/parent_vessel/originals/P001__DC081210,300,006舱室布置图驾驶甲板-O.pdf": "5e44668f95e515311aca10c208b5c08da507337245737a760921410db0d706f4",
+    "02_references/parent_vessel/originals/P002__DC081210,300,005舱室布置图D甲板-O.pdf": "90818a0b9c0766b1c0cd45ab0c9dec24a7e6c9f45560ad183df7cb1f4f403b5c",
+    "02_references/parent_vessel/originals/P004__DC081210,257,002艏部人孔盖布置图-0.dwg": "8afd654681d142c6027e780a0f25a5539327ca5f7dfe509b23855c5b98dda291",
+    "02_references/parent_vessel/originals/P005__DC081210,257,003艉部人孔盖布置图-O.dwg": "65c2e03ca6a5fbb46b0197a06f36c15a4b7e613d006c1b98dabee76800f512bd",
+    "02_references/parent_vessel/originals/P006__DC081210,257,001货舱区人孔盖布置图-O.dwg": "3e7c4b73d5ddf377f3904a1ea5f59c428911e8f78f4dc3f2624f5f189dde978e",
+    "02_references/parent_vessel/originals/P007__DC81210,250,002舱口盖-O.dwg": "162c64ef7092c86f4ea6b48816f832105d344f450f0684538a8d1e4dbf360b22",
+    "02_references/parent_vessel/originals/P008__DC081210,250,001小舱口盖布置图-O.dwg": "1e9504b9bf00e7f7ec163a20dd9009869aa862f15855db5f3fef595c54b40526",
+    "02_references/parent_vessel/originals/P015__DC081210,103,001舱容图-A.dwg": "bc8244c150fabb85223d71dc559033668ab4f0da8d0a6f93cc61e78d46ab94e4",
+    "02_references/parent_vessel/originals/P020__35000DWT散货船总布置图_2010VER.dwg": "fe31c212eb8b1b77a34ed3f0ecdf2fb09c932189df4a3b809b10ca03ae4da82b",
+    "02_references/parent_vessel/originals/P021__DC081210,101,001JS装载手册(初步)-A_20230206 (1).pdf": "b1c5db84defc0cca44a7a5c967516f653e1a1c83f8b6b4ed2eae2b32e64c4d7b",
+    "02_references/parent_vessel/extracted/P021_pages.json": "a872c507a40bf4a0d3e1ae4be835810e3122692e68d30931096852d18bcee1fd"
+  }
+}

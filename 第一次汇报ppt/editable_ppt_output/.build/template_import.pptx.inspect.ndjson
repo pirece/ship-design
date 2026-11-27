@@ -1,0 +1,49 @@
+{"kind":"deck","id":"pr/bo3qt1","name":"Deck"}
+{"kind":"layout","id":"ly/atofqts7","editable":false,"name":"","type":"master","placeholders":[{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","id":"ly/ux4ruhcv","editable":false,"name":"封面","type":"","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑标题样式"},{"name":"25","textPreview":"​"},{"name":"body","type":"body"}]}
+{"kind":"layout","id":"ly/p83mt83u","editable":false,"name":"封面2","type":"","placeholders":[{"name":"picture","type":"picture"},{"name":"title","type":"title","textPreview":"单击此处编辑标题样式"},{"name":"25","textPreview":"​"},{"name":"body","type":"body"}]}
+{"kind":"layout","id":"ly/4v2ps7ql","editable":false,"name":"封面3","type":"","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑标题样式"},{"name":"25","textPreview":"​"},{"name":"body","type":"body"},{"name":"picture","type":"picture"}]}
+{"kind":"layout","id":"ly/3yt8jipk","editable":false,"name":"目录-1","type":"","placeholders":[{"name":"picture","type":"picture"}]}
+{"kind":"layout","id":"ly/elwrupwj","editable":false,"name":"目录-2","type":"","placeholders":[{"name":"picture","type":"picture"}]}
+{"kind":"layout","id":"ly/14ra9krq","editable":false,"name":"章节过渡页","type":"","placeholders":[{"name":"picture","type":"picture"},{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"编辑母版文本样式"}]}
+{"kind":"layout","id":"ly/07y1cjyt","editable":false,"name":"章节过渡页-2","type":"","placeholders":[{"name":"picture","type":"picture"},{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"编辑母版文本样式"}]}
+{"kind":"layout","id":"ly/bqdgbyxk","editable":false,"name":"仅标题","type":"","placeholders":[{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"},{"name":"文本占位符 31","type":"body"},{"name":"文本占位符 31","type":"body"},{"name":"文本占位符 31","type":"body"}]}
+{"kind":"layout","id":"ly/m1sra9c7","editable":false,"name":"仅标题(标题导航)","type":"","placeholders":[{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"},{"name":"文本占位符 31","type":"body"},{"name":"文本占位符 31","type":"body"}]}
+{"kind":"layout","id":"ly/2t4jax8v","editable":false,"name":"标题和内容","type":"","placeholders":[{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"},{"name":"文本占位符 31","type":"body"},{"name":"文本占位符 31","type":"body"},{"name":"文本占位符 31","type":"body"},{"name":"文本占位符 16","type":"body","textPreview":"编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"}]}
+{"kind":"layout","id":"ly/rm10zq1g","editable":false,"name":"封底","type":"","placeholders":[{"name":"body","type":"body"}]}
+{"kind":"layout","id":"ly/ov6t8ra5","editable":false,"name":"封底-2","type":"","placeholders":[{"name":"body","type":"body"}]}
+{"kind":"layout","id":"ly/psz2ps32","editable":false,"name":"封底-3","type":"","placeholders":[{"name":"body","type":"body"}]}
+{"kind":"layout","id":"ly/ilcjap47","editable":false,"name":"空白","type":"","placeholders":[{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","id":"ly/3qpgrqlg","editable":false,"name":"空白（lowpoly）","type":"","placeholders":[{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","id":"ly/sjah8f2x","editable":false,"name":"DEFAULT","type":""}
+{"kind":"layout","id":"ly/dwbupgv6","editable":false,"name":"Blank","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime","textPreview":"11/1/2026"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","id":"ly/5k7yh0v2","editable":false,"name":"","type":"master"}
+{"kind":"layout","id":"ly/qd87il83","editable":false,"name":"自定义版式","type":""}
+{"kind":"layout","id":"ly/n2hszmhw","editable":false,"name":"1_标注页","type":""}
+{"kind":"layout","id":"ly/ob2pw7at","editable":false,"name":"","type":"master","placeholders":[{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","id":"ly/nqlkrm9w","editable":false,"name":"封面","type":"","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑标题样式"},{"name":"25","textPreview":"​"},{"name":"body","type":"body"}]}
+{"kind":"layout","id":"ly/29czmt87","editable":false,"name":"封面2","type":"","placeholders":[{"name":"picture","type":"picture"},{"name":"title","type":"title","textPreview":"单击此处编辑标题样式"},{"name":"25","textPreview":"​"},{"name":"body","type":"body"}]}
+{"kind":"layout","id":"ly/lsbex8z6","editable":false,"name":"封面3","type":"","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑标题样式"},{"name":"25","textPreview":"​"},{"name":"body","type":"body"},{"name":"picture","type":"picture"}]}
+{"kind":"layout","id":"ly/cbmhk7id","editable":false,"name":"目录-1","type":"","placeholders":[{"name":"picture","type":"picture"}]}
+{"kind":"layout","id":"ly/3m907qdc","editable":false,"name":"目录-2","type":"","placeholders":[{"name":"picture","type":"picture"}]}
+{"kind":"layout","id":"ly/25gn6xsz","editable":false,"name":"章节过渡页","type":"","placeholders":[{"name":"picture","type":"picture"},{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"编辑母版文本样式"}]}
+{"kind":"layout","id":"ly/1gnihs3a","editable":false,"name":"章节过渡页-2","type":"","placeholders":[{"name":"picture","type":"picture"},{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"编辑母版文本样式"}]}
+{"kind":"layout","id":"ly/o7ih4725","editable":false,"name":"仅标题","type":"","placeholders":[{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"},{"name":"文本占位符 31","type":"body"},{"name":"文本占位符 31","type":"body"},{"name":"文本占位符 31","type":"body"}]}
+{"kind":"layout","id":"ly/jmlojadw","editable":false,"name":"仅标题(标题导航)","type":"","placeholders":[{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"},{"name":"文本占位符 31","type":"body"},{"name":"文本占位符 31","type":"body"}]}
+{"kind":"layout","id":"ly/qpkrmlsz","editable":false,"name":"标题和内容","type":"","placeholders":[{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"},{"name":"文本占位符 31","type":"body"},{"name":"文本占位符 31","type":"body"},{"name":"文本占位符 31","type":"body"},{"name":"文本占位符 16","type":"body","textPreview":"编辑母版文本样式 | 第二级 | 第三级 | 第四级 | 第五级"}]}
+{"kind":"layout","id":"ly/sjydwzq1","editable":false,"name":"封底","type":"","placeholders":[{"name":"body","type":"body"}]}
+{"kind":"layout","id":"ly/xkzyh8fq","editable":false,"name":"封底-2","type":"","placeholders":[{"name":"body","type":"body"}]}
+{"kind":"layout","id":"ly/q1grax8v","editable":false,"name":"封底-3","type":"","placeholders":[{"name":"body","type":"body"}]}
+{"kind":"layout","id":"ly/3qh8zu14","editable":false,"name":"空白","type":"","placeholders":[{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","id":"ly/0nqdkry9","editable":false,"name":"空白（lowpoly）","type":"","placeholders":[{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","id":"ly/5cnyxsrm","editable":false,"name":"DEFAULT","type":""}
+{"kind":"slide","id":"sl/y90nupkv","slideIndex":0,"layout":{"id":"ly/ux4ruhcv","name":"封面"},"title":"***汇报","textShapes":2,"backgroundColor":"rgba(255,255,255,1)"}
+{"kind":"textbox","id":"sh/547294r6","slideIndex":0,"position":{"left":112.29,"top":211.67,"width":1055.42,"height":111.38},"name":"标题 1","placeholder":"title","text":"***汇报","style":{"fontSize":72,"typeface":"Arial","color":"#C8161E","bold":true,"alignment":"center"}}
+{"kind":"textbox","id":"sh/k3yl0zql","slideIndex":0,"position":{"left":423.61,"top":462.72,"width":432.77,"height":62.83},"name":"文本占位符 2","placeholder":"body","text":"汇报人：董昱彤","style":{"fontSize":42.67,"typeface":"Arial","color":"#44546A","bold":true,"alignment":"center"}}
+{"kind":"notes","id":"nt/y90nupkv","slideIndex":0,"text":""}
+{"kind":"slide","id":"sl/hwbqtkby","slideIndex":1,"layout":{"id":"ly/qpkrmlsz","name":"标题和内容"},"title":"标题","textShapes":1,"backgroundColor":"rgba(255,255,255,1)"}
+{"kind":"textbox","id":"sh/gbmxszmt","slideIndex":1,"position":{"left":112.9,"top":4.58,"width":743.48,"height":62.83},"name":"文本占位符 24","placeholder":"body","text":"标题","style":{"fontSize":42.67,"typeface":"Arial","color":"#FFFFFF","bold":true,"alignment":"left"}}
+{"kind":"notes","id":"nt/hwbqtkby","slideIndex":1,"text":""}
+{"kind":"slide","id":"sl/ofy9wn61","slideIndex":2,"layout":{"id":"ly/ov6t8ra5","name":"封底-2"},"title":"谢谢！敬请老师同学批评指正！","textShapes":1,"backgroundColor":"rgba(200,22,30,1)"}
+{"kind":"textbox","id":"sh/d0jax03i","slideIndex":2,"position":{"left":58.07,"top":538.2,"width":1230.07,"height":62.87},"name":"文本占位符 2","placeholder":"body","text":"谢谢！敬请老师同学批评指正！","style":{"fontSize":80,"typeface":"Arial","color":"#FFFFFF","bold":true,"alignment":"center"}}
+{"kind":"notes","id":"nt/ofy9wn61","slideIndex":2,"text":""}

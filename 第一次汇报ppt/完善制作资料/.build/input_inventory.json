@@ -1,0 +1,6729 @@
+{
+  "inputs": [
+    {
+      "name": "课程指导书",
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\《船舶设计Ⅱ》_课程设计指导书_20261016.docx",
+      "bytes": 339263,
+      "sha256": "826909bae02e83a4b82a1b84aca3c360a82690b351426210ade0fbd01b263c5b"
+    },
+    {
+      "name": "综合分析",
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\outputs\\B组_首次汇报综合材料_v0.3_20261101\\01_首次汇报综合分析.docx",
+      "bytes": 2158051,
+      "sha256": "188eab3c936dae865eff7add65b9b59199aff0356e9c7f41997dcdad0fa80a8e"
+    },
+    {
+      "name": "完整文本",
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\outputs\\B组_首次汇报综合材料_v0.3_20261101\\02_供GPT读取的完整文本.txt",
+      "bytes": 15911,
+      "sha256": "98b1289a983779f948062df024355b453a86412d5b114a26ad88dfbd6d82eb23"
+    },
+    {
+      "name": "中期报告",
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\outputs\\B组_成员一_中期_v0.2_20261031\\01_成员一中期设计计算报告.docx",
+      "bytes": 55985,
+      "sha256": "74e662965091cab1c9e09b8b1bbea3ab5d77ae3225c1ab5c5d1fedb79f393604"
+    },
+    {
+      "name": "阻力工作簿",
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\outputs\\B组_成员一_中期_v0.2_20261031\\02_阻力快速性与总体校核.xlsx",
+      "bytes": 41387,
+      "sha256": "2ea18529ec18a631ea986daf63df472ff55b4226e25b96def2119d0be9314034"
+    },
+    {
+      "name": "重量工作簿",
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\outputs\\B组_成员一_中期_v0.2_20261031\\03_重量重心与浮态待补.xlsx",
+      "bytes": 25030,
+      "sha256": "e2c5d9995925aba2eb1a22d54c6759ec632a154547214d51fb5bdc64c27b149a"
+    },
+    {
+      "name": "型线补充",
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\outputs\\B组_首次汇报综合材料_v0.3_20261101\\型线图补充说明.txt",
+      "bytes": 2594,
+      "sha256": "b173d440340d3ac6be891ee17daedd6b150fdbdf48ee227bbee006679945dc97"
+    },
+    {
+      "name": "建模补充",
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\outputs\\B组_首次汇报综合材料_v0.3_20261101\\三维建模补充说明.txt",
+      "bytes": 2574,
+      "sha256": "931c8cb856aac7569911a487ee7428e0c1e274ee532618874861c0ad28ed1403"
+    },
+    {
+      "name": "模板",
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\第一次汇报ppt\\ppt模板.pptx",
+      "bytes": 5136171,
+      "sha256": "f094a3da931e3fabcfeaff417d552ae82759d46f76e910ea210c5ef61892ee69"
+    }
+  ],
+  "presentation_candidates": [
+    {
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\船舶设计II_第03讲_三维建模_20260928（上传）.pptx",
+      "slide_count": 53,
+      "mtime": 1792389812.9302363
+    },
+    {
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\第一次汇报ppt\\ppt模板.pptx",
+      "slide_count": 3,
+      "mtime": 1793546720.9166899
+    },
+    {
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\第一次汇报ppt\\editable_ppt_output\\pptx\\combined_editable.pptx",
+      "slide_count": 9,
+      "mtime": 1793551058.1355727
+    },
+    {
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\第一次汇报ppt\\editable_ppt_output\\pptx\\上海交大风格B组成员分工图_editable.pptx",
+      "slide_count": 1,
+      "mtime": 1793551059.1210377
+    },
+    {
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\第一次汇报ppt\\editable_ppt_output\\pptx\\上海交通大学船舶设计课程汇报封面_editable.pptx",
+      "slide_count": 1,
+      "mtime": 1793551059.2708406
+    },
+    {
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\第一次汇报ppt\\editable_ppt_output\\pptx\\型线设计与三维建模阶段成果_editable.pptx",
+      "slide_count": 1,
+      "mtime": 1793551059.4099917
+    },
+    {
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\第一次汇报ppt\\editable_ppt_output\\pptx\\大学船舶设计进展规划时间轴_editable.pptx",
+      "slide_count": 1,
+      "mtime": 1793551058.9854126
+    },
+    {
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\第一次汇报ppt\\editable_ppt_output\\pptx\\船舶总体设计与快速性初估_editable.pptx",
+      "slide_count": 1,
+      "mtime": 1793551058.8419876
+    },
+    {
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\第一次汇报ppt\\editable_ppt_output\\pptx\\船舶总体设计流程与任务概览_editable.pptx",
+      "slide_count": 1,
+      "mtime": 1793551058.7002373
+    },
+    {
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\第一次汇报ppt\\editable_ppt_output\\pptx\\船舶设计任务信息图幻灯片_editable.pptx",
+      "slide_count": 1,
+      "mtime": 1793551058.4252062
+    },
+    {
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\第一次汇报ppt\\editable_ppt_output\\pptx\\船舶设计困难与解决措施闭环分析_editable.pptx",
+      "slide_count": 1,
+      "mtime": 1793551058.2838492
+    },
+    {
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\第一次汇报ppt\\editable_ppt_output\\pptx\\船舶设计项目总体进展 infographics_editable.pptx",
+      "slide_count": 1,
+      "mtime": 1793551058.5690224
+    },
+    {
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\第一次汇报ppt\\editable_ppt_output\\source\\template.pptx",
+      "slide_count": 3,
+      "mtime": 1793546720.9166899
+    }
+  ],
+  "eight_page_found": false,
+  "selected": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\第一次汇报ppt\\editable_ppt_output\\pptx\\combined_editable.pptx",
+  "workbooks": {
+    "阻力工作簿": {
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\outputs\\B组_成员一_中期_v0.2_20261031\\02_阻力快速性与总体校核.xlsx",
+      "sheets": {
+        "ship": {
+          "A1": {
+            "formula": null,
+            "value": "母型船资料"
+          },
+          "A2": {
+            "formula": null,
+            "value": "意义"
+          },
+          "B2": {
+            "formula": null,
+            "value": "符号"
+          },
+          "C2": {
+            "formula": null,
+            "value": "数值"
+          },
+          "D2": {
+            "formula": null,
+            "value": "单位"
+          },
+          "E2": {
+            "formula": null,
+            "value": "估算数值"
+          },
+          "A3": {
+            "formula": null,
+            "value": "载重吨"
+          },
+          "B3": {
+            "formula": null,
+            "value": "DWT"
+          },
+          "C3": {
+            "formula": null,
+            "value": 35000
+          },
+          "A4": {
+            "formula": null,
+            "value": "垂线间长度"
+          },
+          "B4": {
+            "formula": null,
+            "value": "Lpp"
+          },
+          "C4": {
+            "formula": null,
+            "value": 172
+          },
+          "D4": {
+            "formula": null,
+            "value": "m"
+          },
+          "A5": {
+            "formula": null,
+            "value": "水线面长度"
+          },
+          "B5": {
+            "formula": null,
+            "value": "L_WL"
+          },
+          "C5": {
+            "formula": null,
+            "value": 175.2
+          },
+          "D5": {
+            "formula": null,
+            "value": "m"
+          },
+          "A6": {
+            "formula": null,
+            "value": "去流段长度"
+          },
+          "B6": {
+            "formula": null,
+            "value": "L_R"
+          },
+          "C6": {
+            "formula": null,
+            "value": 74.6
+          },
+          "D6": {
+            "formula": null,
+            "value": "m"
+          },
+          "A7": {
+            "formula": null,
+            "value": "型宽"
+          },
+          "B7": {
+            "formula": null,
+            "value": "B"
+          },
+          "C7": {
+            "formula": null,
+            "value": 28.8
+          },
+          "D7": {
+            "formula": null,
+            "value": "m"
+          },
+          "A8": {
+            "formula": null,
+            "value": "吃水"
+          },
+          "B8": {
+            "formula": null,
+            "value": "T"
+          },
+          "C8": {
+            "formula": null,
+            "value": 9.83
+          },
+          "D8": {
+            "formula": null,
+            "value": "m"
+          },
+          "A9": {
+            "formula": null,
+            "value": "艏吃水"
+          },
+          "B9": {
+            "formula": null,
+            "value": "TF"
+          },
+          "C9": {
+            "formula": null,
+            "value": 9.83
+          },
+          "D9": {
+            "formula": null,
+            "value": "m"
+          },
+          "A10": {
+            "formula": null,
+            "value": "艉吃水"
+          },
+          "B10": {
+            "formula": null,
+            "value": "TA"
+          },
+          "C10": {
+            "formula": null,
+            "value": 9.83
+          },
+          "D10": {
+            "formula": null,
+            "value": "m"
+          },
+          "A11": {
+            "formula": null,
+            "value": "型排水体积"
+          },
+          "B11": {
+            "formula": null,
+            "value": "∇"
+          },
+          "C11": {
+            "formula": null,
+            "value": 40301.2
+          },
+          "D11": {
+            "formula": null,
+            "value": "m^3"
+          },
+          "A12": {
+            "formula": null,
+            "value": "浮性纵向位置"
+          },
+          "B12": {
+            "formula": null,
+            "value": "lcb"
+          },
+          "C12": {
+            "formula": null,
+            "value": 2.55
+          },
+          "D12": {
+            "formula": null,
+            "value": "%L"
+          },
+          "A13": {
+            "formula": null,
+            "value": "半进流角"
+          },
+          "B13": {
+            "formula": null,
+            "value": "i_E"
+          },
+          "C13": {
+            "formula": null,
+            "value": 43.7439
+          },
+          "D13": {
+            "formula": null,
+            "value": "degrees"
+          },
+          "E13": {
+            "formula": "=1+89*EXP(-POWER(C25,0.80856)*POWER(1-C17,0.30484)*POWER(1-C15-0.0225*C12,0.6367)*POWER(C28,0.34574)*POWER(100/C29,0.16302))",
+            "value": 43.74387812381478
+          },
+          "A14": {
+            "formula": null,
+            "value": "方形系数(基于L_WL)"
+          },
+          "B14": {
+            "formula": null,
+            "value": "C_B"
+          },
+          "C14": {
+            "formula": null,
+            "value": 0.8125
+          },
+          "A15": {
+            "formula": null,
+            "value": "棱形系数(基于L_WL)"
+          },
+          "B15": {
+            "formula": null,
+            "value": "C_P"
+          },
+          "C15": {
+            "formula": null,
+            "value": 0.8163
+          },
+          "A16": {
+            "formula": null,
+            "value": "中横剖面系数"
+          },
+          "B16": {
+            "formula": null,
+            "value": "C_M"
+          },
+          "C16": {
+            "formula": null,
+            "value": 0.9956
+          },
+          "A17": {
+            "formula": null,
+            "value": "水线面系数"
+          },
+          "B17": {
+            "formula": null,
+            "value": "C_WP"
+          },
+          "C17": {
+            "formula": null,
+            "value": 0.9102
+          },
+          "A18": {
+            "formula": null,
+            "value": "裸船湿表面积"
+          },
+          "B18": {
+            "formula": null,
+            "value": "S_BH"
+          },
+          "C18": {
+            "formula": null,
+            "value": 7250
+          },
+          "D18": {
+            "formula": null,
+            "value": "m^2"
+          },
+          "A19": {
+            "formula": null,
+            "value": "附体湿表面积"
+          },
+          "B19": {
+            "formula": null,
+            "value": "S_APP"
+          },
+          "C19": {
+            "formula": null,
+            "value": 34.498
+          },
+          "D19": {
+            "formula": null,
+            "value": "m^2"
+          },
+          "A20": {
+            "formula": null,
+            "value": "总湿表面积"
+          },
+          "B20": {
+            "formula": null,
+            "value": "S_TOT"
+          },
+          "C20": {
+            "formula": "=C18+C19",
+            "value": 7284.498
+          },
+          "D20": {
+            "formula": null,
+            "value": "m^2"
+          },
+          "A21": {
+            "formula": null,
+            "value": "艉封板浸水面积"
+          },
+          "B21": {
+            "formula": null,
+            "value": "A_T"
+          },
+          "C21": {
+            "formula": "=2.4729*2",
+            "value": 4.9458
+          },
+          "D21": {
+            "formula": null,
+            "value": "m^2"
+          },
+          "A22": {
+            "formula": null,
+            "value": "球鼻艏横截面积"
+          },
+          "B22": {
+            "formula": null,
+            "value": "A_BT"
+          },
+          "C22": {
+            "formula": "=20.4593*2",
+            "value": 40.9186
+          },
+          "D22": {
+            "formula": null,
+            "value": "m^2"
+          },
+          "A23": {
+            "formula": null,
+            "value": "球鼻艏横截面形心高度"
+          },
+          "B23": {
+            "formula": null,
+            "value": "h_B"
+          },
+          "C23": {
+            "formula": null,
+            "value": 4.681
+          },
+          "D23": {
+            "formula": null,
+            "value": "m"
+          },
+          "A24": {
+            "formula": null,
+            "value": "船尾类型"
+          },
+          "B24": {
+            "formula": null,
+            "value": "C_stern"
+          },
+          "C24": {
+            "formula": null,
+            "value": -10
+          },
+          "E24": {
+            "formula": null,
+            "value": "V-shaped section"
+          },
+          "B25": {
+            "formula": null,
+            "value": "L/B"
+          },
+          "C25": {
+            "formula": "=C5/C7",
+            "value": 6.083333333333333
+          },
+          "B26": {
+            "formula": null,
+            "value": "T/B"
+          },
+          "C26": {
+            "formula": "=C8/C7",
+            "value": 0.34131944444444445
+          },
+          "B27": {
+            "formula": null,
+            "value": "L/T"
+          },
+          "C27": {
+            "formula": "=C5/C8",
+            "value": 17.822990844354017
+          },
+          "B28": {
+            "formula": null,
+            "value": "L_R/B"
+          },
+          "C28": {
+            "formula": "=C6/C7",
+            "value": 2.5902777777777777
+          },
+          "B29": {
+            "formula": null,
+            "value": "L^3/∇"
+          },
+          "C29": {
+            "formula": "=POWER(C5,3)/C11",
+            "value": 133.43947594612567
+          },
+          "A31": {
+            "formula": null,
+            "value": "资料来源：课程Holtrop方法第1—2页；DWT为船型名义称谓。"
+          },
+          "A32": {
+            "formula": null,
+            "value": "9.83 m状态总排水量41442.3 t，不能与名义35000 t载重混为一体。"
+          },
+          "A33": {
+            "formula": null,
+            "value": "以下公式沿用课程参数；新船模型实测值返回后另版复算。"
+          }
+        },
+        "HoltropMennen": {
+          "A2": {
+            "formula": null,
+            "value": "密度"
+          },
+          "B2": {
+            "formula": null,
+            "value": "rho"
+          },
+          "C2": {
+            "formula": null,
+            "value": 1025
+          },
+          "A3": {
+            "formula": null,
+            "value": "运动粘性系数"
+          },
+          "B3": {
+            "formula": null,
+            "value": "nu"
+          },
+          "C3": {
+            "formula": null,
+            "value": 1.189e-06
+          },
+          "A4": {
+            "formula": null,
+            "value": "重力加速度"
+          },
+          "B4": {
+            "formula": null,
+            "value": "g"
+          },
+          "C4": {
+            "formula": null,
+            "value": 9.81
+          },
+          "A6": {
+            "formula": null,
+            "value": "V(kn)"
+          },
+          "B6": {
+            "formula": null,
+            "value": 11
+          },
+          "C6": {
+            "formula": null,
+            "value": 12
+          },
+          "D6": {
+            "formula": null,
+            "value": 13
+          },
+          "E6": {
+            "formula": null,
+            "value": 14
+          },
+          "F6": {
+            "formula": null,
+            "value": 15
+          },
+          "G6": {
+            "formula": null,
+            "value": 16
+          },
+          "I6": {
+            "formula": null,
+            "value": "母型11kn"
+          },
+          "A7": {
+            "formula": null,
+            "value": "V(m/s)"
+          },
+          "B7": {
+            "formula": "=B6*0.5144",
+            "value": 5.658399999999999
+          },
+          "C7": {
+            "formula": "=C6*0.5144",
+            "value": 6.1728
+          },
+          "D7": {
+            "formula": "=D6*0.5144",
+            "value": 6.6872
+          },
+          "E7": {
+            "formula": "=E6*0.5144",
+            "value": 7.201599999999999
+          },
+          "F7": {
+            "formula": "=F6*0.5144",
+            "value": 7.715999999999999
+          },
+          "G7": {
+            "formula": "=G6*0.5144",
+            "value": 8.2304
+          },
+          "A8": {
+            "formula": null,
+            "value": "Fn"
+          },
+          "B8": {
+            "formula": "=B7/SQRT($C$4*ship!$C$5)",
+            "value": 0.13648725218557833
+          },
+          "C8": {
+            "formula": "=C7/SQRT($C$4*ship!$C$5)",
+            "value": 0.14889518420244907
+          },
+          "D8": {
+            "formula": "=D7/SQRT($C$4*ship!$C$5)",
+            "value": 0.16130311621931984
+          },
+          "E8": {
+            "formula": "=E7/SQRT($C$4*ship!$C$5)",
+            "value": 0.1737110482361906
+          },
+          "F8": {
+            "formula": "=F7/SQRT($C$4*ship!$C$5)",
+            "value": 0.18611898025306134
+          },
+          "G8": {
+            "formula": "=G7/SQRT($C$4*ship!$C$5)",
+            "value": 0.1985269122699321
+          },
+          "I8": {
+            "formula": null,
+            "value": 0.13648725218557833
+          },
+          "A9": {
+            "formula": null,
+            "value": "Rn"
+          },
+          "B9": {
+            "formula": "=B7*ship!$C$5/$C$3",
+            "value": 833769285.1135406
+          },
+          "C9": {
+            "formula": "=C7*ship!$C$5/$C$3",
+            "value": 909566492.8511354
+          },
+          "D9": {
+            "formula": "=D7*ship!$C$5/$C$3",
+            "value": 985363700.5887299
+          },
+          "E9": {
+            "formula": "=E7*ship!$C$5/$C$3",
+            "value": 1061160908.3263243
+          },
+          "F9": {
+            "formula": "=F7*ship!$C$5/$C$3",
+            "value": 1136958116.063919
+          },
+          "G9": {
+            "formula": "=G7*ship!$C$5/$C$3",
+            "value": 1212755323.801514
+          },
+          "I9": {
+            "formula": null,
+            "value": 833769285.1135406
+          },
+          "A10": {
+            "formula": null,
+            "value": "C_F"
+          },
+          "B10": {
+            "formula": "=0.075/(LOG10(B9)-2)^2",
+            "value": 0.001565733361938658
+          },
+          "C10": {
+            "formula": "=0.075/(LOG10(C9)-2)^2",
+            "value": 0.001548774727814927
+          },
+          "D10": {
+            "formula": "=0.075/(LOG10(D9)-2)^2",
+            "value": 0.0015334164305577044
+          },
+          "E10": {
+            "formula": "=0.075/(LOG10(E9)-2)^2",
+            "value": 0.0015193996315379507
+          },
+          "F10": {
+            "formula": "=0.075/(LOG10(F9)-2)^2",
+            "value": 0.001506522338653506
+          },
+          "G10": {
+            "formula": "=0.075/(LOG10(G9)-2)^2",
+            "value": 0.0014946240583372876
+          },
+          "I10": {
+            "formula": null,
+            "value": 0.001565733361938658
+          },
+          "A11": {
+            "formula": null,
+            "value": "R_F(N)"
+          },
+          "B11": {
+            "formula": "=0.5*$C$2*B7^2*B10*ship!$C$18",
+            "value": 186267.4511810275
+          },
+          "C11": {
+            "formula": "=0.5*$C$2*C7^2*C10*ship!$C$18",
+            "value": 219272.68855917518
+          },
+          "D11": {
+            "formula": "=0.5*$C$2*D7^2*D10*ship!$C$18",
+            "value": 254788.9641388601
+          },
+          "E11": {
+            "formula": "=0.5*$C$2*E7^2*E10*ship!$C$18",
+            "value": 292793.8054437629
+          },
+          "F11": {
+            "formula": "=0.5*$C$2*F7^2*F10*ship!$C$18",
+            "value": 333266.6761084847
+          },
+          "G11": {
+            "formula": "=0.5*$C$2*G7^2*G10*ship!$C$18",
+            "value": 376188.6861871828
+          },
+          "I11": {
+            "formula": null,
+            "value": 186267.4511810275
+          },
+          "A12": {
+            "formula": null,
+            "value": "1+k1"
+          },
+          "B12": {
+            "formula": "=0.93+0.487118*(1+0.011*ship!$C$24)*(ship!$C$7/ship!$C$5)^1.06806*(ship!$C$8/ship!$C$5)^0.46106*(ship!$C$5/ship!$C$6)^0.121563*ship!$C$29^0.36486*(1-ship!$C$15)^(-0.60247)",
+            "value": 1.2366162491067039
+          },
+          "C12": {
+            "formula": "=0.93+0.487118*(1+0.011*ship!$C$24)*(ship!$C$7/ship!$C$5)^1.06806*(ship!$C$8/ship!$C$5)^0.46106*(ship!$C$5/ship!$C$6)^0.121563*ship!$C$29^0.36486*(1-ship!$C$15)^(-0.60247)",
+            "value": 1.2366162491067039
+          },
+          "D12": {
+            "formula": "=0.93+0.487118*(1+0.011*ship!$C$24)*(ship!$C$7/ship!$C$5)^1.06806*(ship!$C$8/ship!$C$5)^0.46106*(ship!$C$5/ship!$C$6)^0.121563*ship!$C$29^0.36486*(1-ship!$C$15)^(-0.60247)",
+            "value": 1.2366162491067039
+          },
+          "E12": {
+            "formula": "=0.93+0.487118*(1+0.011*ship!$C$24)*(ship!$C$7/ship!$C$5)^1.06806*(ship!$C$8/ship!$C$5)^0.46106*(ship!$C$5/ship!$C$6)^0.121563*ship!$C$29^0.36486*(1-ship!$C$15)^(-0.60247)",
+            "value": 1.2366162491067039
+          },
+          "F12": {
+            "formula": "=0.93+0.487118*(1+0.011*ship!$C$24)*(ship!$C$7/ship!$C$5)^1.06806*(ship!$C$8/ship!$C$5)^0.46106*(ship!$C$5/ship!$C$6)^0.121563*ship!$C$29^0.36486*(1-ship!$C$15)^(-0.60247)",
+            "value": 1.2366162491067039
+          },
+          "G12": {
+            "formula": "=0.93+0.487118*(1+0.011*ship!$C$24)*(ship!$C$7/ship!$C$5)^1.06806*(ship!$C$8/ship!$C$5)^0.46106*(ship!$C$5/ship!$C$6)^0.121563*ship!$C$29^0.36486*(1-ship!$C$15)^(-0.60247)",
+            "value": 1.2366162491067039
+          },
+          "I12": {
+            "formula": null,
+            "value": 1.2366162491067039
+          },
+          "A13": {
+            "formula": null,
+            "value": "1+k2"
+          },
+          "B13": {
+            "formula": "=1.4",
+            "value": 1.4
+          },
+          "C13": {
+            "formula": "=1.4",
+            "value": 1.4
+          },
+          "D13": {
+            "formula": "=1.4",
+            "value": 1.4
+          },
+          "E13": {
+            "formula": "=1.4",
+            "value": 1.4
+          },
+          "F13": {
+            "formula": "=1.4",
+            "value": 1.4
+          },
+          "G13": {
+            "formula": "=1.4",
+            "value": 1.4
+          },
+          "I13": {
+            "formula": null,
+            "value": 1.4
+          },
+          "A14": {
+            "formula": null,
+            "value": "R_APP(N)"
+          },
+          "B14": {
+            "formula": "=0.5*$C$2*B7^2*ship!$C$19*B13*B10",
+            "value": 1240.8546680248721
+          },
+          "C14": {
+            "formula": "=0.5*$C$2*C7^2*ship!$C$19*C13*C10",
+            "value": 1460.7250888110611
+          },
+          "D14": {
+            "formula": "=0.5*$C$2*D7^2*ship!$C$19*D13*D10",
+            "value": 1697.3232494906695
+          },
+          "E14": {
+            "formula": "=0.5*$C$2*E7^2*ship!$C$19*E13*E10",
+            "value": 1950.4994455556557
+          },
+          "F14": {
+            "formula": "=0.5*$C$2*F7^2*ship!$C$19*F13*F10",
+            "value": 2220.116870254718
+          },
+          "G14": {
+            "formula": "=0.5*$C$2*G7^2*ship!$C$19*G13*G10",
+            "value": 2506.0496847613244
+          },
+          "I14": {
+            "formula": null,
+            "value": 1240.854668024872
+          },
+          "A15": {
+            "formula": null,
+            "value": "C7"
+          },
+          "B15": {
+            "formula": "=IF(1/ship!$C$25<0.11,0.229577*(1/ship!$C$25)^0.33333,IF(1/ship!$C$25<0.25,1/ship!$C$25,0.5-0.0625/ship!$C$25))",
+            "value": 0.16438356164383564
+          },
+          "C15": {
+            "formula": "=IF(1/ship!$C$25<0.11,0.229577*(1/ship!$C$25)^0.33333,IF(1/ship!$C$25<0.25,1/ship!$C$25,0.5-0.0625/ship!$C$25))",
+            "value": 0.16438356164383564
+          },
+          "D15": {
+            "formula": "=IF(1/ship!$C$25<0.11,0.229577*(1/ship!$C$25)^0.33333,IF(1/ship!$C$25<0.25,1/ship!$C$25,0.5-0.0625/ship!$C$25))",
+            "value": 0.16438356164383564
+          },
+          "E15": {
+            "formula": "=IF(1/ship!$C$25<0.11,0.229577*(1/ship!$C$25)^0.33333,IF(1/ship!$C$25<0.25,1/ship!$C$25,0.5-0.0625/ship!$C$25))",
+            "value": 0.16438356164383564
+          },
+          "F15": {
+            "formula": "=IF(1/ship!$C$25<0.11,0.229577*(1/ship!$C$25)^0.33333,IF(1/ship!$C$25<0.25,1/ship!$C$25,0.5-0.0625/ship!$C$25))",
+            "value": 0.16438356164383564
+          },
+          "G15": {
+            "formula": "=IF(1/ship!$C$25<0.11,0.229577*(1/ship!$C$25)^0.33333,IF(1/ship!$C$25<0.25,1/ship!$C$25,0.5-0.0625/ship!$C$25))",
+            "value": 0.16438356164383564
+          },
+          "I15": {
+            "formula": null,
+            "value": 0.16438356164383564
+          },
+          "A16": {
+            "formula": null,
+            "value": "C1"
+          },
+          "B16": {
+            "formula": "=2223105*B15^3.78613*ship!$C$26^1.07961*(90-ship!$C$13)^(-1.37565)",
+            "value": 3.831811290989271
+          },
+          "C16": {
+            "formula": "=2223105*C15^3.78613*ship!$C$26^1.07961*(90-ship!$C$13)^(-1.37565)",
+            "value": 3.831811290989271
+          },
+          "D16": {
+            "formula": "=2223105*D15^3.78613*ship!$C$26^1.07961*(90-ship!$C$13)^(-1.37565)",
+            "value": 3.831811290989271
+          },
+          "E16": {
+            "formula": "=2223105*E15^3.78613*ship!$C$26^1.07961*(90-ship!$C$13)^(-1.37565)",
+            "value": 3.831811290989271
+          },
+          "F16": {
+            "formula": "=2223105*F15^3.78613*ship!$C$26^1.07961*(90-ship!$C$13)^(-1.37565)",
+            "value": 3.831811290989271
+          },
+          "G16": {
+            "formula": "=2223105*G15^3.78613*ship!$C$26^1.07961*(90-ship!$C$13)^(-1.37565)",
+            "value": 3.831811290989271
+          },
+          "I16": {
+            "formula": null,
+            "value": 3.831811290989271
+          },
+          "A17": {
+            "formula": null,
+            "value": "C3"
+          },
+          "B17": {
+            "formula": "=0.56*ship!$C$22^1.5/(ship!$C$7*ship!$C$8*(0.31*SQRT(ship!$C$22)+ship!$C$9-ship!$C$23))",
+            "value": 0.07259588657721562
+          },
+          "C17": {
+            "formula": "=0.56*ship!$C$22^1.5/(ship!$C$7*ship!$C$8*(0.31*SQRT(ship!$C$22)+ship!$C$9-ship!$C$23))",
+            "value": 0.07259588657721562
+          },
+          "D17": {
+            "formula": "=0.56*ship!$C$22^1.5/(ship!$C$7*ship!$C$8*(0.31*SQRT(ship!$C$22)+ship!$C$9-ship!$C$23))",
+            "value": 0.07259588657721562
+          },
+          "E17": {
+            "formula": "=0.56*ship!$C$22^1.5/(ship!$C$7*ship!$C$8*(0.31*SQRT(ship!$C$22)+ship!$C$9-ship!$C$23))",
+            "value": 0.07259588657721562
+          },
+          "F17": {
+            "formula": "=0.56*ship!$C$22^1.5/(ship!$C$7*ship!$C$8*(0.31*SQRT(ship!$C$22)+ship!$C$9-ship!$C$23))",
+            "value": 0.07259588657721562
+          },
+          "G17": {
+            "formula": "=0.56*ship!$C$22^1.5/(ship!$C$7*ship!$C$8*(0.31*SQRT(ship!$C$22)+ship!$C$9-ship!$C$23))",
+            "value": 0.07259588657721562
+          },
+          "I17": {
+            "formula": null,
+            "value": 0.07259588657721562
+          },
+          "A18": {
+            "formula": null,
+            "value": "C2"
+          },
+          "B18": {
+            "formula": "=EXP(-1.89*SQRT(B17))",
+            "value": 0.6009554397987668
+          },
+          "C18": {
+            "formula": "=EXP(-1.89*SQRT(C17))",
+            "value": 0.6009554397987668
+          },
+          "D18": {
+            "formula": "=EXP(-1.89*SQRT(D17))",
+            "value": 0.6009554397987668
+          },
+          "E18": {
+            "formula": "=EXP(-1.89*SQRT(E17))",
+            "value": 0.6009554397987668
+          },
+          "F18": {
+            "formula": "=EXP(-1.89*SQRT(F17))",
+            "value": 0.6009554397987668
+          },
+          "G18": {
+            "formula": "=EXP(-1.89*SQRT(G17))",
+            "value": 0.6009554397987668
+          },
+          "I18": {
+            "formula": null,
+            "value": 0.6009554397987668
+          },
+          "A19": {
+            "formula": null,
+            "value": "C5"
+          },
+          "B19": {
+            "formula": "=1-0.8*ship!$C$21/(ship!$C$7*ship!$C$8*ship!$C$16)",
+            "value": 0.9859623101224908
+          },
+          "C19": {
+            "formula": "=1-0.8*ship!$C$21/(ship!$C$7*ship!$C$8*ship!$C$16)",
+            "value": 0.9859623101224908
+          },
+          "D19": {
+            "formula": "=1-0.8*ship!$C$21/(ship!$C$7*ship!$C$8*ship!$C$16)",
+            "value": 0.9859623101224908
+          },
+          "E19": {
+            "formula": "=1-0.8*ship!$C$21/(ship!$C$7*ship!$C$8*ship!$C$16)",
+            "value": 0.9859623101224908
+          },
+          "F19": {
+            "formula": "=1-0.8*ship!$C$21/(ship!$C$7*ship!$C$8*ship!$C$16)",
+            "value": 0.9859623101224908
+          },
+          "G19": {
+            "formula": "=1-0.8*ship!$C$21/(ship!$C$7*ship!$C$8*ship!$C$16)",
+            "value": 0.9859623101224908
+          },
+          "I19": {
+            "formula": null,
+            "value": 0.9859623101224908
+          },
+          "A20": {
+            "formula": null,
+            "value": "C16"
+          },
+          "B20": {
+            "formula": "=IF(ship!$C$15<0.8,8.07981*ship!$C$15-13.8673*ship!$C$15^2+6.984388*ship!$C$15^3,1.73014-0.7067*ship!$C$15)",
+            "value": 1.15326079
+          },
+          "C20": {
+            "formula": "=IF(ship!$C$15<0.8,8.07981*ship!$C$15-13.8673*ship!$C$15^2+6.984388*ship!$C$15^3,1.73014-0.7067*ship!$C$15)",
+            "value": 1.15326079
+          },
+          "D20": {
+            "formula": "=IF(ship!$C$15<0.8,8.07981*ship!$C$15-13.8673*ship!$C$15^2+6.984388*ship!$C$15^3,1.73014-0.7067*ship!$C$15)",
+            "value": 1.15326079
+          },
+          "E20": {
+            "formula": "=IF(ship!$C$15<0.8,8.07981*ship!$C$15-13.8673*ship!$C$15^2+6.984388*ship!$C$15^3,1.73014-0.7067*ship!$C$15)",
+            "value": 1.15326079
+          },
+          "F20": {
+            "formula": "=IF(ship!$C$15<0.8,8.07981*ship!$C$15-13.8673*ship!$C$15^2+6.984388*ship!$C$15^3,1.73014-0.7067*ship!$C$15)",
+            "value": 1.15326079
+          },
+          "G20": {
+            "formula": "=IF(ship!$C$15<0.8,8.07981*ship!$C$15-13.8673*ship!$C$15^2+6.984388*ship!$C$15^3,1.73014-0.7067*ship!$C$15)",
+            "value": 1.15326079
+          },
+          "I20": {
+            "formula": null,
+            "value": 1.15326079
+          },
+          "A21": {
+            "formula": null,
+            "value": "m1"
+          },
+          "B21": {
+            "formula": "=0.0140407*ship!$C$27-1.75254*ship!$C$29^(-1/3)-4.79323/ship!$C$25-B20",
+            "value": -2.0338988666474913
+          },
+          "C21": {
+            "formula": "=0.0140407*ship!$C$27-1.75254*ship!$C$29^(-1/3)-4.79323/ship!$C$25-C20",
+            "value": -2.0338988666474913
+          },
+          "D21": {
+            "formula": "=0.0140407*ship!$C$27-1.75254*ship!$C$29^(-1/3)-4.79323/ship!$C$25-D20",
+            "value": -2.0338988666474913
+          },
+          "E21": {
+            "formula": "=0.0140407*ship!$C$27-1.75254*ship!$C$29^(-1/3)-4.79323/ship!$C$25-E20",
+            "value": -2.0338988666474913
+          },
+          "F21": {
+            "formula": "=0.0140407*ship!$C$27-1.75254*ship!$C$29^(-1/3)-4.79323/ship!$C$25-F20",
+            "value": -2.0338988666474913
+          },
+          "G21": {
+            "formula": "=0.0140407*ship!$C$27-1.75254*ship!$C$29^(-1/3)-4.79323/ship!$C$25-G20",
+            "value": -2.0338988666474913
+          },
+          "I21": {
+            "formula": null,
+            "value": -2.0338988666474913
+          },
+          "A22": {
+            "formula": null,
+            "value": "d"
+          },
+          "B22": {
+            "formula": "=-0.9",
+            "value": -0.9
+          },
+          "C22": {
+            "formula": "=-0.9",
+            "value": -0.9
+          },
+          "D22": {
+            "formula": "=-0.9",
+            "value": -0.9
+          },
+          "E22": {
+            "formula": "=-0.9",
+            "value": -0.9
+          },
+          "F22": {
+            "formula": "=-0.9",
+            "value": -0.9
+          },
+          "G22": {
+            "formula": "=-0.9",
+            "value": -0.9
+          },
+          "I22": {
+            "formula": null,
+            "value": -0.9
+          },
+          "A23": {
+            "formula": null,
+            "value": "C15"
+          },
+          "B23": {
+            "formula": "=IF(ship!$C$29<512,-1.69385,IF(ship!$C$29>1726.91,0,-1.69385+(ship!$C$29^(1/3)-8)/2.36))",
+            "value": -1.69385
+          },
+          "C23": {
+            "formula": "=IF(ship!$C$29<512,-1.69385,IF(ship!$C$29>1726.91,0,-1.69385+(ship!$C$29^(1/3)-8)/2.36))",
+            "value": -1.69385
+          },
+          "D23": {
+            "formula": "=IF(ship!$C$29<512,-1.69385,IF(ship!$C$29>1726.91,0,-1.69385+(ship!$C$29^(1/3)-8)/2.36))",
+            "value": -1.69385
+          },
+          "E23": {
+            "formula": "=IF(ship!$C$29<512,-1.69385,IF(ship!$C$29>1726.91,0,-1.69385+(ship!$C$29^(1/3)-8)/2.36))",
+            "value": -1.69385
+          },
+          "F23": {
+            "formula": "=IF(ship!$C$29<512,-1.69385,IF(ship!$C$29>1726.91,0,-1.69385+(ship!$C$29^(1/3)-8)/2.36))",
+            "value": -1.69385
+          },
+          "G23": {
+            "formula": "=IF(ship!$C$29<512,-1.69385,IF(ship!$C$29>1726.91,0,-1.69385+(ship!$C$29^(1/3)-8)/2.36))",
+            "value": -1.69385
+          },
+          "I23": {
+            "formula": null,
+            "value": -1.69385
+          },
+          "A24": {
+            "formula": null,
+            "value": "m4"
+          },
+          "B24": {
+            "formula": "=0.4*B23*EXP(-0.034*B8^(-3.29))",
+            "value": -3.048140386585973e-11
+          },
+          "C24": {
+            "formula": "=0.4*C23*EXP(-0.034*C8^(-3.29))",
+            "value": -1.147557140489927e-08
+          },
+          "D24": {
+            "formula": "=0.4*D23*EXP(-0.034*D8^(-3.29))",
+            "value": -7.226899844891802e-07
+          },
+          "E24": {
+            "formula": "=0.4*E23*EXP(-0.034*E8^(-3.29))",
+            "value": -1.4161053419316939e-05
+          },
+          "F24": {
+            "formula": "=0.4*F23*EXP(-0.034*F8^(-3.29))",
+            "value": -0.00012630586255613397
+          },
+          "G24": {
+            "formula": "=0.4*G23*EXP(-0.034*G8^(-3.29))",
+            "value": -0.0006529689716197116
+          },
+          "I24": {
+            "formula": null,
+            "value": -3.048140386585973e-11
+          },
+          "A25": {
+            "formula": null,
+            "value": "lambda"
+          },
+          "B25": {
+            "formula": "=IF(ship!$C$25<12,1.446*ship!$C$15-0.03*ship!$C$25,1.446*ship!$C$15-0.36)",
+            "value": 0.9978698
+          },
+          "C25": {
+            "formula": "=IF(ship!$C$25<12,1.446*ship!$C$15-0.03*ship!$C$25,1.446*ship!$C$15-0.36)",
+            "value": 0.9978698
+          },
+          "D25": {
+            "formula": "=IF(ship!$C$25<12,1.446*ship!$C$15-0.03*ship!$C$25,1.446*ship!$C$15-0.36)",
+            "value": 0.9978698
+          },
+          "E25": {
+            "formula": "=IF(ship!$C$25<12,1.446*ship!$C$15-0.03*ship!$C$25,1.446*ship!$C$15-0.36)",
+            "value": 0.9978698
+          },
+          "F25": {
+            "formula": "=IF(ship!$C$25<12,1.446*ship!$C$15-0.03*ship!$C$25,1.446*ship!$C$15-0.36)",
+            "value": 0.9978698
+          },
+          "G25": {
+            "formula": "=IF(ship!$C$25<12,1.446*ship!$C$15-0.03*ship!$C$25,1.446*ship!$C$15-0.36)",
+            "value": 0.9978698
+          },
+          "I25": {
+            "formula": null,
+            "value": 0.9978698
+          },
+          "A26": {
+            "formula": null,
+            "value": "R_W(N)"
+          },
+          "B26": {
+            "formula": "=$C$2*$C$4*ship!$C$11*B16*B18*B19*EXP(B21*B8^B22+B24*COS(B25/B8^2))",
+            "value": 4578.31566637484
+          },
+          "C26": {
+            "formula": "=$C$2*$C$4*ship!$C$11*C16*C18*C19*EXP(C21*C8^C22+C24*COS(C25/C8^2))",
+            "value": 11485.484320300458
+          },
+          "D26": {
+            "formula": "=$C$2*$C$4*ship!$C$11*D16*D18*D19*EXP(D21*D8^D22+D24*COS(D25/D8^2))",
+            "value": 25175.487594443428
+          },
+          "E26": {
+            "formula": "=$C$2*$C$4*ship!$C$11*E16*E18*E19*EXP(E21*E8^E22+E24*COS(E25/E8^2))",
+            "value": 49588.40497419937
+          },
+          "F26": {
+            "formula": "=$C$2*$C$4*ship!$C$11*F16*F18*F19*EXP(F21*F8^F22+F24*COS(F25/F8^2))",
+            "value": 89620.73297214958
+          },
+          "G26": {
+            "formula": "=$C$2*$C$4*ship!$C$11*G16*G18*G19*EXP(G21*G8^G22+G24*COS(G25/G8^2))",
+            "value": 150816.47438393382
+          },
+          "I26": {
+            "formula": null,
+            "value": 4578.31566637484
+          },
+          "A27": {
+            "formula": null,
+            "value": "P_B"
+          },
+          "B27": {
+            "formula": "=0.56*SQRT(ship!$C$22)/(ship!$C$9-ship!$C$23)",
+            "value": 0.6957056306257255
+          },
+          "C27": {
+            "formula": "=0.56*SQRT(ship!$C$22)/(ship!$C$9-ship!$C$23)",
+            "value": 0.6957056306257255
+          },
+          "D27": {
+            "formula": "=0.56*SQRT(ship!$C$22)/(ship!$C$9-ship!$C$23)",
+            "value": 0.6957056306257255
+          },
+          "E27": {
+            "formula": "=0.56*SQRT(ship!$C$22)/(ship!$C$9-ship!$C$23)",
+            "value": 0.6957056306257255
+          },
+          "F27": {
+            "formula": "=0.56*SQRT(ship!$C$22)/(ship!$C$9-ship!$C$23)",
+            "value": 0.6957056306257255
+          },
+          "G27": {
+            "formula": "=0.56*SQRT(ship!$C$22)/(ship!$C$9-ship!$C$23)",
+            "value": 0.6957056306257255
+          },
+          "I27": {
+            "formula": null,
+            "value": 0.6957056306257255
+          },
+          "A28": {
+            "formula": null,
+            "value": "Fni"
+          },
+          "B28": {
+            "formula": "=B7/SQRT($C$4*(ship!$C$9-ship!$C$23-0.25*SQRT(ship!$C$22))+0.15*B7^2)",
+            "value": 0.8988809345278933
+          },
+          "C28": {
+            "formula": "=C7/SQRT($C$4*(ship!$C$9-ship!$C$23-0.25*SQRT(ship!$C$22))+0.15*C7^2)",
+            "value": 0.9694935469399492
+          },
+          "D28": {
+            "formula": "=D7/SQRT($C$4*(ship!$C$9-ship!$C$23-0.25*SQRT(ship!$C$22))+0.15*D7^2)",
+            "value": 1.0376620110192474
+          },
+          "E28": {
+            "formula": "=E7/SQRT($C$4*(ship!$C$9-ship!$C$23-0.25*SQRT(ship!$C$22))+0.15*E7^2)",
+            "value": 1.1033377898426497
+          },
+          "F28": {
+            "formula": "=F7/SQRT($C$4*(ship!$C$9-ship!$C$23-0.25*SQRT(ship!$C$22))+0.15*F7^2)",
+            "value": 1.1664945894303944
+          },
+          "G28": {
+            "formula": "=G7/SQRT($C$4*(ship!$C$9-ship!$C$23-0.25*SQRT(ship!$C$22))+0.15*G7^2)",
+            "value": 1.227126308711943
+          },
+          "I28": {
+            "formula": null,
+            "value": 0.8988809345278933
+          },
+          "A29": {
+            "formula": null,
+            "value": "R_B(N)"
+          },
+          "B29": {
+            "formula": "=0.11*EXP(-3*B27^(-2))*B28^3*ship!$C$22^1.5*$C$2*$C$4/(1+B28^2)",
+            "value": 236.43140118269952
+          },
+          "C29": {
+            "formula": "=0.11*EXP(-3*C27^(-2))*C28^3*ship!$C$22^1.5*$C$2*$C$4/(1+C28^2)",
+            "value": 276.46833097634783
+          },
+          "D29": {
+            "formula": "=0.11*EXP(-3*D27^(-2))*D28^3*ship!$C$22^1.5*$C$2*$C$4/(1+D28^2)",
+            "value": 316.64967660605623
+          },
+          "E29": {
+            "formula": "=0.11*EXP(-3*E27^(-2))*E28^3*ship!$C$22^1.5*$C$2*$C$4/(1+E28^2)",
+            "value": 356.5203531818721
+          },
+          "F29": {
+            "formula": "=0.11*EXP(-3*F27^(-2))*F28^3*ship!$C$22^1.5*$C$2*$C$4/(1+F28^2)",
+            "value": 395.73052543608594
+          },
+          "G29": {
+            "formula": "=0.11*EXP(-3*G27^(-2))*G28^3*ship!$C$22^1.5*$C$2*$C$4/(1+G28^2)",
+            "value": 434.0188359654013
+          },
+          "I29": {
+            "formula": null,
+            "value": 236.43140118269955
+          },
+          "A30": {
+            "formula": null,
+            "value": "FnT"
+          },
+          "B30": {
+            "formula": "=B7/SQRT(2*$C$4*ship!$C$21/(ship!$C$7*(1+ship!$C$17)))",
+            "value": 4.260509447595993
+          },
+          "C30": {
+            "formula": "=C7/SQRT(2*$C$4*ship!$C$21/(ship!$C$7*(1+ship!$C$17)))",
+            "value": 4.647828488286538
+          },
+          "D30": {
+            "formula": "=D7/SQRT(2*$C$4*ship!$C$21/(ship!$C$7*(1+ship!$C$17)))",
+            "value": 5.035147528977083
+          },
+          "E30": {
+            "formula": "=E7/SQRT(2*$C$4*ship!$C$21/(ship!$C$7*(1+ship!$C$17)))",
+            "value": 5.422466569667627
+          },
+          "F30": {
+            "formula": "=F7/SQRT(2*$C$4*ship!$C$21/(ship!$C$7*(1+ship!$C$17)))",
+            "value": 5.809785610358172
+          },
+          "G30": {
+            "formula": "=G7/SQRT(2*$C$4*ship!$C$21/(ship!$C$7*(1+ship!$C$17)))",
+            "value": 6.197104651048717
+          },
+          "I30": {
+            "formula": null,
+            "value": 4.260509447595993
+          },
+          "A31": {
+            "formula": null,
+            "value": "C6"
+          },
+          "B31": {
+            "formula": "=IF(B30<5,0.2*(1-0.2*B30),0)",
+            "value": 0.029579622096160274
+          },
+          "C31": {
+            "formula": "=IF(C30<5,0.2*(1-0.2*C30),0)",
+            "value": 0.014086860468538465
+          },
+          "D31": {
+            "formula": "=IF(D30<5,0.2*(1-0.2*D30),0)",
+            "value": 0
+          },
+          "E31": {
+            "formula": "=IF(E30<5,0.2*(1-0.2*E30),0)",
+            "value": 0
+          },
+          "F31": {
+            "formula": "=IF(F30<5,0.2*(1-0.2*F30),0)",
+            "value": 0
+          },
+          "G31": {
+            "formula": "=IF(G30<5,0.2*(1-0.2*G30),0)",
+            "value": 0
+          },
+          "I31": {
+            "formula": null,
+            "value": 0.029579622096160274
+          },
+          "A32": {
+            "formula": null,
+            "value": "R_TR(N)"
+          },
+          "B32": {
+            "formula": "=0.5*$C$2*B7^2*ship!$C$21*B31",
+            "value": 2400.547651960806
+          },
+          "C32": {
+            "formula": "=0.5*$C$2*C7^2*ship!$C$21*C31",
+            "value": 1360.5328892324171
+          },
+          "D32": {
+            "formula": "=0.5*$C$2*D7^2*ship!$C$21*D31",
+            "value": 0
+          },
+          "E32": {
+            "formula": "=0.5*$C$2*E7^2*ship!$C$21*E31",
+            "value": 0
+          },
+          "F32": {
+            "formula": "=0.5*$C$2*F7^2*ship!$C$21*F31",
+            "value": 0
+          },
+          "G32": {
+            "formula": "=0.5*$C$2*G7^2*ship!$C$21*G31",
+            "value": 0
+          },
+          "I32": {
+            "formula": null,
+            "value": 2400.547651960806
+          },
+          "A33": {
+            "formula": null,
+            "value": "C4"
+          },
+          "B33": {
+            "formula": "=MIN(ship!$C$9/ship!$C$5,0.04)",
+            "value": 0.04
+          },
+          "C33": {
+            "formula": "=MIN(ship!$C$9/ship!$C$5,0.04)",
+            "value": 0.04
+          },
+          "D33": {
+            "formula": "=MIN(ship!$C$9/ship!$C$5,0.04)",
+            "value": 0.04
+          },
+          "E33": {
+            "formula": "=MIN(ship!$C$9/ship!$C$5,0.04)",
+            "value": 0.04
+          },
+          "F33": {
+            "formula": "=MIN(ship!$C$9/ship!$C$5,0.04)",
+            "value": 0.04
+          },
+          "G33": {
+            "formula": "=MIN(ship!$C$9/ship!$C$5,0.04)",
+            "value": 0.04
+          },
+          "I33": {
+            "formula": null,
+            "value": 0.04
+          },
+          "A34": {
+            "formula": null,
+            "value": "C_A"
+          },
+          "B34": {
+            "formula": "=0.006*(ship!$C$5+100)^(-0.16)-0.00205+0.003*SQRT(ship!$C$5/7.5)*ship!$C$14^4*B18*(0.04-B33)",
+            "value": 0.0003923477571832431
+          },
+          "C34": {
+            "formula": "=0.006*(ship!$C$5+100)^(-0.16)-0.00205+0.003*SQRT(ship!$C$5/7.5)*ship!$C$14^4*C18*(0.04-C33)",
+            "value": 0.0003923477571832431
+          },
+          "D34": {
+            "formula": "=0.006*(ship!$C$5+100)^(-0.16)-0.00205+0.003*SQRT(ship!$C$5/7.5)*ship!$C$14^4*D18*(0.04-D33)",
+            "value": 0.0003923477571832431
+          },
+          "E34": {
+            "formula": "=0.006*(ship!$C$5+100)^(-0.16)-0.00205+0.003*SQRT(ship!$C$5/7.5)*ship!$C$14^4*E18*(0.04-E33)",
+            "value": 0.0003923477571832431
+          },
+          "F34": {
+            "formula": "=0.006*(ship!$C$5+100)^(-0.16)-0.00205+0.003*SQRT(ship!$C$5/7.5)*ship!$C$14^4*F18*(0.04-F33)",
+            "value": 0.0003923477571832431
+          },
+          "G34": {
+            "formula": "=0.006*(ship!$C$5+100)^(-0.16)-0.00205+0.003*SQRT(ship!$C$5/7.5)*ship!$C$14^4*G18*(0.04-G33)",
+            "value": 0.0003923477571832431
+          },
+          "I34": {
+            "formula": null,
+            "value": 0.0003923477571832431
+          },
+          "A35": {
+            "formula": null,
+            "value": "R_A(N)"
+          },
+          "B35": {
+            "formula": "=0.5*$C$2*B7^2*ship!$C$20*B34",
+            "value": 46897.74518762672
+          },
+          "C35": {
+            "formula": "=0.5*$C$2*C7^2*ship!$C$20*C34",
+            "value": 55812.19261998553
+          },
+          "D35": {
+            "formula": "=0.5*$C$2*D7^2*ship!$C$20*D34",
+            "value": 65501.80939428859
+          },
+          "E35": {
+            "formula": "=0.5*$C$2*E7^2*ship!$C$20*E34",
+            "value": 75966.59551053586
+          },
+          "F35": {
+            "formula": "=0.5*$C$2*F7^2*ship!$C$20*F34",
+            "value": 87206.55096872739
+          },
+          "G35": {
+            "formula": "=0.5*$C$2*G7^2*ship!$C$20*G34",
+            "value": 99221.67576886318
+          },
+          "I35": {
+            "formula": null,
+            "value": 46897.74518762672
+          },
+          "A36": {
+            "formula": null,
+            "value": "R_T(N)"
+          },
+          "B36": {
+            "formula": "=B11*B12+B14+B26+B29+B32+B35",
+            "value": 285695.25138531823
+          },
+          "C36": {
+            "formula": "=C11*C12+C14+C26+C29+C32+C35",
+            "value": 341551.5729068955
+          },
+          "D36": {
+            "formula": "=D11*D12+D14+D26+D29+D32+D35",
+            "value": 407767.44306200836
+          },
+          "E36": {
+            "formula": "=E11*E12+E14+E26+E29+E32+E35",
+            "value": 489935.5977330169
+          },
+          "F36": {
+            "formula": "=F11*F12+F14+F26+F29+F32+F35",
+            "value": 591566.1182981009
+          },
+          "G36": {
+            "formula": "=G11*G12+G14+G26+G29+G32+G35",
+            "value": 718179.2607426966
+          },
+          "I36": {
+            "formula": null,
+            "value": 285695.25138531823
+          },
+          "A37": {
+            "formula": null,
+            "value": "P_E(kW)"
+          },
+          "B37": {
+            "formula": "=B36*B7/1000",
+            "value": 1616.5780104386847
+          },
+          "C37": {
+            "formula": "=C36*C7/1000",
+            "value": 2108.329549239684
+          },
+          "D37": {
+            "formula": "=D36*D7/1000",
+            "value": 2726.822445244262
+          },
+          "E37": {
+            "formula": "=E36*E7/1000",
+            "value": 3528.320200634094
+          },
+          "F37": {
+            "formula": "=F36*F7/1000",
+            "value": 4564.524168788146
+          },
+          "G37": {
+            "formula": "=G36*G7/1000",
+            "value": 5910.90258761669
+          },
+          "I37": {
+            "formula": null,
+            "value": 1616.5780104386847
+          },
+          "A38": {
+            "formula": null,
+            "value": "P_E 英制hp"
+          },
+          "B38": {
+            "formula": "=B37*1.34102209",
+            "value": 2167.866822206527
+          },
+          "C38": {
+            "formula": "=C37*1.34102209",
+            "value": 2827.316498530159
+          },
+          "D38": {
+            "formula": "=D37*1.34102209",
+            "value": 3656.7291345803706
+          },
+          "E38": {
+            "formula": "=E37*1.34102209",
+            "value": 4731.555329643552
+          },
+          "F38": {
+            "formula": "=F37*1.34102209",
+            "value": 6121.127740683793
+          },
+          "G38": {
+            "formula": "=G37*1.34102209",
+            "value": 7926.650941832142
+          },
+          "I38": {
+            "formula": null,
+            "value": 2167.866822206527
+          },
+          "A39": {
+            "formula": null,
+            "value": "P_E 公制PS"
+          },
+          "B39": {
+            "formula": "=B37/0.7355",
+            "value": 2197.9306736080007
+          },
+          "C39": {
+            "formula": "=C37/0.7355",
+            "value": 2866.5255598092235
+          },
+          "D39": {
+            "formula": "=D37/0.7355",
+            "value": 3707.4404422083776
+          },
+          "E39": {
+            "formula": "=E37/0.7355",
+            "value": 4797.1722646282715
+          },
+          "F39": {
+            "formula": "=F37/0.7355",
+            "value": 6206.015185299994
+          },
+          "G39": {
+            "formula": "=G37/0.7355",
+            "value": 8036.577277520992
+          },
+          "A41": {
+            "formula": null,
+            "value": "第38行保留模板英制hp；DMAU应使用第39行公制PS。"
+          },
+          "A42": {
+            "formula": null,
+            "value": "C15分支修正为L³/∇，本船处于小于512分支，修正不改变本船数值。"
+          },
+          "A43": {
+            "formula": null,
+            "value": "适用本次Fn<0.4；本表不是通用高速Holtrop程序。"
+          }
+        },
+        "对应航速母型": {
+          "A2": {
+            "formula": null,
+            "value": "密度"
+          },
+          "B2": {
+            "formula": null,
+            "value": "rho"
+          },
+          "C2": {
+            "formula": null,
+            "value": 1025
+          },
+          "A3": {
+            "formula": null,
+            "value": "运动粘性系数"
+          },
+          "B3": {
+            "formula": null,
+            "value": "nu"
+          },
+          "C3": {
+            "formula": null,
+            "value": 1.189e-06
+          },
+          "A4": {
+            "formula": null,
+            "value": "重力加速度"
+          },
+          "B4": {
+            "formula": null,
+            "value": "g"
+          },
+          "C4": {
+            "formula": null,
+            "value": 9.81
+          },
+          "A6": {
+            "formula": null,
+            "value": "V(kn)"
+          },
+          "B6": {
+            "formula": "=新船换算!B14",
+            "value": 11.073606855596395
+          },
+          "C6": {
+            "formula": "=新船换算!B15",
+            "value": 12.08029838792334
+          },
+          "D6": {
+            "formula": "=新船换算!B16",
+            "value": 13.086989920250286
+          },
+          "E6": {
+            "formula": "=新船换算!B17",
+            "value": 14.093681452577231
+          },
+          "F6": {
+            "formula": "=新船换算!B18",
+            "value": 15.100372984904176
+          },
+          "G6": {
+            "formula": "=新船换算!B19",
+            "value": 16.10706451723112
+          },
+          "A7": {
+            "formula": null,
+            "value": "V(m/s)"
+          },
+          "B7": {
+            "formula": "=B6*0.5144",
+            "value": 5.696263366518785
+          },
+          "C7": {
+            "formula": "=C6*0.5144",
+            "value": 6.214105490747766
+          },
+          "D7": {
+            "formula": "=D6*0.5144",
+            "value": 6.731947614976747
+          },
+          "E7": {
+            "formula": "=E6*0.5144",
+            "value": 7.249789739205728
+          },
+          "F7": {
+            "formula": "=F6*0.5144",
+            "value": 7.7676318634347075
+          },
+          "G7": {
+            "formula": "=G6*0.5144",
+            "value": 8.285473987663687
+          },
+          "A8": {
+            "formula": null,
+            "value": "Fn"
+          },
+          "B8": {
+            "formula": "=B7/SQRT($C$4*ship!$C$5)",
+            "value": 0.137400561045794
+          },
+          "C8": {
+            "formula": "=C7/SQRT($C$4*ship!$C$5)",
+            "value": 0.1498915211408662
+          },
+          "D8": {
+            "formula": "=D7/SQRT($C$4*ship!$C$5)",
+            "value": 0.1623824812359384
+          },
+          "E8": {
+            "formula": "=E7/SQRT($C$4*ship!$C$5)",
+            "value": 0.1748734413310106
+          },
+          "F8": {
+            "formula": "=F7/SQRT($C$4*ship!$C$5)",
+            "value": 0.18736440142608277
+          },
+          "G8": {
+            "formula": "=G7/SQRT($C$4*ship!$C$5)",
+            "value": 0.19985536152115493
+          },
+          "A9": {
+            "formula": null,
+            "value": "Rn"
+          },
+          "B9": {
+            "formula": "=B7*ship!$C$5/$C$3",
+            "value": 839348479.2380917
+          },
+          "C9": {
+            "formula": "=C7*ship!$C$5/$C$3",
+            "value": 915652886.4415548
+          },
+          "D9": {
+            "formula": "=D7*ship!$C$5/$C$3",
+            "value": 991957293.6450176
+          },
+          "E9": {
+            "formula": "=E7*ship!$C$5/$C$3",
+            "value": 1068261700.8484806
+          },
+          "F9": {
+            "formula": "=F7*ship!$C$5/$C$3",
+            "value": 1144566108.0519433
+          },
+          "G9": {
+            "formula": "=G7*ship!$C$5/$C$3",
+            "value": 1220870515.2554064
+          },
+          "A10": {
+            "formula": null,
+            "value": "C_F"
+          },
+          "B10": {
+            "formula": "=0.075/(LOG10(B9)-2)^2",
+            "value": 0.001564423684357931
+          },
+          "C10": {
+            "formula": "=0.075/(LOG10(C9)-2)^2",
+            "value": 0.0015474862660216936
+          },
+          "D10": {
+            "formula": "=0.075/(LOG10(D9)-2)^2",
+            "value": 0.001532147082623586
+          },
+          "E10": {
+            "formula": "=0.075/(LOG10(E9)-2)^2",
+            "value": 0.0015181476446735542
+          },
+          "F10": {
+            "formula": "=0.075/(LOG10(F9)-2)^2",
+            "value": 0.001505286231126967
+          },
+          "G10": {
+            "formula": "=0.075/(LOG10(G9)-2)^2",
+            "value": 0.0014934025627631414
+          },
+          "A11": {
+            "formula": null,
+            "value": "R_F(N)"
+          },
+          "B11": {
+            "formula": "=0.5*$C$2*B7^2*B10*ship!$C$18",
+            "value": 188610.72303375718
+          },
+          "C11": {
+            "formula": "=0.5*$C$2*C7^2*C10*ship!$C$18",
+            "value": 222032.17987259448
+          },
+          "D11": {
+            "formula": "=0.5*$C$2*D7^2*D10*ship!$C$18",
+            "value": 257996.48586443844
+          },
+          "E11": {
+            "formula": "=0.5*$C$2*E7^2*E10*ship!$C$18",
+            "value": 296480.8921537871
+          },
+          "F11": {
+            "formula": "=0.5*$C$2*F7^2*F10*ship!$C$18",
+            "value": 337464.60971078865
+          },
+          "G11": {
+            "formula": "=0.5*$C$2*G7^2*G10*ship!$C$18",
+            "value": 380928.51609963726
+          },
+          "A12": {
+            "formula": null,
+            "value": "1+k1"
+          },
+          "B12": {
+            "formula": "=0.93+0.487118*(1+0.011*ship!$C$24)*(ship!$C$7/ship!$C$5)^1.06806*(ship!$C$8/ship!$C$5)^0.46106*(ship!$C$5/ship!$C$6)^0.121563*ship!$C$29^0.36486*(1-ship!$C$15)^(-0.60247)",
+            "value": 1.2366162491067039
+          },
+          "C12": {
+            "formula": "=0.93+0.487118*(1+0.011*ship!$C$24)*(ship!$C$7/ship!$C$5)^1.06806*(ship!$C$8/ship!$C$5)^0.46106*(ship!$C$5/ship!$C$6)^0.121563*ship!$C$29^0.36486*(1-ship!$C$15)^(-0.60247)",
+            "value": 1.2366162491067039
+          },
+          "D12": {
+            "formula": "=0.93+0.487118*(1+0.011*ship!$C$24)*(ship!$C$7/ship!$C$5)^1.06806*(ship!$C$8/ship!$C$5)^0.46106*(ship!$C$5/ship!$C$6)^0.121563*ship!$C$29^0.36486*(1-ship!$C$15)^(-0.60247)",
+            "value": 1.2366162491067039
+          },
+          "E12": {
+            "formula": "=0.93+0.487118*(1+0.011*ship!$C$24)*(ship!$C$7/ship!$C$5)^1.06806*(ship!$C$8/ship!$C$5)^0.46106*(ship!$C$5/ship!$C$6)^0.121563*ship!$C$29^0.36486*(1-ship!$C$15)^(-0.60247)",
+            "value": 1.2366162491067039
+          },
+          "F12": {
+            "formula": "=0.93+0.487118*(1+0.011*ship!$C$24)*(ship!$C$7/ship!$C$5)^1.06806*(ship!$C$8/ship!$C$5)^0.46106*(ship!$C$5/ship!$C$6)^0.121563*ship!$C$29^0.36486*(1-ship!$C$15)^(-0.60247)",
+            "value": 1.2366162491067039
+          },
+          "G12": {
+            "formula": "=0.93+0.487118*(1+0.011*ship!$C$24)*(ship!$C$7/ship!$C$5)^1.06806*(ship!$C$8/ship!$C$5)^0.46106*(ship!$C$5/ship!$C$6)^0.121563*ship!$C$29^0.36486*(1-ship!$C$15)^(-0.60247)",
+            "value": 1.2366162491067039
+          },
+          "A13": {
+            "formula": null,
+            "value": "1+k2"
+          },
+          "B13": {
+            "formula": "=1.4",
+            "value": 1.4
+          },
+          "C13": {
+            "formula": "=1.4",
+            "value": 1.4
+          },
+          "D13": {
+            "formula": "=1.4",
+            "value": 1.4
+          },
+          "E13": {
+            "formula": "=1.4",
+            "value": 1.4
+          },
+          "F13": {
+            "formula": "=1.4",
+            "value": 1.4
+          },
+          "G13": {
+            "formula": "=1.4",
+            "value": 1.4
+          },
+          "A14": {
+            "formula": null,
+            "value": "R_APP(N)"
+          },
+          "B14": {
+            "formula": "=0.5*$C$2*B7^2*ship!$C$19*B13*B10",
+            "value": 1256.4648017249622
+          },
+          "C14": {
+            "formula": "=0.5*$C$2*C7^2*ship!$C$19*C13*C10",
+            "value": 1479.10794451623
+          },
+          "D14": {
+            "formula": "=0.5*$C$2*D7^2*ship!$C$19*D13*D10",
+            "value": 1718.690741667856
+          },
+          "E14": {
+            "formula": "=0.5*$C$2*E7^2*ship!$C$19*E13*E10",
+            "value": 1975.0616475213635
+          },
+          "F14": {
+            "formula": "=0.5*$C$2*F7^2*ship!$C$19*F13*F10",
+            "value": 2248.0821721550205
+          },
+          "G14": {
+            "formula": "=0.5*$C$2*G7^2*ship!$C$19*G13*G10",
+            "value": 2537.624927967917
+          },
+          "A15": {
+            "formula": null,
+            "value": "C7"
+          },
+          "B15": {
+            "formula": "=IF(1/ship!$C$25<0.11,0.229577*(1/ship!$C$25)^0.33333,IF(1/ship!$C$25<0.25,1/ship!$C$25,0.5-0.0625/ship!$C$25))",
+            "value": 0.16438356164383564
+          },
+          "C15": {
+            "formula": "=IF(1/ship!$C$25<0.11,0.229577*(1/ship!$C$25)^0.33333,IF(1/ship!$C$25<0.25,1/ship!$C$25,0.5-0.0625/ship!$C$25))",
+            "value": 0.16438356164383564
+          },
+          "D15": {
+            "formula": "=IF(1/ship!$C$25<0.11,0.229577*(1/ship!$C$25)^0.33333,IF(1/ship!$C$25<0.25,1/ship!$C$25,0.5-0.0625/ship!$C$25))",
+            "value": 0.16438356164383564
+          },
+          "E15": {
+            "formula": "=IF(1/ship!$C$25<0.11,0.229577*(1/ship!$C$25)^0.33333,IF(1/ship!$C$25<0.25,1/ship!$C$25,0.5-0.0625/ship!$C$25))",
+            "value": 0.16438356164383564
+          },
+          "F15": {
+            "formula": "=IF(1/ship!$C$25<0.11,0.229577*(1/ship!$C$25)^0.33333,IF(1/ship!$C$25<0.25,1/ship!$C$25,0.5-0.0625/ship!$C$25))",
+            "value": 0.16438356164383564
+          },
+          "G15": {
+            "formula": "=IF(1/ship!$C$25<0.11,0.229577*(1/ship!$C$25)^0.33333,IF(1/ship!$C$25<0.25,1/ship!$C$25,0.5-0.0625/ship!$C$25))",
+            "value": 0.16438356164383564
+          },
+          "A16": {
+            "formula": null,
+            "value": "C1"
+          },
+          "B16": {
+            "formula": "=2223105*B15^3.78613*ship!$C$26^1.07961*(90-ship!$C$13)^(-1.37565)",
+            "value": 3.831811290989271
+          },
+          "C16": {
+            "formula": "=2223105*C15^3.78613*ship!$C$26^1.07961*(90-ship!$C$13)^(-1.37565)",
+            "value": 3.831811290989271
+          },
+          "D16": {
+            "formula": "=2223105*D15^3.78613*ship!$C$26^1.07961*(90-ship!$C$13)^(-1.37565)",
+            "value": 3.831811290989271
+          },
+          "E16": {
+            "formula": "=2223105*E15^3.78613*ship!$C$26^1.07961*(90-ship!$C$13)^(-1.37565)",
+            "value": 3.831811290989271
+          },
+          "F16": {
+            "formula": "=2223105*F15^3.78613*ship!$C$26^1.07961*(90-ship!$C$13)^(-1.37565)",
+            "value": 3.831811290989271
+          },
+          "G16": {
+            "formula": "=2223105*G15^3.78613*ship!$C$26^1.07961*(90-ship!$C$13)^(-1.37565)",
+            "value": 3.831811290989271
+          },
+          "A17": {
+            "formula": null,
+            "value": "C3"
+          },
+          "B17": {
+            "formula": "=0.56*ship!$C$22^1.5/(ship!$C$7*ship!$C$8*(0.31*SQRT(ship!$C$22)+ship!$C$9-ship!$C$23))",
+            "value": 0.07259588657721562
+          },
+          "C17": {
+            "formula": "=0.56*ship!$C$22^1.5/(ship!$C$7*ship!$C$8*(0.31*SQRT(ship!$C$22)+ship!$C$9-ship!$C$23))",
+            "value": 0.07259588657721562
+          },
+          "D17": {
+            "formula": "=0.56*ship!$C$22^1.5/(ship!$C$7*ship!$C$8*(0.31*SQRT(ship!$C$22)+ship!$C$9-ship!$C$23))",
+            "value": 0.07259588657721562
+          },
+          "E17": {
+            "formula": "=0.56*ship!$C$22^1.5/(ship!$C$7*ship!$C$8*(0.31*SQRT(ship!$C$22)+ship!$C$9-ship!$C$23))",
+            "value": 0.07259588657721562
+          },
+          "F17": {
+            "formula": "=0.56*ship!$C$22^1.5/(ship!$C$7*ship!$C$8*(0.31*SQRT(ship!$C$22)+ship!$C$9-ship!$C$23))",
+            "value": 0.07259588657721562
+          },
+          "G17": {
+            "formula": "=0.56*ship!$C$22^1.5/(ship!$C$7*ship!$C$8*(0.31*SQRT(ship!$C$22)+ship!$C$9-ship!$C$23))",
+            "value": 0.07259588657721562
+          },
+          "A18": {
+            "formula": null,
+            "value": "C2"
+          },
+          "B18": {
+            "formula": "=EXP(-1.89*SQRT(B17))",
+            "value": 0.6009554397987668
+          },
+          "C18": {
+            "formula": "=EXP(-1.89*SQRT(C17))",
+            "value": 0.6009554397987668
+          },
+          "D18": {
+            "formula": "=EXP(-1.89*SQRT(D17))",
+            "value": 0.6009554397987668
+          },
+          "E18": {
+            "formula": "=EXP(-1.89*SQRT(E17))",
+            "value": 0.6009554397987668
+          },
+          "F18": {
+            "formula": "=EXP(-1.89*SQRT(F17))",
+            "value": 0.6009554397987668
+          },
+          "G18": {
+            "formula": "=EXP(-1.89*SQRT(G17))",
+            "value": 0.6009554397987668
+          },
+          "A19": {
+            "formula": null,
+            "value": "C5"
+          },
+          "B19": {
+            "formula": "=1-0.8*ship!$C$21/(ship!$C$7*ship!$C$8*ship!$C$16)",
+            "value": 0.9859623101224908
+          },
+          "C19": {
+            "formula": "=1-0.8*ship!$C$21/(ship!$C$7*ship!$C$8*ship!$C$16)",
+            "value": 0.9859623101224908
+          },
+          "D19": {
+            "formula": "=1-0.8*ship!$C$21/(ship!$C$7*ship!$C$8*ship!$C$16)",
+            "value": 0.9859623101224908
+          },
+          "E19": {
+            "formula": "=1-0.8*ship!$C$21/(ship!$C$7*ship!$C$8*ship!$C$16)",
+            "value": 0.9859623101224908
+          },
+          "F19": {
+            "formula": "=1-0.8*ship!$C$21/(ship!$C$7*ship!$C$8*ship!$C$16)",
+            "value": 0.9859623101224908
+          },
+          "G19": {
+            "formula": "=1-0.8*ship!$C$21/(ship!$C$7*ship!$C$8*ship!$C$16)",
+            "value": 0.9859623101224908
+          },
+          "A20": {
+            "formula": null,
+            "value": "C16"
+          },
+          "B20": {
+            "formula": "=IF(ship!$C$15<0.8,8.07981*ship!$C$15-13.8673*ship!$C$15^2+6.984388*ship!$C$15^3,1.73014-0.7067*ship!$C$15)",
+            "value": 1.15326079
+          },
+          "C20": {
+            "formula": "=IF(ship!$C$15<0.8,8.07981*ship!$C$15-13.8673*ship!$C$15^2+6.984388*ship!$C$15^3,1.73014-0.7067*ship!$C$15)",
+            "value": 1.15326079
+          },
+          "D20": {
+            "formula": "=IF(ship!$C$15<0.8,8.07981*ship!$C$15-13.8673*ship!$C$15^2+6.984388*ship!$C$15^3,1.73014-0.7067*ship!$C$15)",
+            "value": 1.15326079
+          },
+          "E20": {
+            "formula": "=IF(ship!$C$15<0.8,8.07981*ship!$C$15-13.8673*ship!$C$15^2+6.984388*ship!$C$15^3,1.73014-0.7067*ship!$C$15)",
+            "value": 1.15326079
+          },
+          "F20": {
+            "formula": "=IF(ship!$C$15<0.8,8.07981*ship!$C$15-13.8673*ship!$C$15^2+6.984388*ship!$C$15^3,1.73014-0.7067*ship!$C$15)",
+            "value": 1.15326079
+          },
+          "G20": {
+            "formula": "=IF(ship!$C$15<0.8,8.07981*ship!$C$15-13.8673*ship!$C$15^2+6.984388*ship!$C$15^3,1.73014-0.7067*ship!$C$15)",
+            "value": 1.15326079
+          },
+          "A21": {
+            "formula": null,
+            "value": "m1"
+          },
+          "B21": {
+            "formula": "=0.0140407*ship!$C$27-1.75254*ship!$C$29^(-1/3)-4.79323/ship!$C$25-B20",
+            "value": -2.0338988666474913
+          },
+          "C21": {
+            "formula": "=0.0140407*ship!$C$27-1.75254*ship!$C$29^(-1/3)-4.79323/ship!$C$25-C20",
+            "value": -2.0338988666474913
+          },
+          "D21": {
+            "formula": "=0.0140407*ship!$C$27-1.75254*ship!$C$29^(-1/3)-4.79323/ship!$C$25-D20",
+            "value": -2.0338988666474913
+          },
+          "E21": {
+            "formula": "=0.0140407*ship!$C$27-1.75254*ship!$C$29^(-1/3)-4.79323/ship!$C$25-E20",
+            "value": -2.0338988666474913
+          },
+          "F21": {
+            "formula": "=0.0140407*ship!$C$27-1.75254*ship!$C$29^(-1/3)-4.79323/ship!$C$25-F20",
+            "value": -2.0338988666474913
+          },
+          "G21": {
+            "formula": "=0.0140407*ship!$C$27-1.75254*ship!$C$29^(-1/3)-4.79323/ship!$C$25-G20",
+            "value": -2.0338988666474913
+          },
+          "A22": {
+            "formula": null,
+            "value": "d"
+          },
+          "B22": {
+            "formula": "=-0.9",
+            "value": -0.9
+          },
+          "C22": {
+            "formula": "=-0.9",
+            "value": -0.9
+          },
+          "D22": {
+            "formula": "=-0.9",
+            "value": -0.9
+          },
+          "E22": {
+            "formula": "=-0.9",
+            "value": -0.9
+          },
+          "F22": {
+            "formula": "=-0.9",
+            "value": -0.9
+          },
+          "G22": {
+            "formula": "=-0.9",
+            "value": -0.9
+          },
+          "A23": {
+            "formula": null,
+            "value": "C15"
+          },
+          "B23": {
+            "formula": "=IF(ship!$C$29<512,-1.69385,IF(ship!$C$29>1726.91,0,-1.69385+(ship!$C$29^(1/3)-8)/2.36))",
+            "value": -1.69385
+          },
+          "C23": {
+            "formula": "=IF(ship!$C$29<512,-1.69385,IF(ship!$C$29>1726.91,0,-1.69385+(ship!$C$29^(1/3)-8)/2.36))",
+            "value": -1.69385
+          },
+          "D23": {
+            "formula": "=IF(ship!$C$29<512,-1.69385,IF(ship!$C$29>1726.91,0,-1.69385+(ship!$C$29^(1/3)-8)/2.36))",
+            "value": -1.69385
+          },
+          "E23": {
+            "formula": "=IF(ship!$C$29<512,-1.69385,IF(ship!$C$29>1726.91,0,-1.69385+(ship!$C$29^(1/3)-8)/2.36))",
+            "value": -1.69385
+          },
+          "F23": {
+            "formula": "=IF(ship!$C$29<512,-1.69385,IF(ship!$C$29>1726.91,0,-1.69385+(ship!$C$29^(1/3)-8)/2.36))",
+            "value": -1.69385
+          },
+          "G23": {
+            "formula": "=IF(ship!$C$29<512,-1.69385,IF(ship!$C$29>1726.91,0,-1.69385+(ship!$C$29^(1/3)-8)/2.36))",
+            "value": -1.69385
+          },
+          "A24": {
+            "formula": null,
+            "value": "m4"
+          },
+          "B24": {
+            "formula": "=0.4*B23*EXP(-0.034*B8^(-3.29))",
+            "value": -5.1120145655513784e-11
+          },
+          "C24": {
+            "formula": "=0.4*C23*EXP(-0.034*C8^(-3.29))",
+            "value": -1.6921177347572833e-08
+          },
+          "D24": {
+            "formula": "=0.4*D23*EXP(-0.034*D8^(-3.29))",
+            "value": -9.74004642807983e-07
+          },
+          "E24": {
+            "formula": "=0.4*E23*EXP(-0.034*E8^(-3.29))",
+            "value": -1.789210209114671e-05
+          },
+          "F24": {
+            "formula": "=0.4*F23*EXP(-0.034*F8^(-3.29))",
+            "value": -0.00015218242488107536
+          },
+          "G24": {
+            "formula": "=0.4*G23*EXP(-0.034*G8^(-3.29))",
+            "value": -0.0007591878182623839
+          },
+          "A25": {
+            "formula": null,
+            "value": "lambda"
+          },
+          "B25": {
+            "formula": "=IF(ship!$C$25<12,1.446*ship!$C$15-0.03*ship!$C$25,1.446*ship!$C$15-0.36)",
+            "value": 0.9978698
+          },
+          "C25": {
+            "formula": "=IF(ship!$C$25<12,1.446*ship!$C$15-0.03*ship!$C$25,1.446*ship!$C$15-0.36)",
+            "value": 0.9978698
+          },
+          "D25": {
+            "formula": "=IF(ship!$C$25<12,1.446*ship!$C$15-0.03*ship!$C$25,1.446*ship!$C$15-0.36)",
+            "value": 0.9978698
+          },
+          "E25": {
+            "formula": "=IF(ship!$C$25<12,1.446*ship!$C$15-0.03*ship!$C$25,1.446*ship!$C$15-0.36)",
+            "value": 0.9978698
+          },
+          "F25": {
+            "formula": "=IF(ship!$C$25<12,1.446*ship!$C$15-0.03*ship!$C$25,1.446*ship!$C$15-0.36)",
+            "value": 0.9978698
+          },
+          "G25": {
+            "formula": "=IF(ship!$C$25<12,1.446*ship!$C$15-0.03*ship!$C$25,1.446*ship!$C$15-0.36)",
+            "value": 0.9978698
+          },
+          "A26": {
+            "formula": null,
+            "value": "R_W(N)"
+          },
+          "B26": {
+            "formula": "=$C$2*$C$4*ship!$C$11*B16*B18*B19*EXP(B21*B8^B22+B24*COS(B25/B8^2))",
+            "value": 4925.398381416935
+          },
+          "C26": {
+            "formula": "=$C$2*$C$4*ship!$C$11*C16*C18*C19*EXP(C21*C8^C22+C24*COS(C25/C8^2))",
+            "value": 12288.377166123415
+          },
+          "D26": {
+            "formula": "=$C$2*$C$4*ship!$C$11*D16*D18*D19*EXP(D21*D8^D22+D24*COS(D25/D8^2))",
+            "value": 26809.16631387944
+          },
+          "E26": {
+            "formula": "=$C$2*$C$4*ship!$C$11*E16*E18*E19*EXP(E21*E8^E22+E24*COS(E25/E8^2))",
+            "value": 52592.124507311724
+          },
+          "F26": {
+            "formula": "=$C$2*$C$4*ship!$C$11*F16*F18*F19*EXP(F21*F8^F22+F24*COS(F25/F8^2))",
+            "value": 94717.99448333199
+          },
+          "G26": {
+            "formula": "=$C$2*$C$4*ship!$C$11*G16*G18*G19*EXP(G21*G8^G22+G24*COS(G25/G8^2))",
+            "value": 158873.97081670316
+          },
+          "A27": {
+            "formula": null,
+            "value": "P_B"
+          },
+          "B27": {
+            "formula": "=0.56*SQRT(ship!$C$22)/(ship!$C$9-ship!$C$23)",
+            "value": 0.6957056306257255
+          },
+          "C27": {
+            "formula": "=0.56*SQRT(ship!$C$22)/(ship!$C$9-ship!$C$23)",
+            "value": 0.6957056306257255
+          },
+          "D27": {
+            "formula": "=0.56*SQRT(ship!$C$22)/(ship!$C$9-ship!$C$23)",
+            "value": 0.6957056306257255
+          },
+          "E27": {
+            "formula": "=0.56*SQRT(ship!$C$22)/(ship!$C$9-ship!$C$23)",
+            "value": 0.6957056306257255
+          },
+          "F27": {
+            "formula": "=0.56*SQRT(ship!$C$22)/(ship!$C$9-ship!$C$23)",
+            "value": 0.6957056306257255
+          },
+          "G27": {
+            "formula": "=0.56*SQRT(ship!$C$22)/(ship!$C$9-ship!$C$23)",
+            "value": 0.6957056306257255
+          },
+          "A28": {
+            "formula": null,
+            "value": "Fni"
+          },
+          "B28": {
+            "formula": "=B7/SQRT($C$4*(ship!$C$9-ship!$C$23-0.25*SQRT(ship!$C$22))+0.15*B7^2)",
+            "value": 0.9041603964592736
+          },
+          "C28": {
+            "formula": "=C7/SQRT($C$4*(ship!$C$9-ship!$C$23-0.25*SQRT(ship!$C$22))+0.15*C7^2)",
+            "value": 0.9750584100159769
+          },
+          "D28": {
+            "formula": "=D7/SQRT($C$4*(ship!$C$9-ship!$C$23-0.25*SQRT(ship!$C$22))+0.15*D7^2)",
+            "value": 1.0434746554312821
+          },
+          "E28": {
+            "formula": "=E7/SQRT($C$4*(ship!$C$9-ship!$C$23-0.25*SQRT(ship!$C$22))+0.15*E7^2)",
+            "value": 1.1093615845704994
+          },
+          "F28": {
+            "formula": "=F7/SQRT($C$4*(ship!$C$9-ship!$C$23-0.25*SQRT(ship!$C$22))+0.15*F7^2)",
+            "value": 1.1726943183672105
+          },
+          "G28": {
+            "formula": "=G7/SQRT($C$4*(ship!$C$9-ship!$C$23-0.25*SQRT(ship!$C$22))+0.15*G7^2)",
+            "value": 1.2334685098792988
+          },
+          "A29": {
+            "formula": null,
+            "value": "R_B(N)"
+          },
+          "B29": {
+            "formula": "=0.11*EXP(-3*B27^(-2))*B28^3*ship!$C$22^1.5*$C$2*$C$4/(1+B28^2)",
+            "value": 239.36162200381875
+          },
+          "C29": {
+            "formula": "=0.11*EXP(-3*C27^(-2))*C28^3*ship!$C$22^1.5*$C$2*$C$4/(1+C28^2)",
+            "value": 279.6962792539979
+          },
+          "D29": {
+            "formula": "=0.11*EXP(-3*D27^(-2))*D28^3*ship!$C$22^1.5*$C$2*$C$4/(1+D28^2)",
+            "value": 320.13607083479883
+          },
+          "E29": {
+            "formula": "=0.11*EXP(-3*E27^(-2))*E28^3*ship!$C$22^1.5*$C$2*$C$4/(1+E28^2)",
+            "value": 360.2263049398108
+          },
+          "F29": {
+            "formula": "=0.11*EXP(-3*F27^(-2))*F28^3*ship!$C$22^1.5*$C$2*$C$4/(1+F28^2)",
+            "value": 399.61890685795026
+          },
+          "G29": {
+            "formula": "=0.11*EXP(-3*G27^(-2))*G28^3*ship!$C$22^1.5*$C$2*$C$4/(1+G28^2)",
+            "value": 438.0550706364538
+          },
+          "A30": {
+            "formula": null,
+            "value": "FnT"
+          },
+          "B30": {
+            "formula": "=B7/SQRT(2*$C$4*ship!$C$21/(ship!$C$7*(1+ship!$C$17)))",
+            "value": 4.289018784293836
+          },
+          "C30": {
+            "formula": "=C7/SQRT(2*$C$4*ship!$C$21/(ship!$C$7*(1+ship!$C$17)))",
+            "value": 4.678929582866003
+          },
+          "D30": {
+            "formula": "=D7/SQRT(2*$C$4*ship!$C$21/(ship!$C$7*(1+ship!$C$17)))",
+            "value": 5.068840381438171
+          },
+          "E30": {
+            "formula": "=E7/SQRT(2*$C$4*ship!$C$21/(ship!$C$7*(1+ship!$C$17)))",
+            "value": 5.458751180010338
+          },
+          "F30": {
+            "formula": "=F7/SQRT(2*$C$4*ship!$C$21/(ship!$C$7*(1+ship!$C$17)))",
+            "value": 5.848661978582504
+          },
+          "G30": {
+            "formula": "=G7/SQRT(2*$C$4*ship!$C$21/(ship!$C$7*(1+ship!$C$17)))",
+            "value": 6.23857277715467
+          },
+          "A31": {
+            "formula": null,
+            "value": "C6"
+          },
+          "B31": {
+            "formula": "=IF(B30<5,0.2*(1-0.2*B30),0)",
+            "value": 0.028439248628246563
+          },
+          "C31": {
+            "formula": "=IF(C30<5,0.2*(1-0.2*C30),0)",
+            "value": 0.012842816685359894
+          },
+          "D31": {
+            "formula": "=IF(D30<5,0.2*(1-0.2*D30),0)",
+            "value": 0
+          },
+          "E31": {
+            "formula": "=IF(E30<5,0.2*(1-0.2*E30),0)",
+            "value": 0
+          },
+          "F31": {
+            "formula": "=IF(F30<5,0.2*(1-0.2*F30),0)",
+            "value": 0
+          },
+          "G31": {
+            "formula": "=IF(G30<5,0.2*(1-0.2*G30),0)",
+            "value": 0
+          },
+          "A32": {
+            "formula": null,
+            "value": "R_TR(N)"
+          },
+          "B32": {
+            "formula": "=0.5*$C$2*B7^2*ship!$C$21*B31",
+            "value": 2338.9915850806365
+          },
+          "C32": {
+            "formula": "=0.5*$C$2*C7^2*ship!$C$21*C31",
+            "value": 1257.0366690951948
+          },
+          "D32": {
+            "formula": "=0.5*$C$2*D7^2*ship!$C$21*D31",
+            "value": 0
+          },
+          "E32": {
+            "formula": "=0.5*$C$2*E7^2*ship!$C$21*E31",
+            "value": 0
+          },
+          "F32": {
+            "formula": "=0.5*$C$2*F7^2*ship!$C$21*F31",
+            "value": 0
+          },
+          "G32": {
+            "formula": "=0.5*$C$2*G7^2*ship!$C$21*G31",
+            "value": 0
+          },
+          "A33": {
+            "formula": null,
+            "value": "C4"
+          },
+          "B33": {
+            "formula": "=MIN(ship!$C$9/ship!$C$5,0.04)",
+            "value": 0.04
+          },
+          "C33": {
+            "formula": "=MIN(ship!$C$9/ship!$C$5,0.04)",
+            "value": 0.04
+          },
+          "D33": {
+            "formula": "=MIN(ship!$C$9/ship!$C$5,0.04)",
+            "value": 0.04
+          },
+          "E33": {
+            "formula": "=MIN(ship!$C$9/ship!$C$5,0.04)",
+            "value": 0.04
+          },
+          "F33": {
+            "formula": "=MIN(ship!$C$9/ship!$C$5,0.04)",
+            "value": 0.04
+          },
+          "G33": {
+            "formula": "=MIN(ship!$C$9/ship!$C$5,0.04)",
+            "value": 0.04
+          },
+          "A34": {
+            "formula": null,
+            "value": "C_A"
+          },
+          "B34": {
+            "formula": "=0.006*(ship!$C$5+100)^(-0.16)-0.00205+0.003*SQRT(ship!$C$5/7.5)*ship!$C$14^4*B18*(0.04-B33)",
+            "value": 0.0003923477571832431
+          },
+          "C34": {
+            "formula": "=0.006*(ship!$C$5+100)^(-0.16)-0.00205+0.003*SQRT(ship!$C$5/7.5)*ship!$C$14^4*C18*(0.04-C33)",
+            "value": 0.0003923477571832431
+          },
+          "D34": {
+            "formula": "=0.006*(ship!$C$5+100)^(-0.16)-0.00205+0.003*SQRT(ship!$C$5/7.5)*ship!$C$14^4*D18*(0.04-D33)",
+            "value": 0.0003923477571832431
+          },
+          "E34": {
+            "formula": "=0.006*(ship!$C$5+100)^(-0.16)-0.00205+0.003*SQRT(ship!$C$5/7.5)*ship!$C$14^4*E18*(0.04-E33)",
+            "value": 0.0003923477571832431
+          },
+          "F34": {
+            "formula": "=0.006*(ship!$C$5+100)^(-0.16)-0.00205+0.003*SQRT(ship!$C$5/7.5)*ship!$C$14^4*F18*(0.04-F33)",
+            "value": 0.0003923477571832431
+          },
+          "G34": {
+            "formula": "=0.006*(ship!$C$5+100)^(-0.16)-0.00205+0.003*SQRT(ship!$C$5/7.5)*ship!$C$14^4*G18*(0.04-G33)",
+            "value": 0.0003923477571832431
+          },
+          "A35": {
+            "formula": null,
+            "value": "R_A(N)"
+          },
+          "B35": {
+            "formula": "=0.5*$C$2*B7^2*ship!$C$20*B34",
+            "value": 47527.480665400544
+          },
+          "C35": {
+            "formula": "=0.5*$C$2*C7^2*ship!$C$20*C34",
+            "value": 56561.629882790745
+          },
+          "D35": {
+            "formula": "=0.5*$C$2*D7^2*ship!$C$20*D34",
+            "value": 66381.35729299748
+          },
+          "E35": {
+            "formula": "=0.5*$C$2*E7^2*ship!$C$20*E34",
+            "value": 76986.66289602076
+          },
+          "F35": {
+            "formula": "=0.5*$C$2*F7^2*ship!$C$20*F34",
+            "value": 88377.54669186054
+          },
+          "G35": {
+            "formula": "=0.5*$C$2*G7^2*ship!$C$20*G34",
+            "value": 100554.00868051687
+          },
+          "A36": {
+            "formula": null,
+            "value": "R_T(N)"
+          },
+          "B36": {
+            "formula": "=B11*B12+B14+B26+B29+B32+B35",
+            "value": 289526.7819149351
+          },
+          "C36": {
+            "formula": "=C11*C12+C14+C26+C29+C32+C35",
+            "value": 346434.44939681236
+          },
+          "D36": {
+            "formula": "=D11*D12+D14+D26+D29+D32+D35",
+            "value": 414271.9970517722
+          },
+          "E36": {
+            "formula": "=E11*E12+E14+E26+E29+E32+E35",
+            "value": 498547.16414281906
+          },
+          "F36": {
+            "formula": "=F11*F12+F14+F26+F29+F32+F35",
+            "value": 603057.4621210187
+          },
+          "G36": {
+            "formula": "=G11*G12+G14+G26+G29+G32+G35",
+            "value": 733466.0522527405
+          },
+          "A37": {
+            "formula": null,
+            "value": "P_E(kW)"
+          },
+          "B37": {
+            "formula": "=B36*B7/1000",
+            "value": 1649.2208014481184
+          },
+          "C37": {
+            "formula": "=C36*C7/1000",
+            "value": 2152.780214180911
+          },
+          "D37": {
+            "formula": "=D36*D7/1000",
+            "value": 2788.857382504332
+          },
+          "E37": {
+            "formula": "=E36*E7/1000",
+            "value": 3614.362115112723
+          },
+          "F37": {
+            "formula": "=F36*F7/1000",
+            "value": 4684.328358253294
+          },
+          "G37": {
+            "formula": "=G36*G7/1000",
+            "value": 6077.1138967744555
+          },
+          "A38": {
+            "formula": null,
+            "value": "P_E 英制hp"
+          },
+          "B38": {
+            "formula": "=B37*1.34102209",
+            "value": 2211.6415260294307
+          },
+          "C38": {
+            "formula": "=C37*1.34102209",
+            "value": 2886.925822131533
+          },
+          "D38": {
+            "formula": "=D37*1.34102209",
+            "value": 3739.919355797889
+          },
+          "E38": {
+            "formula": "=E37*1.34102209",
+            "value": 4846.939437625285
+          },
+          "F38": {
+            "formula": "=F37*1.34102209",
+            "value": 6281.787805231102
+          },
+          "G38": {
+            "formula": "=G37*1.34102209",
+            "value": 8149.543979020525
+          },
+          "A39": {
+            "formula": null,
+            "value": "P_E 公制PS"
+          },
+          "B39": {
+            "formula": "=B37/0.7355",
+            "value": 2242.312442485545
+          },
+          "C39": {
+            "formula": "=C37/0.7355",
+            "value": 2926.9615420542636
+          },
+          "D39": {
+            "formula": "=D37/0.7355",
+            "value": 3791.7843405905255
+          },
+          "E39": {
+            "formula": "=E37/0.7355",
+            "value": 4914.156512729739
+          },
+          "F39": {
+            "formula": "=F37/0.7355",
+            "value": 6368.903274307673
+          },
+          "G39": {
+            "formula": "=G37/0.7355",
+            "value": 8262.56138242618
+          },
+          "A41": {
+            "formula": null,
+            "value": "第38行保留模板英制hp；DMAU应使用第39行公制PS。"
+          },
+          "A42": {
+            "formula": null,
+            "value": "C15分支修正为L³/∇，本船处于小于512分支，修正不改变本船数值。"
+          },
+          "A43": {
+            "formula": null,
+            "value": "适用本次Fn<0.4；本表不是通用高速Holtrop程序。"
+          }
+        },
+        "新船换算": {
+          "A2": {
+            "formula": null,
+            "value": "新船性能参考吃水下的相似换算"
+          },
+          "A4": {
+            "formula": null,
+            "value": "输入与比例"
+          },
+          "B4": {
+            "formula": null,
+            "value": "数值"
+          },
+          "C4": {
+            "formula": null,
+            "value": "单位"
+          },
+          "A5": {
+            "formula": null,
+            "value": "目标载重量"
+          },
+          "B5": {
+            "formula": null,
+            "value": 33500
+          },
+          "C5": {
+            "formula": null,
+            "value": "t"
+          },
+          "A6": {
+            "formula": null,
+            "value": "母型满载总排水量"
+          },
+          "B6": {
+            "formula": null,
+            "value": 43517.7
+          },
+          "C6": {
+            "formula": null,
+            "value": "t"
+          },
+          "A7": {
+            "formula": null,
+            "value": "母型空船重量"
+          },
+          "B7": {
+            "formula": null,
+            "value": 8650
+          },
+          "C7": {
+            "formula": null,
+            "value": "t"
+          },
+          "A8": {
+            "formula": null,
+            "value": "质量比例 r"
+          },
+          "B8": {
+            "formula": "=B5/(B6-B7)",
+            "value": 0.9607745850744386
+          },
+          "C8": {
+            "formula": null,
+            "value": "—"
+          },
+          "A9": {
+            "formula": null,
+            "value": "长度比例 k"
+          },
+          "B9": {
+            "formula": "=B8^(1/3)",
+            "value": 0.9867500766092098
+          },
+          "C9": {
+            "formula": null,
+            "value": "—"
+          },
+          "A10": {
+            "formula": null,
+            "value": "新船性能参考吃水"
+          },
+          "B10": {
+            "formula": "=ship!C8*B9",
+            "value": 9.699753253068533
+          },
+          "C10": {
+            "formula": null,
+            "value": "m"
+          },
+          "A11": {
+            "formula": null,
+            "value": "新船满载参考吃水"
+          },
+          "B11": {
+            "formula": "=10.27*B9",
+            "value": 10.133923286776584
+          },
+          "C11": {
+            "formula": null,
+            "value": "m"
+          },
+          "A13": {
+            "formula": null,
+            "value": "新船航速 kn"
+          },
+          "B13": {
+            "formula": null,
+            "value": "母型对应航速 kn"
+          },
+          "C13": {
+            "formula": null,
+            "value": "母型阻力 N"
+          },
+          "D13": {
+            "formula": null,
+            "value": "母型有效功率 kW"
+          },
+          "E13": {
+            "formula": null,
+            "value": "新船阻力 N"
+          },
+          "F13": {
+            "formula": null,
+            "value": "新船有效功率 kW"
+          },
+          "G13": {
+            "formula": null,
+            "value": "新船有效功率 PS"
+          },
+          "A14": {
+            "formula": null,
+            "value": 11
+          },
+          "B14": {
+            "formula": "=A14/SQRT($B$9)",
+            "value": 11.073606855596395
+          },
+          "C14": {
+            "formula": "=对应航速母型!B36",
+            "value": 289526.7819149351
+          },
+          "D14": {
+            "formula": "=对应航速母型!B37",
+            "value": 1649.2208014481184
+          },
+          "E14": {
+            "formula": "=C14*$B$8",
+            "value": 278169.97376225924
+          },
+          "F14": {
+            "formula": "=D14*$B$8^(7/6)",
+            "value": 1573.9969795363675
+          },
+          "G14": {
+            "formula": "=F14/0.7355",
+            "value": 2140.036681898528
+          },
+          "A15": {
+            "formula": null,
+            "value": 12
+          },
+          "B15": {
+            "formula": "=A15/SQRT($B$9)",
+            "value": 12.08029838792334
+          },
+          "C15": {
+            "formula": "=对应航速母型!C36",
+            "value": 346434.44939681236
+          },
+          "D15": {
+            "formula": "=对应航速母型!C37",
+            "value": 2152.780214180911
+          },
+          "E15": {
+            "formula": "=C15*$B$8",
+            "value": 332845.41437471396
+          },
+          "F15": {
+            "formula": "=D15*$B$8^(7/6)",
+            "value": 2054.5881738522344
+          },
+          "G15": {
+            "formula": "=F15/0.7355",
+            "value": 2793.457748269523
+          },
+          "A16": {
+            "formula": null,
+            "value": 13
+          },
+          "B16": {
+            "formula": "=A16/SQRT($B$9)",
+            "value": 13.086989920250286
+          },
+          "C16": {
+            "formula": "=对应航速母型!D36",
+            "value": 414271.9970517722
+          },
+          "D16": {
+            "formula": "=对应航速母型!D37",
+            "value": 2788.857382504332
+          },
+          "E16": {
+            "formula": "=C16*$B$8",
+            "value": 398022.0060753755
+          },
+          "F16": {
+            "formula": "=D16*$B$8^(7/6)",
+            "value": 2661.652759027251
+          },
+          "G16": {
+            "formula": "=F16/0.7355",
+            "value": 3618.8344786230464
+          },
+          "A17": {
+            "formula": null,
+            "value": 14
+          },
+          "B17": {
+            "formula": "=A17/SQRT($B$9)",
+            "value": 14.093681452577231
+          },
+          "C17": {
+            "formula": "=对应航速母型!E36",
+            "value": 498547.16414281906
+          },
+          "D17": {
+            "formula": "=对应航速母型!E37",
+            "value": 3614.362115112723
+          },
+          "E17": {
+            "formula": "=C17*$B$8",
+            "value": 478991.444769355
+          },
+          "F17": {
+            "formula": "=D17*$B$8^(7/6)",
+            "value": 3449.504788650987
+          },
+          "G17": {
+            "formula": "=F17/0.7355",
+            "value": 4690.0133088388675
+          },
+          "A18": {
+            "formula": null,
+            "value": 15
+          },
+          "B18": {
+            "formula": "=A18/SQRT($B$9)",
+            "value": 15.100372984904176
+          },
+          "C18": {
+            "formula": "=对应航速母型!F36",
+            "value": 603057.4621210187
+          },
+          "D18": {
+            "formula": "=对应航速母型!F37",
+            "value": 4684.328358253294
+          },
+          "E18": {
+            "formula": "=C18*$B$8",
+            "value": 579402.2829453656
+          },
+          "F18": {
+            "formula": "=D18*$B$8^(7/6)",
+            "value": 4470.668015206441
+          },
+          "G18": {
+            "formula": "=F18/0.7355",
+            "value": 6078.406546847642
+          },
+          "A19": {
+            "formula": null,
+            "value": 16
+          },
+          "B19": {
+            "formula": "=A19/SQRT($B$9)",
+            "value": 16.10706451723112
+          },
+          "C19": {
+            "formula": "=对应航速母型!G36",
+            "value": 733466.0522527405
+          },
+          "D19": {
+            "formula": "=对应航速母型!G37",
+            "value": 6077.1138967744555
+          },
+          "E19": {
+            "formula": "=C19*$B$8",
+            "value": 704695.5420193132
+          },
+          "F19": {
+            "formula": "=D19*$B$8^(7/6)",
+            "value": 5799.926189035754
+          },
+          "G19": {
+            "formula": "=F19/0.7355",
+            "value": 7885.691623434063
+          },
+          "A22": {
+            "formula": null,
+            "value": "依据：v0.1几何相似比例，课程流程第8步。"
+          },
+          "A23": {
+            "formula": null,
+            "value": "在相同Fn下比较，不能将两船同为14 kn时的功率直接乘r^(7/6)。"
+          },
+          "A24": {
+            "formula": null,
+            "value": "满载10.134 m及压载工况：待新模型静水力和船型参数，不由本表替代。"
+          },
+          "A25": {
+            "formula": null,
+            "value": "14 kn附近估算，不含风浪、污底及附加海况裕量。"
+          }
+        },
+        "推进与主机": {
+          "A2": {
+            "formula": null,
+            "value": "推进因子与主机候选比较"
+          },
+          "A4": {
+            "formula": null,
+            "value": "参数"
+          },
+          "B4": {
+            "formula": null,
+            "value": "母型修正复算"
+          },
+          "C4": {
+            "formula": null,
+            "value": "新船相似初选"
+          },
+          "D4": {
+            "formula": null,
+            "value": "新船候选A"
+          },
+          "E4": {
+            "formula": null,
+            "value": "新船候选B"
+          },
+          "A5": {
+            "formula": null,
+            "value": "主机型号"
+          },
+          "B5": {
+            "formula": null,
+            "value": "6S42MC"
+          },
+          "C5": {
+            "formula": null,
+            "value": "尚未选型"
+          },
+          "D5": {
+            "formula": null,
+            "value": "5G45ME-C9.7"
+          },
+          "E5": {
+            "formula": null,
+            "value": "6S40ME-C9.5"
+          },
+          "F5": {
+            "formula": null,
+            "value": "型号与参数：厂家2026手册第32、33、104、106页。"
+          },
+          "A6": {
+            "formula": null,
+            "value": "MCR kW"
+          },
+          "B6": {
+            "formula": null,
+            "value": 6480
+          },
+          "D6": {
+            "formula": null,
+            "value": 6950
+          },
+          "E6": {
+            "formula": null,
+            "value": 6810
+          },
+          "F6": {
+            "formula": null,
+            "value": "候选A供中期布置与能效比较；未最终定型。"
+          },
+          "A7": {
+            "formula": null,
+            "value": "MCR转速 rpm"
+          },
+          "B7": {
+            "formula": null,
+            "value": 136
+          },
+          "D7": {
+            "formula": null,
+            "value": 111
+          },
+          "E7": {
+            "formula": null,
+            "value": 146
+          },
+          "A8": {
+            "formula": null,
+            "value": "CSR比例"
+          },
+          "B8": {
+            "formula": null,
+            "value": 0.9
+          },
+          "C8": {
+            "formula": null,
+            "value": 0.9
+          },
+          "D8": {
+            "formula": null,
+            "value": 0.9
+          },
+          "E8": {
+            "formula": null,
+            "value": 0.9
+          },
+          "A9": {
+            "formula": null,
+            "value": "本次输入功率 kW"
+          },
+          "B9": {
+            "formula": null,
+            "value": 5832
+          },
+          "C9": {
+            "formula": null,
+            "value": 5565.99
+          },
+          "D9": {
+            "formula": null,
+            "value": 6255
+          },
+          "E9": {
+            "formula": null,
+            "value": 6129
+          },
+          "F9": {
+            "formula": null,
+            "value": "功率为90%MCR；CSR转速按螺旋桨立方律初估。"
+          },
+          "A10": {
+            "formula": null,
+            "value": "本次输入转速 rpm"
+          },
+          "B10": {
+            "formula": null,
+            "value": 131.4
+          },
+          "C10": {
+            "formula": null,
+            "value": 132.28
+          },
+          "D10": {
+            "formula": null,
+            "value": 107.17
+          },
+          "E10": {
+            "formula": null,
+            "value": 140.96
+          },
+          "A11": {
+            "formula": null,
+            "value": "伴流分数 w"
+          },
+          "B11": {
+            "formula": null,
+            "value": 0.3563
+          },
+          "C11": {
+            "formula": null,
+            "value": 0.3563
+          },
+          "D11": {
+            "formula": null,
+            "value": 0.3563
+          },
+          "E11": {
+            "formula": null,
+            "value": 0.3563
+          },
+          "F11": {
+            "formula": null,
+            "value": "w=0.5CB−0.05，t=0.27CB；输入定宽舍入至4位小数。"
+          },
+          "A12": {
+            "formula": null,
+            "value": "推力减额 t"
+          },
+          "B12": {
+            "formula": null,
+            "value": 0.2194
+          },
+          "C12": {
+            "formula": null,
+            "value": 0.2194
+          },
+          "D12": {
+            "formula": null,
+            "value": 0.2194
+          },
+          "E12": {
+            "formula": null,
+            "value": 0.2194
+          },
+          "A13": {
+            "formula": null,
+            "value": "相对旋转效率"
+          },
+          "B13": {
+            "formula": null,
+            "value": 1
+          },
+          "C13": {
+            "formula": null,
+            "value": 1
+          },
+          "D13": {
+            "formula": null,
+            "value": 1
+          },
+          "E13": {
+            "formula": null,
+            "value": 1
+          },
+          "A14": {
+            "formula": null,
+            "value": "轴系效率"
+          },
+          "B14": {
+            "formula": null,
+            "value": 0.99
+          },
+          "C14": {
+            "formula": null,
+            "value": 0.99
+          },
+          "D14": {
+            "formula": null,
+            "value": 0.99
+          },
+          "E14": {
+            "formula": null,
+            "value": 0.99
+          },
+          "A15": {
+            "formula": null,
+            "value": "桨径 m"
+          },
+          "B15": {
+            "formula": null,
+            "value": 5.3
+          },
+          "C15": {
+            "formula": null,
+            "value": 5.2298
+          },
+          "D15": {
+            "formula": null,
+            "value": 5.2298
+          },
+          "E15": {
+            "formula": null,
+            "value": 5.23
+          },
+          "F15": {
+            "formula": null,
+            "value": "Dmax、轴高按母型缩尺；实际尾部净空尚待成员二、三核对。"
+          },
+          "A16": {
+            "formula": null,
+            "value": "盘面比"
+          },
+          "B16": {
+            "formula": null,
+            "value": 0.53065
+          },
+          "C16": {
+            "formula": null,
+            "value": 0.52851
+          },
+          "D16": {
+            "formula": null,
+            "value": 0.72118
+          },
+          "E16": {
+            "formula": null,
+            "value": 0.52563
+          },
+          "A17": {
+            "formula": null,
+            "value": "螺距比 未修正"
+          },
+          "B17": {
+            "formula": null,
+            "value": 0.68801
+          },
+          "C17": {
+            "formula": null,
+            "value": 0.68801
+          },
+          "D17": {
+            "formula": null,
+            "value": 0.99529
+          },
+          "E17": {
+            "formula": null,
+            "value": 0.65094
+          },
+          "A18": {
+            "formula": null,
+            "value": "螺距比 厚度修正"
+          },
+          "B18": {
+            "formula": null,
+            "value": 0.70009
+          },
+          "C18": {
+            "formula": null,
+            "value": 0.70055
+          },
+          "D18": {
+            "formula": null,
+            "value": 1.01479
+          },
+          "E18": {
+            "formula": null,
+            "value": 0.65963
+          },
+          "A19": {
+            "formula": null,
+            "value": "敞水效率"
+          },
+          "B19": {
+            "formula": null,
+            "value": 0.53153
+          },
+          "C19": {
+            "formula": null,
+            "value": 0.53169
+          },
+          "D19": {
+            "formula": null,
+            "value": 0.50993
+          },
+          "E19": {
+            "formula": null,
+            "value": 0.52564
+          },
+          "A20": {
+            "formula": null,
+            "value": "船后推进效率 不含轴系"
+          },
+          "B20": {
+            "formula": null,
+            "value": 0.64458
+          },
+          "C20": {
+            "formula": null,
+            "value": 0.64477
+          },
+          "D20": {
+            "formula": null,
+            "value": 0.61839
+          },
+          "E20": {
+            "formula": null,
+            "value": 0.63743
+          },
+          "A21": {
+            "formula": null,
+            "value": "DMAU估算航速 kn"
+          },
+          "B21": {
+            "formula": null,
+            "value": 14.21
+          },
+          "C21": {
+            "formula": null,
+            "value": 14.12
+          },
+          "D21": {
+            "formula": null,
+            "value": 14.42
+          },
+          "E21": {
+            "formula": null,
+            "value": 14.44
+          },
+          "F21": {
+            "formula": null,
+            "value": "软件数值为本版快照，修改船型、主机、推进因子必须重跑DMAU。"
+          },
+          "A22": {
+            "formula": null,
+            "value": "75%负荷SFOC g/kWh"
+          },
+          "D22": {
+            "formula": null,
+            "value": 163
+          },
+          "E22": {
+            "formula": null,
+            "value": 170
+          },
+          "F22": {
+            "formula": null,
+            "value": "油耗为L1、低负荷EGB、Tier II、LCV=42700 kJ/kg参考值。"
+          },
+          "A23": {
+            "formula": null,
+            "value": "100%负荷SFOC g/kWh"
+          },
+          "B23": {
+            "formula": null,
+            "value": 177
+          },
+          "D23": {
+            "formula": null,
+            "value": 169.5
+          },
+          "E23": {
+            "formula": null,
+            "value": 176.5
+          },
+          "A24": {
+            "formula": null,
+            "value": "Tier II主机干重 t"
+          },
+          "D24": {
+            "formula": null,
+            "value": 165
+          },
+          "E24": {
+            "formula": null,
+            "value": 126
+          },
+          "F24": {
+            "formula": null,
+            "value": "干重不含全套机电与基础；不能在空船粗估上重复叠加。"
+          },
+          "A25": {
+            "formula": null,
+            "value": "最小机长 mm"
+          },
+          "D25": {
+            "formula": null,
+            "value": 5200
+          },
+          "E25": {
+            "formula": null,
+            "value": 5342
+          },
+          "A26": {
+            "formula": null,
+            "value": "含轴系总推进效率"
+          },
+          "B26": {
+            "formula": "=B19*B14*(1-B12)/(1-B11)",
+            "value": 0.6381283125990367
+          },
+          "C26": {
+            "formula": "=C19*C14*(1-C12)/(1-C11)",
+            "value": 0.6383204005903372
+          },
+          "D26": {
+            "formula": "=D19*D14*(1-D12)/(1-D11)",
+            "value": 0.612196433773497
+          },
+          "E26": {
+            "formula": "=E19*E14*(1-E12)/(1-E11)",
+            "value": 0.6310570734192946
+          },
+          "A27": {
+            "formula": null,
+            "value": "本次航速校核"
+          },
+          "B27": {
+            "formula": "=IF(B21>=14,\"本次估算达到14 kn\",\"本次估算未达到\")",
+            "value": "本次估算达到14 kn"
+          },
+          "C27": {
+            "formula": "=IF(C21>=14,\"本次估算达到14 kn\",\"本次估算未达到\")",
+            "value": "本次估算达到14 kn"
+          },
+          "D27": {
+            "formula": "=IF(D21>=14,\"本次估算达到14 kn\",\"本次估算未达到\")",
+            "value": "本次估算达到14 kn"
+          },
+          "E27": {
+            "formula": "=IF(E21>=14,\"本次估算达到14 kn\",\"本次估算未达到\")",
+            "value": "本次估算达到14 kn"
+          },
+          "A30": {
+            "formula": null,
+            "value": "课程净空下限"
+          },
+          "B30": {
+            "formula": null,
+            "value": "系数"
+          },
+          "C30": {
+            "formula": null,
+            "value": "候选A下限 m"
+          },
+          "D30": {
+            "formula": null,
+            "value": "实测值 m"
+          },
+          "A31": {
+            "formula": null,
+            "value": "a"
+          },
+          "B31": {
+            "formula": null,
+            "value": 0.12
+          },
+          "C31": {
+            "formula": "=B31*$D$15",
+            "value": 0.627576
+          },
+          "F31": {
+            "formula": null,
+            "value": "仅按课程引用计算数值；实测值与现行CCS条款核对后才可判通过。"
+          },
+          "A32": {
+            "formula": null,
+            "value": "b"
+          },
+          "B32": {
+            "formula": null,
+            "value": 0.2
+          },
+          "C32": {
+            "formula": "=B32*$D$15",
+            "value": 1.04596
+          },
+          "A33": {
+            "formula": null,
+            "value": "c"
+          },
+          "B33": {
+            "formula": null,
+            "value": 0.14
+          },
+          "C33": {
+            "formula": "=B33*$D$15",
+            "value": 0.732172
+          },
+          "A34": {
+            "formula": null,
+            "value": "d"
+          },
+          "B34": {
+            "formula": null,
+            "value": 0.04
+          },
+          "C34": {
+            "formula": "=B34*$D$15",
+            "value": 0.20919200000000002
+          }
+        },
+        "EEDI与续航": {
+          "A2": {
+            "formula": null,
+            "value": "EEDI与续航分阶段计算"
+          },
+          "A4": {
+            "formula": null,
+            "value": "参数"
+          },
+          "B4": {
+            "formula": null,
+            "value": "数值"
+          },
+          "C4": {
+            "formula": null,
+            "value": "单位"
+          },
+          "D4": {
+            "formula": null,
+            "value": "状态或依据"
+          },
+          "A5": {
+            "formula": null,
+            "value": "目标载重量"
+          },
+          "B5": {
+            "formula": null,
+            "value": 33500
+          },
+          "C5": {
+            "formula": null,
+            "value": "t"
+          },
+          "D5": {
+            "formula": null,
+            "value": "指导书；最终以夏季载重线核定值为准"
+          },
+          "A6": {
+            "formula": null,
+            "value": "参考线系数a"
+          },
+          "B6": {
+            "formula": null,
+            "value": 961.79
+          },
+          "C6": {
+            "formula": null,
+            "value": "—"
+          },
+          "D6": {
+            "formula": null,
+            "value": "IMO散货船参考线"
+          },
+          "A7": {
+            "formula": null,
+            "value": "参考线指数c"
+          },
+          "B7": {
+            "formula": null,
+            "value": 0.477
+          },
+          "C7": {
+            "formula": null,
+            "value": "—"
+          },
+          "D7": {
+            "formula": null,
+            "value": "IMO散货船参考线"
+          },
+          "A8": {
+            "formula": null,
+            "value": "EEDI参考线"
+          },
+          "B8": {
+            "formula": "=B6*B5^(-B7)",
+            "value": 6.67780732711482
+          },
+          "C8": {
+            "formula": null,
+            "value": "gCO2/(t·nm)"
+          },
+          "D8": {
+            "formula": null,
+            "value": "可计算"
+          },
+          "A9": {
+            "formula": null,
+            "value": "课程20%削减限值"
+          },
+          "B9": {
+            "formula": "=B8*(1-20%)",
+            "value": 5.342245861691857
+          },
+          "C9": {
+            "formula": null,
+            "value": "gCO2/(t·nm)"
+          },
+          "D9": {
+            "formula": null,
+            "value": "保留课程示例口径"
+          },
+          "A10": {
+            "formula": null,
+            "value": "第三阶段30%削减限值"
+          },
+          "B10": {
+            "formula": "=B8*(1-30%)",
+            "value": 4.674465128980374
+          },
+          "C10": {
+            "formula": null,
+            "value": "gCO2/(t·nm)"
+          },
+          "D10": {
+            "formula": null,
+            "value": "2025起适用阶段；合同和交付日期另核"
+          },
+          "A12": {
+            "formula": null,
+            "value": "候选A MCR"
+          },
+          "B12": {
+            "formula": "=推进与主机!D6",
+            "value": 6950
+          },
+          "C12": {
+            "formula": null,
+            "value": "kW"
+          },
+          "D12": {
+            "formula": null,
+            "value": "厂家L1点；未作降额优化"
+          },
+          "A13": {
+            "formula": null,
+            "value": "EEDI主机功率"
+          },
+          "B13": {
+            "formula": "=0.75*B12",
+            "value": 5212.5
+          },
+          "C13": {
+            "formula": null,
+            "value": "kW"
+          },
+          "D13": {
+            "formula": null,
+            "value": "75%MCR"
+          },
+          "A14": {
+            "formula": null,
+            "value": "目录75%负荷SFOC"
+          },
+          "B14": {
+            "formula": "=推进与主机!D22",
+            "value": 163
+          },
+          "C14": {
+            "formula": null,
+            "value": "g/kWh"
+          },
+          "D14": {
+            "formula": null,
+            "value": "柴油基准LCV=42700；非本船认证值"
+          },
+          "A15": {
+            "formula": null,
+            "value": "柴油CF"
+          },
+          "B15": {
+            "formula": null,
+            "value": 3.206
+          },
+          "C15": {
+            "formula": null,
+            "value": "tCO2/t燃油"
+          },
+          "D15": {
+            "formula": null,
+            "value": "IMO MEPC.364(79)"
+          },
+          "A16": {
+            "formula": null,
+            "value": "附机功率公式值"
+          },
+          "B16": {
+            "formula": "=IF(B12<10000,0.05*B12,0.025*B12+250)",
+            "value": 347.5
+          },
+          "C16": {
+            "formula": null,
+            "value": "kW"
+          },
+          "D16": {
+            "formula": null,
+            "value": "无轴带机且MCR<10000时0.05MCR"
+          },
+          "A17": {
+            "formula": null,
+            "value": "满载75%MCR对应Vref"
+          },
+          "C17": {
+            "formula": null,
+            "value": "kn"
+          },
+          "D17": {
+            "formula": null,
+            "value": "待成员三满载船型与功率航速闭合"
+          },
+          "A18": {
+            "formula": null,
+            "value": "认证主机SFOC"
+          },
+          "C18": {
+            "formula": null,
+            "value": "g/kWh"
+          },
+          "D18": {
+            "formula": null,
+            "value": "待实际燃料与证书工况"
+          },
+          "A19": {
+            "formula": null,
+            "value": "认证辅机SFOC"
+          },
+          "C19": {
+            "formula": null,
+            "value": "g/kWh"
+          },
+          "D19": {
+            "formula": null,
+            "value": "待辅机选型及电力负荷"
+          },
+          "A20": {
+            "formula": null,
+            "value": "认证主机CF"
+          },
+          "C20": {
+            "formula": null,
+            "value": "—"
+          },
+          "D20": {
+            "formula": null,
+            "value": "待实际燃料"
+          },
+          "A21": {
+            "formula": null,
+            "value": "认证辅机CF"
+          },
+          "C21": {
+            "formula": null,
+            "value": "—"
+          },
+          "D21": {
+            "formula": null,
+            "value": "待实际燃料"
+          },
+          "A22": {
+            "formula": null,
+            "value": "含主辅机EEDI待补值"
+          },
+          "B22": {
+            "formula": "=IF(COUNT(B17:B21)<5,\"待补数据\",(B13*B18*B20+B16*B19*B21)/(B5*B17))",
+            "value": "待补数据"
+          },
+          "C22": {
+            "formula": null,
+            "value": "gCO2/(t·nm)"
+          },
+          "D22": {
+            "formula": null,
+            "value": "常规单机无PTO/PTI；修正因子需逐项核对"
+          },
+          "A24": {
+            "formula": null,
+            "value": "课程简化情景航速"
+          },
+          "B24": {
+            "formula": null,
+            "value": 14
+          },
+          "C24": {
+            "formula": null,
+            "value": "kn"
+          },
+          "D24": {
+            "formula": null,
+            "value": "仅为假定，不是满载Vref"
+          },
+          "A25": {
+            "formula": null,
+            "value": "候选A主机简化情景"
+          },
+          "B25": {
+            "formula": "=B13*B14*B15/(B5*B24)",
+            "value": 5.807969776119403
+          },
+          "C25": {
+            "formula": null,
+            "value": "gCO2/(t·nm)"
+          },
+          "D25": {
+            "formula": null,
+            "value": "只含主机，使用目录柴油SFOC"
+          },
+          "A26": {
+            "formula": null,
+            "value": "目录75%油耗容差"
+          },
+          "B26": {
+            "formula": null,
+            "value": 0.06
+          },
+          "C26": {
+            "formula": null,
+            "value": "—"
+          },
+          "D26": {
+            "formula": null,
+            "value": "2026手册第8页；65%至84.99%负荷为6%"
+          },
+          "A27": {
+            "formula": null,
+            "value": "候选A容差情景"
+          },
+          "B27": {
+            "formula": "=B25*(1+B26)",
+            "value": 6.156447962686568
+          },
+          "C27": {
+            "formula": null,
+            "value": "gCO2/(t·nm)"
+          },
+          "D27": {
+            "formula": null,
+            "value": "不得作为正式达到EEDI"
+          },
+          "A28": {
+            "formula": null,
+            "value": "情景相对第三阶段限值"
+          },
+          "B28": {
+            "formula": "=B25/B10-1",
+            "value": 0.24248863043423263
+          },
+          "C28": {
+            "formula": null,
+            "value": "—"
+          },
+          "D28": {
+            "formula": null,
+            "value": "不能据此出具合规结论"
+          },
+          "A30": {
+            "formula": null,
+            "value": "要求续航力"
+          },
+          "B30": {
+            "formula": null,
+            "value": 16000
+          },
+          "C30": {
+            "formula": null,
+            "value": "nm"
+          },
+          "D30": {
+            "formula": null,
+            "value": "指导书"
+          },
+          "A31": {
+            "formula": null,
+            "value": "估算航速"
+          },
+          "B31": {
+            "formula": null,
+            "value": 14
+          },
+          "C31": {
+            "formula": null,
+            "value": "kn"
+          },
+          "D31": {
+            "formula": null,
+            "value": "保守使用设计目标"
+          },
+          "A32": {
+            "formula": null,
+            "value": "连续航行时间"
+          },
+          "B32": {
+            "formula": "=B30/B31",
+            "value": 1142.857142857143
+          },
+          "C32": {
+            "formula": null,
+            "value": "h"
+          },
+          "D32": {
+            "formula": null,
+            "value": "不含港停"
+          },
+          "A33": {
+            "formula": null,
+            "value": "候选A CSR"
+          },
+          "B33": {
+            "formula": "=推进与主机!D9",
+            "value": 6255
+          },
+          "C33": {
+            "formula": null,
+            "value": "kW"
+          },
+          "D33": {
+            "formula": null,
+            "value": "90%MCR"
+          },
+          "A34": {
+            "formula": null,
+            "value": "90%负荷油耗插值"
+          },
+          "B34": {
+            "formula": "=推进与主机!D22+(0.9-0.75)/(1-0.75)*(推进与主机!D23-推进与主机!D22)",
+            "value": 166.9
+          },
+          "C34": {
+            "formula": null,
+            "value": "g/kWh"
+          },
+          "D34": {
+            "formula": null,
+            "value": "75%与100%目录点线性插值；非厂家保证值"
+          },
+          "A35": {
+            "formula": null,
+            "value": "柴油基准主机耗油"
+          },
+          "B35": {
+            "formula": "=B32*B33*B34/1000000",
+            "value": 1193.0965714285715
+          },
+          "C35": {
+            "formula": null,
+            "value": "t"
+          },
+          "D35": {
+            "formula": null,
+            "value": "不含辅机、锅炉、储备及不可用油"
+          },
+          "A36": {
+            "formula": null,
+            "value": "HFO低热值情景"
+          },
+          "B36": {
+            "formula": null,
+            "value": 40200
+          },
+          "C36": {
+            "formula": null,
+            "value": "kJ/kg"
+          },
+          "D36": {
+            "formula": null,
+            "value": "仅作热值换算情景"
+          },
+          "A37": {
+            "formula": null,
+            "value": "HFO主机耗油情景"
+          },
+          "B37": {
+            "formula": "=B35*42700/B36",
+            "value": 1267.2941194029852
+          },
+          "C37": {
+            "formula": null,
+            "value": "t"
+          },
+          "D37": {
+            "formula": null,
+            "value": "LCV换算；待本船燃料数据替换"
+          },
+          "A38": {
+            "formula": null,
+            "value": "CSR油耗容差情景"
+          },
+          "B38": {
+            "formula": null,
+            "value": 0.05
+          },
+          "C38": {
+            "formula": null,
+            "value": "—"
+          },
+          "D38": {
+            "formula": null,
+            "value": "2026手册第8页；85%至100%为5%"
+          },
+          "A39": {
+            "formula": null,
+            "value": "含5%油耗容差HFO量"
+          },
+          "B39": {
+            "formula": "=B37*(1+B38)",
+            "value": 1330.6588253731345
+          },
+          "C39": {
+            "formula": null,
+            "value": "t"
+          },
+          "D39": {
+            "formula": null,
+            "value": "仍不是总燃油舱容量或全船燃油重量"
+          },
+          "A42": {
+            "formula": null,
+            "value": "参考：MEPC.364(79)、MEPC.410(84)、MARPOL附则VI参考线与削减阶段。"
+          },
+          "A43": {
+            "formula": null,
+            "value": "母型课程示例仅用于教学：6480×75%×211×1.05×3.206/(35000×14)。"
+          },
+          "A44": {
+            "formula": null,
+            "value": "母型示例复算"
+          },
+          "B44": {
+            "formula": "=6480*0.75*211*1.05*3.206/(35000*14)",
+            "value": 7.0449102
+          },
+          "A45": {
+            "formula": null,
+            "value": "流程原文结果7.44为算术笔误，按所列参数复算为7.044910；超限结论不变。"
+          },
+          "A46": {
+            "formula": null,
+            "value": "https://wwwcdn.imo.org/localresources/en/OurWork/Environment/Documents/annex/RESOLUTION%20MEPC.364(79).pdf"
+          }
+        },
+        "建造成本待补": {
+          "A2": {
+            "formula": null,
+            "value": "建造成本估算待补表"
+          },
+          "A3": {
+            "formula": null,
+            "value": "缺少材料量、设备报价和工时；本版不提供虚构总造价。"
+          },
+          "A5": {
+            "formula": null,
+            "value": "成本项目"
+          },
+          "B5": {
+            "formula": null,
+            "value": "数量"
+          },
+          "C5": {
+            "formula": null,
+            "value": "单位"
+          },
+          "D5": {
+            "formula": null,
+            "value": "单价 元/单位"
+          },
+          "E5": {
+            "formula": null,
+            "value": "金额 元"
+          },
+          "F5": {
+            "formula": null,
+            "value": "数据提供及口径"
+          },
+          "A6": {
+            "formula": null,
+            "value": "钢材采购"
+          },
+          "C6": {
+            "formula": null,
+            "value": "t"
+          },
+          "E6": {
+            "formula": "=IF(COUNT(B6,D6)<2,\"待补\",B6*D6)",
+            "value": "待补"
+          },
+          "F6": {
+            "formula": null,
+            "value": "净钢重、利用率、钢级、含税运价"
+          },
+          "A7": {
+            "formula": null,
+            "value": "主机及附属系统"
+          },
+          "B7": {
+            "formula": null,
+            "value": 1
+          },
+          "C7": {
+            "formula": null,
+            "value": "套"
+          },
+          "E7": {
+            "formula": "=IF(COUNT(B7,D7)<2,\"待补\",B7*D7)",
+            "value": "待补"
+          },
+          "F7": {
+            "formula": null,
+            "value": "候选A厂家报价，注明供货范围"
+          },
+          "A8": {
+            "formula": null,
+            "value": "主柴油发电机"
+          },
+          "B8": {
+            "formula": null,
+            "value": 3
+          },
+          "C8": {
+            "formula": null,
+            "value": "套"
+          },
+          "E8": {
+            "formula": "=IF(COUNT(B8,D8)<2,\"待补\",B8*D8)",
+            "value": "待补"
+          },
+          "F8": {
+            "formula": null,
+            "value": "指导书规定数量；待型号及报价"
+          },
+          "A9": {
+            "formula": null,
+            "value": "应急发电机"
+          },
+          "B9": {
+            "formula": null,
+            "value": 1
+          },
+          "C9": {
+            "formula": null,
+            "value": "套"
+          },
+          "E9": {
+            "formula": "=IF(COUNT(B9,D9)<2,\"待补\",B9*D9)",
+            "value": "待补"
+          },
+          "F9": {
+            "formula": null,
+            "value": "待容量与报价"
+          },
+          "A10": {
+            "formula": null,
+            "value": "组合锅炉"
+          },
+          "B10": {
+            "formula": null,
+            "value": 1
+          },
+          "C10": {
+            "formula": null,
+            "value": "套"
+          },
+          "E10": {
+            "formula": "=IF(COUNT(B10,D10)<2,\"待补\",B10*D10)",
+            "value": "待补"
+          },
+          "F10": {
+            "formula": null,
+            "value": "指导书配置；待规格及报价"
+          },
+          "A11": {
+            "formula": null,
+            "value": "甲板起重机"
+          },
+          "B11": {
+            "formula": null,
+            "value": 4
+          },
+          "C11": {
+            "formula": null,
+            "value": "台"
+          },
+          "E11": {
+            "formula": "=IF(COUNT(B11,D11)<2,\"待补\",B11*D11)",
+            "value": "待补"
+          },
+          "F11": {
+            "formula": null,
+            "value": "30 t起重量不是设备自重；待型号及报价"
+          },
+          "A12": {
+            "formula": null,
+            "value": "舱口盖系统"
+          },
+          "B12": {
+            "formula": null,
+            "value": 5
+          },
+          "C12": {
+            "formula": null,
+            "value": "舱套"
+          },
+          "E12": {
+            "formula": "=IF(COUNT(B12,D12)<2,\"待补\",B12*D12)",
+            "value": "待补"
+          },
+          "F12": {
+            "formula": null,
+            "value": "按5货舱规划；待实际数量和供货边界"
+          },
+          "A13": {
+            "formula": null,
+            "value": "轴桨舵系统"
+          },
+          "B13": {
+            "formula": null,
+            "value": 1
+          },
+          "C13": {
+            "formula": null,
+            "value": "船套"
+          },
+          "E13": {
+            "formula": "=IF(COUNT(B13,D13)<2,\"待补\",B13*D13)",
+            "value": "待补"
+          },
+          "F13": {
+            "formula": null,
+            "value": "待最终尺寸及报价"
+          },
+          "A14": {
+            "formula": null,
+            "value": "其他舾装电气管系"
+          },
+          "C14": {
+            "formula": null,
+            "value": "批"
+          },
+          "E14": {
+            "formula": "=IF(COUNT(B14,D14)<2,\"待补\",B14*D14)",
+            "value": "待补"
+          },
+          "F14": {
+            "formula": null,
+            "value": "待清单；避免与设备附属系统重复"
+          },
+          "A15": {
+            "formula": null,
+            "value": "建造人工"
+          },
+          "C15": {
+            "formula": null,
+            "value": "工时"
+          },
+          "E15": {
+            "formula": "=IF(COUNT(B15,D15)<2,\"待补\",B15*D15)",
+            "value": "待补"
+          },
+          "F15": {
+            "formula": null,
+            "value": "待建造工时及单位人工成本"
+          },
+          "A16": {
+            "formula": null,
+            "value": "设计检验试验"
+          },
+          "C16": {
+            "formula": null,
+            "value": "项"
+          },
+          "E16": {
+            "formula": "=IF(COUNT(B16,D16)<2,\"待补\",B16*D16)",
+            "value": "待补"
+          },
+          "F16": {
+            "formula": null,
+            "value": "待合同或课程成本依据"
+          },
+          "A17": {
+            "formula": null,
+            "value": "船厂制造间接费"
+          },
+          "C17": {
+            "formula": null,
+            "value": "项"
+          },
+          "E17": {
+            "formula": "=IF(COUNT(B17,D17)<2,\"待补\",B17*D17)",
+            "value": "待补"
+          },
+          "F17": {
+            "formula": null,
+            "value": "待计费基数与口径"
+          },
+          "A19": {
+            "formula": null,
+            "value": "建造成本合计"
+          },
+          "E19": {
+            "formula": "=IF(COUNT(E6:E17)<12,\"待补完整成本\",SUM(E6:E17))",
+            "value": "待补完整成本"
+          },
+          "A22": {
+            "formula": null,
+            "value": "币种、含税口径、报价日期、运费和预备费须统一；价格来源写在F列。"
+          },
+          "A23": {
+            "formula": null,
+            "value": "船舶销售合同价含利润等因素，不能直接称为本船建造成本。"
+          }
+        }
+      }
+    },
+    "重量工作簿": {
+      "file": "C:\\Users\\董昱彤\\Desktop\\船舶设计\\outputs\\B组_成员一_中期_v0.2_20261031\\03_重量重心与浮态待补.xlsx",
+      "sheets": {
+        "Weight": {
+          "A1": {
+            "formula": null,
+            "value": "重量项目"
+          },
+          "B1": {
+            "formula": null,
+            "value": "重量"
+          },
+          "C1": {
+            "formula": null,
+            "value": "重心高度"
+          },
+          "D1": {
+            "formula": null,
+            "value": "垂向矩"
+          },
+          "E1": {
+            "formula": null,
+            "value": "中前（+）"
+          },
+          "G1": {
+            "formula": null,
+            "value": "中后（-）"
+          },
+          "I1": {
+            "formula": null,
+            "value": "重心横坐标"
+          },
+          "J1": {
+            "formula": null,
+            "value": "横向矩"
+          },
+          "E2": {
+            "formula": null,
+            "value": "重心距舯"
+          },
+          "F2": {
+            "formula": null,
+            "value": "纵向矩"
+          },
+          "G2": {
+            "formula": null,
+            "value": "重心距舯"
+          },
+          "H2": {
+            "formula": null,
+            "value": "纵向矩"
+          },
+          "B3": {
+            "formula": null,
+            "value": "t"
+          },
+          "C3": {
+            "formula": null,
+            "value": "m"
+          },
+          "D3": {
+            "formula": null,
+            "value": "t·m"
+          },
+          "E3": {
+            "formula": null,
+            "value": "m"
+          },
+          "F3": {
+            "formula": null,
+            "value": "t·m"
+          },
+          "G3": {
+            "formula": null,
+            "value": "m"
+          },
+          "H3": {
+            "formula": null,
+            "value": "t·m"
+          },
+          "I3": {
+            "formula": null,
+            "value": "m"
+          },
+          "J3": {
+            "formula": null,
+            "value": "t·m"
+          },
+          "A4": {
+            "formula": null,
+            "value": "Ⅰ 空船"
+          },
+          "B4": {
+            "formula": "=Sheet1!C6",
+            "value": 8310.700160893894
+          },
+          "C4": {
+            "formula": "=Sheet1!C12",
+            "value": 10.06485078141394
+          },
+          "D4": {
+            "formula": "=IF(B4=\"\",\"\",IF(B4=0,0,IF(C4=\"\",\"\",B4*C4)))",
+            "value": 83645.95700846986
+          },
+          "E4": {
+            "formula": "=MAX(Sheet1!C14,0)",
+            "value": 0
+          },
+          "F4": {
+            "formula": "=IF(B4=\"\",\"\",IF(B4=0,0,IF(COUNT(E4,G4)<2,\"\",B4*E4)))",
+            "value": 0
+          },
+          "G4": {
+            "formula": "=MAX(-Sheet1!C14,0)",
+            "value": 6.61122551328171
+          },
+          "H4": {
+            "formula": "=IF(B4=\"\",\"\",IF(B4=0,0,IF(COUNT(E4,G4)<2,\"\",-B4*G4)))",
+            "value": -54943.91293693612
+          },
+          "I4": {
+            "formula": "=Sheet1!C13",
+            "value": 0
+          },
+          "J4": {
+            "formula": "=IF(B4=\"\",\"\",IF(B4=0,0,IF(I4=\"\",\"\",B4*I4)))",
+            "value": 0
+          },
+          "A5": {
+            "formula": null,
+            "value": "Ⅱ 货物"
+          },
+          "B5": {
+            "formula": "=IF(COUNT(B6:B10)<5,\"\",SUM(B6:B10))",
+            "value": null
+          },
+          "C5": {
+            "formula": "=IF(OR(B5=\"\",D5=\"\"),\"\",IF(B5=0,0,D5/B5))",
+            "value": null
+          },
+          "D5": {
+            "formula": "=IF(COUNT(D6:D10)<5,\"\",SUM(D6:D10))",
+            "value": null
+          },
+          "E5": {
+            "formula": "=IF(OR(B5=\"\",F5=\"\"),\"\",IF(B5=0,0,F5/B5))",
+            "value": null
+          },
+          "F5": {
+            "formula": "=IF(COUNT(F6:F10)<5,\"\",SUM(F6:F10))",
+            "value": null
+          },
+          "G5": {
+            "formula": "=IF(OR(B5=\"\",H5=\"\"),\"\",IF(B5=0,0,-H5/B5))",
+            "value": null
+          },
+          "H5": {
+            "formula": "=IF(COUNT(H6:H10)<5,\"\",SUM(H6:H10))",
+            "value": null
+          },
+          "I5": {
+            "formula": "=IF(OR(B5=\"\",J5=\"\"),\"\",IF(B5=0,0,J5/B5))",
+            "value": null
+          },
+          "J5": {
+            "formula": "=IF(COUNT(J6:J10)<5,\"\",SUM(J6:J10))",
+            "value": null
+          },
+          "A6": {
+            "formula": null,
+            "value": "1号货舱"
+          },
+          "D6": {
+            "formula": "=IF(B6=\"\",\"\",IF(B6=0,0,IF(C6=\"\",\"\",B6*C6)))",
+            "value": null
+          },
+          "F6": {
+            "formula": "=IF(B6=\"\",\"\",IF(B6=0,0,IF(COUNT(E6,G6)<2,\"\",B6*E6)))",
+            "value": null
+          },
+          "H6": {
+            "formula": "=IF(B6=\"\",\"\",IF(B6=0,0,IF(COUNT(E6,G6)<2,\"\",-B6*G6)))",
+            "value": null
+          },
+          "J6": {
+            "formula": "=IF(B6=\"\",\"\",IF(B6=0,0,IF(I6=\"\",\"\",B6*I6)))",
+            "value": null
+          },
+          "A7": {
+            "formula": null,
+            "value": "2号货舱"
+          },
+          "D7": {
+            "formula": "=IF(B7=\"\",\"\",IF(B7=0,0,IF(C7=\"\",\"\",B7*C7)))",
+            "value": null
+          },
+          "F7": {
+            "formula": "=IF(B7=\"\",\"\",IF(B7=0,0,IF(COUNT(E7,G7)<2,\"\",B7*E7)))",
+            "value": null
+          },
+          "H7": {
+            "formula": "=IF(B7=\"\",\"\",IF(B7=0,0,IF(COUNT(E7,G7)<2,\"\",-B7*G7)))",
+            "value": null
+          },
+          "J7": {
+            "formula": "=IF(B7=\"\",\"\",IF(B7=0,0,IF(I7=\"\",\"\",B7*I7)))",
+            "value": null
+          },
+          "A8": {
+            "formula": null,
+            "value": "3号货舱"
+          },
+          "D8": {
+            "formula": "=IF(B8=\"\",\"\",IF(B8=0,0,IF(C8=\"\",\"\",B8*C8)))",
+            "value": null
+          },
+          "F8": {
+            "formula": "=IF(B8=\"\",\"\",IF(B8=0,0,IF(COUNT(E8,G8)<2,\"\",B8*E8)))",
+            "value": null
+          },
+          "H8": {
+            "formula": "=IF(B8=\"\",\"\",IF(B8=0,0,IF(COUNT(E8,G8)<2,\"\",-B8*G8)))",
+            "value": null
+          },
+          "J8": {
+            "formula": "=IF(B8=\"\",\"\",IF(B8=0,0,IF(I8=\"\",\"\",B8*I8)))",
+            "value": null
+          },
+          "A9": {
+            "formula": null,
+            "value": "4号货舱"
+          },
+          "D9": {
+            "formula": "=IF(B9=\"\",\"\",IF(B9=0,0,IF(C9=\"\",\"\",B9*C9)))",
+            "value": null
+          },
+          "F9": {
+            "formula": "=IF(B9=\"\",\"\",IF(B9=0,0,IF(COUNT(E9,G9)<2,\"\",B9*E9)))",
+            "value": null
+          },
+          "H9": {
+            "formula": "=IF(B9=\"\",\"\",IF(B9=0,0,IF(COUNT(E9,G9)<2,\"\",-B9*G9)))",
+            "value": null
+          },
+          "J9": {
+            "formula": "=IF(B9=\"\",\"\",IF(B9=0,0,IF(I9=\"\",\"\",B9*I9)))",
+            "value": null
+          },
+          "A10": {
+            "formula": null,
+            "value": "5号货舱"
+          },
+          "D10": {
+            "formula": "=IF(B10=\"\",\"\",IF(B10=0,0,IF(C10=\"\",\"\",B10*C10)))",
+            "value": null
+          },
+          "F10": {
+            "formula": "=IF(B10=\"\",\"\",IF(B10=0,0,IF(COUNT(E10,G10)<2,\"\",B10*E10)))",
+            "value": null
+          },
+          "H10": {
+            "formula": "=IF(B10=\"\",\"\",IF(B10=0,0,IF(COUNT(E10,G10)<2,\"\",-B10*G10)))",
+            "value": null
+          },
+          "J10": {
+            "formula": "=IF(B10=\"\",\"\",IF(B10=0,0,IF(I10=\"\",\"\",B10*I10)))",
+            "value": null
+          },
+          "A11": {
+            "formula": null,
+            "value": "Ⅲ 燃油"
+          },
+          "B11": {
+            "formula": "=IF(COUNT(B12:B15)<4,\"\",SUM(B12:B15))",
+            "value": null
+          },
+          "C11": {
+            "formula": "=IF(OR(B11=\"\",D11=\"\"),\"\",IF(B11=0,0,D11/B11))",
+            "value": null
+          },
+          "D11": {
+            "formula": "=IF(COUNT(D12:D15)<4,\"\",SUM(D12:D15))",
+            "value": null
+          },
+          "E11": {
+            "formula": "=IF(OR(B11=\"\",F11=\"\"),\"\",IF(B11=0,0,F11/B11))",
+            "value": null
+          },
+          "F11": {
+            "formula": "=IF(COUNT(F12:F15)<4,\"\",SUM(F12:F15))",
+            "value": null
+          },
+          "G11": {
+            "formula": "=IF(OR(B11=\"\",H11=\"\"),\"\",IF(B11=0,0,-H11/B11))",
+            "value": null
+          },
+          "H11": {
+            "formula": "=IF(COUNT(H12:H15)<4,\"\",SUM(H12:H15))",
+            "value": null
+          },
+          "I11": {
+            "formula": "=IF(OR(B11=\"\",J11=\"\"),\"\",IF(B11=0,0,J11/B11))",
+            "value": null
+          },
+          "J11": {
+            "formula": "=IF(COUNT(J12:J15)<4,\"\",SUM(J12:J15))",
+            "value": null
+          },
+          "A12": {
+            "formula": null,
+            "value": "1号燃油舱"
+          },
+          "D12": {
+            "formula": "=IF(B12=\"\",\"\",IF(B12=0,0,IF(C12=\"\",\"\",B12*C12)))",
+            "value": null
+          },
+          "F12": {
+            "formula": "=IF(B12=\"\",\"\",IF(B12=0,0,IF(COUNT(E12,G12)<2,\"\",B12*E12)))",
+            "value": null
+          },
+          "H12": {
+            "formula": "=IF(B12=\"\",\"\",IF(B12=0,0,IF(COUNT(E12,G12)<2,\"\",-B12*G12)))",
+            "value": null
+          },
+          "J12": {
+            "formula": "=IF(B12=\"\",\"\",IF(B12=0,0,IF(I12=\"\",\"\",B12*I12)))",
+            "value": null
+          },
+          "A13": {
+            "formula": null,
+            "value": "2号燃油舱"
+          },
+          "D13": {
+            "formula": "=IF(B13=\"\",\"\",IF(B13=0,0,IF(C13=\"\",\"\",B13*C13)))",
+            "value": null
+          },
+          "F13": {
+            "formula": "=IF(B13=\"\",\"\",IF(B13=0,0,IF(COUNT(E13,G13)<2,\"\",B13*E13)))",
+            "value": null
+          },
+          "H13": {
+            "formula": "=IF(B13=\"\",\"\",IF(B13=0,0,IF(COUNT(E13,G13)<2,\"\",-B13*G13)))",
+            "value": null
+          },
+          "J13": {
+            "formula": "=IF(B13=\"\",\"\",IF(B13=0,0,IF(I13=\"\",\"\",B13*I13)))",
+            "value": null
+          },
+          "A14": {
+            "formula": null,
+            "value": "3号燃油舱"
+          },
+          "D14": {
+            "formula": "=IF(B14=\"\",\"\",IF(B14=0,0,IF(C14=\"\",\"\",B14*C14)))",
+            "value": null
+          },
+          "F14": {
+            "formula": "=IF(B14=\"\",\"\",IF(B14=0,0,IF(COUNT(E14,G14)<2,\"\",B14*E14)))",
+            "value": null
+          },
+          "H14": {
+            "formula": "=IF(B14=\"\",\"\",IF(B14=0,0,IF(COUNT(E14,G14)<2,\"\",-B14*G14)))",
+            "value": null
+          },
+          "J14": {
+            "formula": "=IF(B14=\"\",\"\",IF(B14=0,0,IF(I14=\"\",\"\",B14*I14)))",
+            "value": null
+          },
+          "A15": {
+            "formula": null,
+            "value": "4号燃油舱"
+          },
+          "D15": {
+            "formula": "=IF(B15=\"\",\"\",IF(B15=0,0,IF(C15=\"\",\"\",B15*C15)))",
+            "value": null
+          },
+          "F15": {
+            "formula": "=IF(B15=\"\",\"\",IF(B15=0,0,IF(COUNT(E15,G15)<2,\"\",B15*E15)))",
+            "value": null
+          },
+          "H15": {
+            "formula": "=IF(B15=\"\",\"\",IF(B15=0,0,IF(COUNT(E15,G15)<2,\"\",-B15*G15)))",
+            "value": null
+          },
+          "J15": {
+            "formula": "=IF(B15=\"\",\"\",IF(B15=0,0,IF(I15=\"\",\"\",B15*I15)))",
+            "value": null
+          },
+          "A16": {
+            "formula": null,
+            "value": "Ⅳ 滑油"
+          },
+          "B16": {
+            "formula": "=IF(COUNT(B17:B20)<4,\"\",SUM(B17:B20))",
+            "value": null
+          },
+          "C16": {
+            "formula": "=IF(OR(B16=\"\",D16=\"\"),\"\",IF(B16=0,0,D16/B16))",
+            "value": null
+          },
+          "D16": {
+            "formula": "=IF(COUNT(D17:D20)<4,\"\",SUM(D17:D20))",
+            "value": null
+          },
+          "E16": {
+            "formula": "=IF(OR(B16=\"\",F16=\"\"),\"\",IF(B16=0,0,F16/B16))",
+            "value": null
+          },
+          "F16": {
+            "formula": "=IF(COUNT(F17:F20)<4,\"\",SUM(F17:F20))",
+            "value": null
+          },
+          "G16": {
+            "formula": "=IF(OR(B16=\"\",H16=\"\"),\"\",IF(B16=0,0,-H16/B16))",
+            "value": null
+          },
+          "H16": {
+            "formula": "=IF(COUNT(H17:H20)<4,\"\",SUM(H17:H20))",
+            "value": null
+          },
+          "I16": {
+            "formula": "=IF(OR(B16=\"\",J16=\"\"),\"\",IF(B16=0,0,J16/B16))",
+            "value": null
+          },
+          "J16": {
+            "formula": "=IF(COUNT(J17:J20)<4,\"\",SUM(J17:J20))",
+            "value": null
+          },
+          "A17": {
+            "formula": null,
+            "value": "滑油分项1"
+          },
+          "D17": {
+            "formula": "=IF(B17=\"\",\"\",IF(B17=0,0,IF(C17=\"\",\"\",B17*C17)))",
+            "value": null
+          },
+          "F17": {
+            "formula": "=IF(B17=\"\",\"\",IF(B17=0,0,IF(COUNT(E17,G17)<2,\"\",B17*E17)))",
+            "value": null
+          },
+          "H17": {
+            "formula": "=IF(B17=\"\",\"\",IF(B17=0,0,IF(COUNT(E17,G17)<2,\"\",-B17*G17)))",
+            "value": null
+          },
+          "J17": {
+            "formula": "=IF(B17=\"\",\"\",IF(B17=0,0,IF(I17=\"\",\"\",B17*I17)))",
+            "value": null
+          },
+          "A18": {
+            "formula": null,
+            "value": "滑油分项2"
+          },
+          "D18": {
+            "formula": "=IF(B18=\"\",\"\",IF(B18=0,0,IF(C18=\"\",\"\",B18*C18)))",
+            "value": null
+          },
+          "F18": {
+            "formula": "=IF(B18=\"\",\"\",IF(B18=0,0,IF(COUNT(E18,G18)<2,\"\",B18*E18)))",
+            "value": null
+          },
+          "H18": {
+            "formula": "=IF(B18=\"\",\"\",IF(B18=0,0,IF(COUNT(E18,G18)<2,\"\",-B18*G18)))",
+            "value": null
+          },
+          "J18": {
+            "formula": "=IF(B18=\"\",\"\",IF(B18=0,0,IF(I18=\"\",\"\",B18*I18)))",
+            "value": null
+          },
+          "A19": {
+            "formula": null,
+            "value": "滑油分项3"
+          },
+          "D19": {
+            "formula": "=IF(B19=\"\",\"\",IF(B19=0,0,IF(C19=\"\",\"\",B19*C19)))",
+            "value": null
+          },
+          "F19": {
+            "formula": "=IF(B19=\"\",\"\",IF(B19=0,0,IF(COUNT(E19,G19)<2,\"\",B19*E19)))",
+            "value": null
+          },
+          "H19": {
+            "formula": "=IF(B19=\"\",\"\",IF(B19=0,0,IF(COUNT(E19,G19)<2,\"\",-B19*G19)))",
+            "value": null
+          },
+          "J19": {
+            "formula": "=IF(B19=\"\",\"\",IF(B19=0,0,IF(I19=\"\",\"\",B19*I19)))",
+            "value": null
+          },
+          "A20": {
+            "formula": null,
+            "value": "滑油分项4"
+          },
+          "D20": {
+            "formula": "=IF(B20=\"\",\"\",IF(B20=0,0,IF(C20=\"\",\"\",B20*C20)))",
+            "value": null
+          },
+          "F20": {
+            "formula": "=IF(B20=\"\",\"\",IF(B20=0,0,IF(COUNT(E20,G20)<2,\"\",B20*E20)))",
+            "value": null
+          },
+          "H20": {
+            "formula": "=IF(B20=\"\",\"\",IF(B20=0,0,IF(COUNT(E20,G20)<2,\"\",-B20*G20)))",
+            "value": null
+          },
+          "J20": {
+            "formula": "=IF(B20=\"\",\"\",IF(B20=0,0,IF(I20=\"\",\"\",B20*I20)))",
+            "value": null
+          },
+          "A21": {
+            "formula": null,
+            "value": "Ⅴ 淡水"
+          },
+          "B21": {
+            "formula": "=IF(COUNT(B22:B25)<4,\"\",SUM(B22:B25))",
+            "value": null
+          },
+          "C21": {
+            "formula": "=IF(OR(B21=\"\",D21=\"\"),\"\",IF(B21=0,0,D21/B21))",
+            "value": null
+          },
+          "D21": {
+            "formula": "=IF(COUNT(D22:D25)<4,\"\",SUM(D22:D25))",
+            "value": null
+          },
+          "E21": {
+            "formula": "=IF(OR(B21=\"\",F21=\"\"),\"\",IF(B21=0,0,F21/B21))",
+            "value": null
+          },
+          "F21": {
+            "formula": "=IF(COUNT(F22:F25)<4,\"\",SUM(F22:F25))",
+            "value": null
+          },
+          "G21": {
+            "formula": "=IF(OR(B21=\"\",H21=\"\"),\"\",IF(B21=0,0,-H21/B21))",
+            "value": null
+          },
+          "H21": {
+            "formula": "=IF(COUNT(H22:H25)<4,\"\",SUM(H22:H25))",
+            "value": null
+          },
+          "I21": {
+            "formula": "=IF(OR(B21=\"\",J21=\"\"),\"\",IF(B21=0,0,J21/B21))",
+            "value": null
+          },
+          "J21": {
+            "formula": "=IF(COUNT(J22:J25)<4,\"\",SUM(J22:J25))",
+            "value": null
+          },
+          "A22": {
+            "formula": null,
+            "value": "饮用水"
+          },
+          "D22": {
+            "formula": "=IF(B22=\"\",\"\",IF(B22=0,0,IF(C22=\"\",\"\",B22*C22)))",
+            "value": null
+          },
+          "F22": {
+            "formula": "=IF(B22=\"\",\"\",IF(B22=0,0,IF(COUNT(E22,G22)<2,\"\",B22*E22)))",
+            "value": null
+          },
+          "H22": {
+            "formula": "=IF(B22=\"\",\"\",IF(B22=0,0,IF(COUNT(E22,G22)<2,\"\",-B22*G22)))",
+            "value": null
+          },
+          "J22": {
+            "formula": "=IF(B22=\"\",\"\",IF(B22=0,0,IF(I22=\"\",\"\",B22*I22)))",
+            "value": null
+          },
+          "A23": {
+            "formula": null,
+            "value": "洗涤水"
+          },
+          "D23": {
+            "formula": "=IF(B23=\"\",\"\",IF(B23=0,0,IF(C23=\"\",\"\",B23*C23)))",
+            "value": null
+          },
+          "F23": {
+            "formula": "=IF(B23=\"\",\"\",IF(B23=0,0,IF(COUNT(E23,G23)<2,\"\",B23*E23)))",
+            "value": null
+          },
+          "H23": {
+            "formula": "=IF(B23=\"\",\"\",IF(B23=0,0,IF(COUNT(E23,G23)<2,\"\",-B23*G23)))",
+            "value": null
+          },
+          "J23": {
+            "formula": "=IF(B23=\"\",\"\",IF(B23=0,0,IF(I23=\"\",\"\",B23*I23)))",
+            "value": null
+          },
+          "A24": {
+            "formula": null,
+            "value": "其他淡水1"
+          },
+          "D24": {
+            "formula": "=IF(B24=\"\",\"\",IF(B24=0,0,IF(C24=\"\",\"\",B24*C24)))",
+            "value": null
+          },
+          "F24": {
+            "formula": "=IF(B24=\"\",\"\",IF(B24=0,0,IF(COUNT(E24,G24)<2,\"\",B24*E24)))",
+            "value": null
+          },
+          "H24": {
+            "formula": "=IF(B24=\"\",\"\",IF(B24=0,0,IF(COUNT(E24,G24)<2,\"\",-B24*G24)))",
+            "value": null
+          },
+          "J24": {
+            "formula": "=IF(B24=\"\",\"\",IF(B24=0,0,IF(I24=\"\",\"\",B24*I24)))",
+            "value": null
+          },
+          "A25": {
+            "formula": null,
+            "value": "其他淡水2"
+          },
+          "D25": {
+            "formula": "=IF(B25=\"\",\"\",IF(B25=0,0,IF(C25=\"\",\"\",B25*C25)))",
+            "value": null
+          },
+          "F25": {
+            "formula": "=IF(B25=\"\",\"\",IF(B25=0,0,IF(COUNT(E25,G25)<2,\"\",B25*E25)))",
+            "value": null
+          },
+          "H25": {
+            "formula": "=IF(B25=\"\",\"\",IF(B25=0,0,IF(COUNT(E25,G25)<2,\"\",-B25*G25)))",
+            "value": null
+          },
+          "J25": {
+            "formula": "=IF(B25=\"\",\"\",IF(B25=0,0,IF(I25=\"\",\"\",B25*I25)))",
+            "value": null
+          },
+          "A26": {
+            "formula": null,
+            "value": "Ⅵ 食品"
+          },
+          "D26": {
+            "formula": "=IF(B26=\"\",\"\",IF(B26=0,0,IF(C26=\"\",\"\",B26*C26)))",
+            "value": null
+          },
+          "F26": {
+            "formula": "=IF(B26=\"\",\"\",IF(B26=0,0,IF(COUNT(E26,G26)<2,\"\",B26*E26)))",
+            "value": null
+          },
+          "H26": {
+            "formula": "=IF(B26=\"\",\"\",IF(B26=0,0,IF(COUNT(E26,G26)<2,\"\",-B26*G26)))",
+            "value": null
+          },
+          "J26": {
+            "formula": "=IF(B26=\"\",\"\",IF(B26=0,0,IF(I26=\"\",\"\",B26*I26)))",
+            "value": null
+          },
+          "A27": {
+            "formula": null,
+            "value": "Ⅶ 人员与行李"
+          },
+          "D27": {
+            "formula": "=IF(B27=\"\",\"\",IF(B27=0,0,IF(C27=\"\",\"\",B27*C27)))",
+            "value": null
+          },
+          "F27": {
+            "formula": "=IF(B27=\"\",\"\",IF(B27=0,0,IF(COUNT(E27,G27)<2,\"\",B27*E27)))",
+            "value": null
+          },
+          "H27": {
+            "formula": "=IF(B27=\"\",\"\",IF(B27=0,0,IF(COUNT(E27,G27)<2,\"\",-B27*G27)))",
+            "value": null
+          },
+          "J27": {
+            "formula": "=IF(B27=\"\",\"\",IF(B27=0,0,IF(I27=\"\",\"\",B27*I27)))",
+            "value": null
+          },
+          "A28": {
+            "formula": null,
+            "value": "Ⅷ 压载水"
+          },
+          "B28": {
+            "formula": "=IF(COUNT(B29:B33)<5,\"\",SUM(B29:B33))",
+            "value": null
+          },
+          "C28": {
+            "formula": "=IF(OR(B28=\"\",D28=\"\"),\"\",IF(B28=0,0,D28/B28))",
+            "value": null
+          },
+          "D28": {
+            "formula": "=IF(COUNT(D29:D33)<5,\"\",SUM(D29:D33))",
+            "value": null
+          },
+          "E28": {
+            "formula": "=IF(OR(B28=\"\",F28=\"\"),\"\",IF(B28=0,0,F28/B28))",
+            "value": null
+          },
+          "F28": {
+            "formula": "=IF(COUNT(F29:F33)<5,\"\",SUM(F29:F33))",
+            "value": null
+          },
+          "G28": {
+            "formula": "=IF(OR(B28=\"\",H28=\"\"),\"\",IF(B28=0,0,-H28/B28))",
+            "value": null
+          },
+          "H28": {
+            "formula": "=IF(COUNT(H29:H33)<5,\"\",SUM(H29:H33))",
+            "value": null
+          },
+          "I28": {
+            "formula": "=IF(OR(B28=\"\",J28=\"\"),\"\",IF(B28=0,0,J28/B28))",
+            "value": null
+          },
+          "J28": {
+            "formula": "=IF(COUNT(J29:J33)<5,\"\",SUM(J29:J33))",
+            "value": null
+          },
+          "A29": {
+            "formula": null,
+            "value": "1号压载水"
+          },
+          "D29": {
+            "formula": "=IF(B29=\"\",\"\",IF(B29=0,0,IF(C29=\"\",\"\",B29*C29)))",
+            "value": null
+          },
+          "F29": {
+            "formula": "=IF(B29=\"\",\"\",IF(B29=0,0,IF(COUNT(E29,G29)<2,\"\",B29*E29)))",
+            "value": null
+          },
+          "H29": {
+            "formula": "=IF(B29=\"\",\"\",IF(B29=0,0,IF(COUNT(E29,G29)<2,\"\",-B29*G29)))",
+            "value": null
+          },
+          "J29": {
+            "formula": "=IF(B29=\"\",\"\",IF(B29=0,0,IF(I29=\"\",\"\",B29*I29)))",
+            "value": null
+          },
+          "A30": {
+            "formula": null,
+            "value": "2号压载水"
+          },
+          "D30": {
+            "formula": "=IF(B30=\"\",\"\",IF(B30=0,0,IF(C30=\"\",\"\",B30*C30)))",
+            "value": null
+          },
+          "F30": {
+            "formula": "=IF(B30=\"\",\"\",IF(B30=0,0,IF(COUNT(E30,G30)<2,\"\",B30*E30)))",
+            "value": null
+          },
+          "H30": {
+            "formula": "=IF(B30=\"\",\"\",IF(B30=0,0,IF(COUNT(E30,G30)<2,\"\",-B30*G30)))",
+            "value": null
+          },
+          "J30": {
+            "formula": "=IF(B30=\"\",\"\",IF(B30=0,0,IF(I30=\"\",\"\",B30*I30)))",
+            "value": null
+          },
+          "A31": {
+            "formula": null,
+            "value": "3号压载水"
+          },
+          "D31": {
+            "formula": "=IF(B31=\"\",\"\",IF(B31=0,0,IF(C31=\"\",\"\",B31*C31)))",
+            "value": null
+          },
+          "F31": {
+            "formula": "=IF(B31=\"\",\"\",IF(B31=0,0,IF(COUNT(E31,G31)<2,\"\",B31*E31)))",
+            "value": null
+          },
+          "H31": {
+            "formula": "=IF(B31=\"\",\"\",IF(B31=0,0,IF(COUNT(E31,G31)<2,\"\",-B31*G31)))",
+            "value": null
+          },
+          "J31": {
+            "formula": "=IF(B31=\"\",\"\",IF(B31=0,0,IF(I31=\"\",\"\",B31*I31)))",
+            "value": null
+          },
+          "A32": {
+            "formula": null,
+            "value": "4号压载水"
+          },
+          "D32": {
+            "formula": "=IF(B32=\"\",\"\",IF(B32=0,0,IF(C32=\"\",\"\",B32*C32)))",
+            "value": null
+          },
+          "F32": {
+            "formula": "=IF(B32=\"\",\"\",IF(B32=0,0,IF(COUNT(E32,G32)<2,\"\",B32*E32)))",
+            "value": null
+          },
+          "H32": {
+            "formula": "=IF(B32=\"\",\"\",IF(B32=0,0,IF(COUNT(E32,G32)<2,\"\",-B32*G32)))",
+            "value": null
+          },
+          "J32": {
+            "formula": "=IF(B32=\"\",\"\",IF(B32=0,0,IF(I32=\"\",\"\",B32*I32)))",
+            "value": null
+          },
+          "A33": {
+            "formula": null,
+            "value": "其他压载水"
+          },
+          "D33": {
+            "formula": "=IF(B33=\"\",\"\",IF(B33=0,0,IF(C33=\"\",\"\",B33*C33)))",
+            "value": null
+          },
+          "F33": {
+            "formula": "=IF(B33=\"\",\"\",IF(B33=0,0,IF(COUNT(E33,G33)<2,\"\",B33*E33)))",
+            "value": null
+          },
+          "H33": {
+            "formula": "=IF(B33=\"\",\"\",IF(B33=0,0,IF(COUNT(E33,G33)<2,\"\",-B33*G33)))",
+            "value": null
+          },
+          "J33": {
+            "formula": "=IF(B33=\"\",\"\",IF(B33=0,0,IF(I33=\"\",\"\",B33*I33)))",
+            "value": null
+          },
+          "A34": {
+            "formula": null,
+            "value": "总计"
+          },
+          "B34": {
+            "formula": "=IF(COUNT(B4,B5,B11,B16,B21,B26,B27,B28)<8,\"待补工况\",SUM(B4,B5,B11,B16,B21,B26,B27,B28))",
+            "value": "待补工况"
+          },
+          "C34": {
+            "formula": "=IF(COUNT(B34,D34)<2,\"待补工况\",D34/B34)",
+            "value": "待补工况"
+          },
+          "D34": {
+            "formula": "=IF(COUNT(D4,D5,D11,D16,D21,D26,D27,D28)<8,\"待补工况\",SUM(D4,D5,D11,D16,D21,D26,D27,D28))",
+            "value": "待补工况"
+          },
+          "E34": {
+            "formula": "=IF(COUNT(B34,F34)<2,\"待补工况\",F34/B34)",
+            "value": "待补工况"
+          },
+          "F34": {
+            "formula": "=IF(COUNT(F4,F5,F11,F16,F21,F26,F27,F28)<8,\"待补工况\",SUM(F4,F5,F11,F16,F21,F26,F27,F28))",
+            "value": "待补工况"
+          },
+          "G34": {
+            "formula": "=IF(COUNT(B34,H34)<2,\"待补工况\",-H34/B34)",
+            "value": "待补工况"
+          },
+          "H34": {
+            "formula": "=IF(COUNT(H4,H5,H11,H16,H21,H26,H27,H28)<8,\"待补工况\",SUM(H4,H5,H11,H16,H21,H26,H27,H28))",
+            "value": "待补工况"
+          },
+          "I34": {
+            "formula": "=IF(COUNT(B34,J34)<2,\"待补工况\",J34/B34)",
+            "value": "待补工况"
+          },
+          "J34": {
+            "formula": "=IF(COUNT(J4,J5,J11,J16,J21,J26,J27,J28)<8,\"待补工况\",SUM(J4,J5,J11,J16,J21,J26,J27,J28))",
+            "value": "待补工况"
+          },
+          "A36": {
+            "formula": null,
+            "value": "空船行为几何粗估；其他项目须按一个明确工况填入，不自动均分33500 t。"
+          },
+          "A37": {
+            "formula": null,
+            "value": "G列为舯后距离正值，H列为负纵向矩；不存在的载荷须明确填0。"
+          }
+        },
+        "Floating": {
+          "A1": {
+            "formula": null,
+            "value": "序号"
+          },
+          "B1": {
+            "formula": null,
+            "value": "项目"
+          },
+          "C1": {
+            "formula": null,
+            "value": "单位"
+          },
+          "D1": {
+            "formula": null,
+            "value": "符号及公式"
+          },
+          "E1": {
+            "formula": null,
+            "value": "数值"
+          },
+          "A2": {
+            "formula": null,
+            "value": 1
+          },
+          "B2": {
+            "formula": null,
+            "value": "排水体积"
+          },
+          "C2": {
+            "formula": null,
+            "value": "m3"
+          },
+          "D2": {
+            "formula": null,
+            "value": "▽"
+          },
+          "G2": {
+            "formula": null,
+            "value": "排水体积由模型提供；型体积与外板修正后体积不能混用。"
+          },
+          "A3": {
+            "formula": null,
+            "value": 2
+          },
+          "B3": {
+            "formula": null,
+            "value": "排水量"
+          },
+          "C3": {
+            "formula": null,
+            "value": "t"
+          },
+          "D3": {
+            "formula": null,
+            "value": "△"
+          },
+          "E3": {
+            "formula": "=IF(ISNUMBER(Weight!B34),Weight!B34,\"待补工况\")",
+            "value": "待补工况"
+          },
+          "A4": {
+            "formula": null,
+            "value": 3
+          },
+          "B4": {
+            "formula": null,
+            "value": "平均吃水"
+          },
+          "C4": {
+            "formula": null,
+            "value": "m"
+          },
+          "D4": {
+            "formula": null,
+            "value": "d"
+          },
+          "G4": {
+            "formula": null,
+            "value": "重量对应的平浮参考吃水，由静水力反求。"
+          },
+          "A5": {
+            "formula": null,
+            "value": 4
+          },
+          "B5": {
+            "formula": null,
+            "value": "重心距中"
+          },
+          "C5": {
+            "formula": null,
+            "value": "m"
+          },
+          "D5": {
+            "formula": null,
+            "value": "XG"
+          },
+          "E5": {
+            "formula": "=IF(COUNT(Weight!B34,Weight!F34,Weight!H34)<3,\"待补工况\",(Weight!F34+Weight!H34)/Weight!B34)",
+            "value": "待补工况"
+          },
+          "A6": {
+            "formula": null,
+            "value": 5
+          },
+          "B6": {
+            "formula": null,
+            "value": "浮心距中"
+          },
+          "C6": {
+            "formula": null,
+            "value": "m"
+          },
+          "D6": {
+            "formula": null,
+            "value": "XB"
+          },
+          "A7": {
+            "formula": null,
+            "value": 6
+          },
+          "B7": {
+            "formula": null,
+            "value": "每厘米纵倾力矩"
+          },
+          "C7": {
+            "formula": null,
+            "value": "t·m"
+          },
+          "D7": {
+            "formula": null,
+            "value": "MTC"
+          },
+          "G7": {
+            "formula": null,
+            "value": "MTC单位t·m/cm，勿漏纵倾值换算中的100。"
+          },
+          "A8": {
+            "formula": null,
+            "value": 7
+          },
+          "B8": {
+            "formula": null,
+            "value": "纵倾值"
+          },
+          "C8": {
+            "formula": null,
+            "value": "m"
+          },
+          "E8": {
+            "formula": "=IF(COUNT(E3,E5,E6,E7)<4,\"待补静水力\",E3*(E5-E6)/(100*E7))",
+            "value": "待补静水力"
+          },
+          "G8": {
+            "formula": null,
+            "value": "纵倾定义dF−dA，正值为首倾；所有纵坐标向艏为正。"
+          },
+          "A9": {
+            "formula": null,
+            "value": 8
+          },
+          "B9": {
+            "formula": null,
+            "value": "漂心距中"
+          },
+          "C9": {
+            "formula": null,
+            "value": "m"
+          },
+          "D9": {
+            "formula": null,
+            "value": "XF"
+          },
+          "G9": {
+            "formula": null,
+            "value": "XF距舯，需对应同一吃水状态。"
+          },
+          "A10": {
+            "formula": null,
+            "value": 9
+          },
+          "B10": {
+            "formula": null,
+            "value": "首吃水变化"
+          },
+          "C10": {
+            "formula": null,
+            "value": "m"
+          },
+          "E10": {
+            "formula": "=IF(COUNT(E8,E9)<2,\"待补静水力\",E8*(Sheet1!C10/2-E9)/Sheet1!C10)",
+            "value": "待补静水力"
+          },
+          "A11": {
+            "formula": null,
+            "value": 10
+          },
+          "B11": {
+            "formula": null,
+            "value": "尾吃水变化"
+          },
+          "C11": {
+            "formula": null,
+            "value": "m"
+          },
+          "E11": {
+            "formula": "=IF(COUNT(E8,E9)<2,\"待补静水力\",-E8*(Sheet1!C10/2+E9)/Sheet1!C10)",
+            "value": "待补静水力"
+          },
+          "A12": {
+            "formula": null,
+            "value": 11
+          },
+          "B12": {
+            "formula": null,
+            "value": "首吃水"
+          },
+          "C12": {
+            "formula": null,
+            "value": "m"
+          },
+          "D12": {
+            "formula": null,
+            "value": "dF=d +  δdF"
+          },
+          "E12": {
+            "formula": "=IF(COUNT(E4,E10)<2,\"待补静水力\",E4+E10)",
+            "value": "待补静水力"
+          },
+          "A13": {
+            "formula": null,
+            "value": 12
+          },
+          "B13": {
+            "formula": null,
+            "value": "尾吃水"
+          },
+          "C13": {
+            "formula": null,
+            "value": "m"
+          },
+          "D13": {
+            "formula": null,
+            "value": "dA=d +  δdA"
+          },
+          "E13": {
+            "formula": "=IF(COUNT(E4,E11)<2,\"待补静水力\",E4+E11)",
+            "value": "待补静水力"
+          },
+          "A14": {
+            "formula": null,
+            "value": 13
+          },
+          "B14": {
+            "formula": null,
+            "value": "重心距基线"
+          },
+          "C14": {
+            "formula": null,
+            "value": "m"
+          },
+          "D14": {
+            "formula": null,
+            "value": "ZG"
+          },
+          "E14": {
+            "formula": "=IF(ISNUMBER(Weight!C34),Weight!C34,\"待补工况\")",
+            "value": "待补工况"
+          },
+          "A15": {
+            "formula": null,
+            "value": 14
+          },
+          "B15": {
+            "formula": null,
+            "value": "横稳心距基线"
+          },
+          "C15": {
+            "formula": null,
+            "value": "m"
+          },
+          "D15": {
+            "formula": null,
+            "value": "ZM"
+          },
+          "A16": {
+            "formula": null,
+            "value": 15
+          },
+          "B16": {
+            "formula": null,
+            "value": "初稳性高"
+          },
+          "C16": {
+            "formula": null,
+            "value": "m"
+          },
+          "D16": {
+            "formula": null,
+            "value": "GM0=ZM -  ZG"
+          },
+          "E16": {
+            "formula": "=IF(COUNT(E14,E15)<2,\"待补静水力\",E15-E14)",
+            "value": "待补静水力"
+          },
+          "A17": {
+            "formula": null,
+            "value": 16
+          },
+          "B17": {
+            "formula": null,
+            "value": "自由液面修正值"
+          },
+          "C17": {
+            "formula": null,
+            "value": "m"
+          },
+          "G17": {
+            "formula": null,
+            "value": "由成员四提供自由液面矩合计/排水量。"
+          },
+          "A18": {
+            "formula": null,
+            "value": 17
+          },
+          "B18": {
+            "formula": null,
+            "value": "修正后的初稳性高"
+          },
+          "C18": {
+            "formula": null,
+            "value": "m"
+          },
+          "D18": {
+            "formula": null,
+            "value": "GM=GM0 -  δGM"
+          },
+          "E18": {
+            "formula": "=IF(COUNT(E16,E17)<2,\"待补自由液面\",E16-E17)",
+            "value": "待补自由液面"
+          },
+          "A19": {
+            "formula": null,
+            "value": 18
+          },
+          "B19": {
+            "formula": null,
+            "value": "横摇周期"
+          },
+          "C19": {
+            "formula": null,
+            "value": "s"
+          },
+          "D19": {
+            "formula": null,
+            "value": "TΦ"
+          },
+          "G19": {
+            "formula": null,
+            "value": "横摇经验式系数尚未指定，本版不虚填。"
+          },
+          "A22": {
+            "formula": null,
+            "value": "近似小纵倾校核表；完整稳性须以成员四的软件工况计算为准。"
+          }
+        },
+        "Sheet1": {
+          "A2": {
+            "formula": null,
+            "value": "空船粗估基准与分项待补"
+          },
+          "A4": {
+            "formula": null,
+            "value": "参数"
+          },
+          "B4": {
+            "formula": null,
+            "value": "母型"
+          },
+          "C4": {
+            "formula": null,
+            "value": "新船"
+          },
+          "D4": {
+            "formula": null,
+            "value": "单位"
+          },
+          "A5": {
+            "formula": null,
+            "value": "满载参考排水量"
+          },
+          "B5": {
+            "formula": null,
+            "value": 43517.7
+          },
+          "C5": {
+            "formula": "=B5*C8",
+            "value": 41810.700160893895
+          },
+          "D5": {
+            "formula": null,
+            "value": "t"
+          },
+          "F5": {
+            "formula": null,
+            "value": "母型装载手册PDF第42页T=10.27 m行。"
+          },
+          "A6": {
+            "formula": null,
+            "value": "空船重量"
+          },
+          "B6": {
+            "formula": null,
+            "value": 8650
+          },
+          "C6": {
+            "formula": "=B6*C8",
+            "value": 8310.700160893894
+          },
+          "D6": {
+            "formula": null,
+            "value": "t"
+          },
+          "F6": {
+            "formula": null,
+            "value": "空船重量与重心：手册第100、333页。"
+          },
+          "A7": {
+            "formula": null,
+            "value": "载重量"
+          },
+          "B7": {
+            "formula": "=B5-B6",
+            "value": 34867.7
+          },
+          "C7": {
+            "formula": null,
+            "value": 33500
+          },
+          "D7": {
+            "formula": null,
+            "value": "t"
+          },
+          "A8": {
+            "formula": null,
+            "value": "质量比例"
+          },
+          "C8": {
+            "formula": "=C7/B7",
+            "value": 0.9607745850744386
+          },
+          "D8": {
+            "formula": null,
+            "value": "—"
+          },
+          "F8": {
+            "formula": null,
+            "value": "v0.1假设：载重量系数不变，几何相似。"
+          },
+          "A9": {
+            "formula": null,
+            "value": "线性比例"
+          },
+          "C9": {
+            "formula": "=C8^(1/3)",
+            "value": 0.9867500766092098
+          },
+          "D9": {
+            "formula": null,
+            "value": "—"
+          },
+          "A10": {
+            "formula": null,
+            "value": "垂线间长"
+          },
+          "B10": {
+            "formula": null,
+            "value": 172
+          },
+          "C10": {
+            "formula": "=B10*$C$9",
+            "value": 169.72101317678408
+          },
+          "D10": {
+            "formula": null,
+            "value": "m"
+          },
+          "A11": {
+            "formula": null,
+            "value": "XG距AP"
+          },
+          "B11": {
+            "formula": null,
+            "value": 79.3
+          },
+          "C11": {
+            "formula": "=B11*$C$9",
+            "value": 78.24928107511033
+          },
+          "D11": {
+            "formula": null,
+            "value": "m"
+          },
+          "A12": {
+            "formula": null,
+            "value": "ZG距BL"
+          },
+          "B12": {
+            "formula": null,
+            "value": 10.2
+          },
+          "C12": {
+            "formula": "=B12*$C$9",
+            "value": 10.06485078141394
+          },
+          "D12": {
+            "formula": null,
+            "value": "m"
+          },
+          "A13": {
+            "formula": null,
+            "value": "YG"
+          },
+          "B13": {
+            "formula": null,
+            "value": 0
+          },
+          "C13": {
+            "formula": "=B13*$C$9",
+            "value": 0
+          },
+          "D13": {
+            "formula": null,
+            "value": "m"
+          },
+          "A14": {
+            "formula": null,
+            "value": "XG距舯"
+          },
+          "B14": {
+            "formula": "=B11-B10/2",
+            "value": -6.700000000000003
+          },
+          "C14": {
+            "formula": "=C11-C10/2",
+            "value": -6.61122551328171
+          },
+          "D14": {
+            "formula": null,
+            "value": "m"
+          },
+          "F14": {
+            "formula": null,
+            "value": "AP为纵向零点，向艏为正；距舯负数表示舯后。"
+          },
+          "A15": {
+            "formula": null,
+            "value": "性能参考吃水"
+          },
+          "B15": {
+            "formula": null,
+            "value": 9.83
+          },
+          "C15": {
+            "formula": "=B15*$C$9",
+            "value": 9.699753253068533
+          },
+          "D15": {
+            "formula": null,
+            "value": "m"
+          },
+          "A16": {
+            "formula": null,
+            "value": "满载参考吃水"
+          },
+          "B16": {
+            "formula": null,
+            "value": 10.27
+          },
+          "C16": {
+            "formula": "=B16*$C$9",
+            "value": 10.133923286776584
+          },
+          "D16": {
+            "formula": null,
+            "value": "m"
+          },
+          "A17": {
+            "formula": null,
+            "value": "水密度"
+          },
+          "B17": {
+            "formula": null,
+            "value": 1.025
+          },
+          "C17": {
+            "formula": "=B17",
+            "value": 1.025
+          },
+          "D17": {
+            "formula": null,
+            "value": "t/m³"
+          },
+          "A18": {
+            "formula": null,
+            "value": "型深"
+          },
+          "B18": {
+            "formula": null,
+            "value": 14.6
+          },
+          "C18": {
+            "formula": "=B18*$C$9",
+            "value": 14.406551118494463
+          },
+          "D18": {
+            "formula": null,
+            "value": "m"
+          },
+          "A19": {
+            "formula": null,
+            "value": "型宽"
+          },
+          "B19": {
+            "formula": null,
+            "value": 28.8
+          },
+          "C19": {
+            "formula": "=B19*$C$9",
+            "value": 28.41840220634524
+          },
+          "D19": {
+            "formula": null,
+            "value": "m"
+          },
+          "A22": {
+            "formula": null,
+            "value": "独立空船重量分项"
+          },
+          "B22": {
+            "formula": null,
+            "value": "重量 t"
+          },
+          "C22": {
+            "formula": null,
+            "value": "XG距AP m"
+          },
+          "D22": {
+            "formula": null,
+            "value": "ZG距BL m"
+          },
+          "E22": {
+            "formula": null,
+            "value": "YG m"
+          },
+          "F22": {
+            "formula": null,
+            "value": "缺项及来源"
+          },
+          "A23": {
+            "formula": null,
+            "value": "船体钢料及结构"
+          },
+          "F23": {
+            "formula": null,
+            "value": "待结构重量估算或母型钢重系数"
+          },
+          "A24": {
+            "formula": null,
+            "value": "主机和机电设备"
+          },
+          "F24": {
+            "formula": null,
+            "value": "待全套设备清单与布置重心"
+          },
+          "A25": {
+            "formula": null,
+            "value": "舾装及货物装卸设备"
+          },
+          "F25": {
+            "formula": null,
+            "value": "待4台30t吊机实际自重、舱盖等清单"
+          },
+          "A26": {
+            "formula": null,
+            "value": "重量裕量"
+          },
+          "F26": {
+            "formula": null,
+            "value": "待课程采用比例及作用基数"
+          },
+          "A28": {
+            "formula": null,
+            "value": "独立分项汇总"
+          },
+          "B28": {
+            "formula": "=IF(COUNT(B23:B26)<4,\"待补分项\",SUM(B23:B26))",
+            "value": "待补分项"
+          },
+          "C28": {
+            "formula": "=IF(COUNT(B23:B26,C23:C26)<8,\"待补分项\",SUMPRODUCT(B23:B26,C23:C26)/SUM(B23:B26))",
+            "value": "待补分项"
+          },
+          "D28": {
+            "formula": "=IF(COUNT(B23:B26,D23:D26)<8,\"待补分项\",SUMPRODUCT(B23:B26,D23:D26)/SUM(B23:B26))",
+            "value": "待补分项"
+          },
+          "E28": {
+            "formula": "=IF(COUNT(B23:B26,E23:E26)<8,\"待补分项\",SUMPRODUCT(B23:B26,E23:E26)/SUM(B23:B26))",
+            "value": "待补分项"
+          },
+          "A30": {
+            "formula": null,
+            "value": "候选A主机干重"
+          },
+          "B30": {
+            "formula": null,
+            "value": 165
+          },
+          "F30": {
+            "formula": null,
+            "value": "厂家2026手册第104页；未加入总重，避免重复。"
+          },
+          "A32": {
+            "formula": null,
+            "value": "Weight表本版使用C6粗估空船重；独立分项完整后才替换。"
+          },
+          "A33": {
+            "formula": null,
+            "value": "载荷栏为空表示未知；确实未装载的项目应由工况制定人填0。"
+          },
+          "A34": {
+            "formula": null,
+            "value": "模板G列填写正的舯后距离，H列以负号计纵向矩。"
+          }
+        },
+        "母型分区缩放": {
+          "A2": {
+            "formula": null,
+            "value": "母型纵向重量分区的几何缩放"
+          },
+          "A4": {
+            "formula": null,
+            "value": "分区"
+          },
+          "B4": {
+            "formula": null,
+            "value": "母型重量 t"
+          },
+          "C4": {
+            "formula": null,
+            "value": "母型XG距AP m"
+          },
+          "D4": {
+            "formula": null,
+            "value": "母型ZG m"
+          },
+          "E4": {
+            "formula": null,
+            "value": "新船重量 t"
+          },
+          "F4": {
+            "formula": null,
+            "value": "新船XG距AP m"
+          },
+          "G4": {
+            "formula": null,
+            "value": "新船ZG m"
+          },
+          "H4": {
+            "formula": null,
+            "value": "新船纵向矩 t·m"
+          },
+          "I4": {
+            "formula": null,
+            "value": "新船垂向矩 t·m"
+          },
+          "J4": {
+            "formula": null,
+            "value": "新船YG m"
+          },
+          "A5": {
+            "formula": null,
+            "value": "STERN 艉部"
+          },
+          "B5": {
+            "formula": null,
+            "value": 269
+          },
+          "C5": {
+            "formula": null,
+            "value": 2.17
+          },
+          "D5": {
+            "formula": null,
+            "value": 10.2
+          },
+          "E5": {
+            "formula": "=B5*Sheet1!$C$8",
+            "value": 258.448363385024
+          },
+          "F5": {
+            "formula": "=C5*Sheet1!$C$9",
+            "value": 2.141247666241985
+          },
+          "G5": {
+            "formula": "=D5*Sheet1!$C$9",
+            "value": 10.06485078141394
+          },
+          "H5": {
+            "formula": "=E5*F5",
+            "value": 553.4019549422432
+          },
+          "I5": {
+            "formula": "=E5*G5",
+            "value": 2601.2442121709123
+          },
+          "J5": {
+            "formula": null,
+            "value": 0
+          },
+          "A6": {
+            "formula": null,
+            "value": "ER1 机舱1"
+          },
+          "B6": {
+            "formula": null,
+            "value": 555
+          },
+          "C6": {
+            "formula": null,
+            "value": 17.94
+          },
+          "D6": {
+            "formula": null,
+            "value": 10.2
+          },
+          "E6": {
+            "formula": "=B6*Sheet1!$C$8",
+            "value": 533.2298947163134
+          },
+          "F6": {
+            "formula": "=C6*Sheet1!$C$9",
+            "value": 17.702296374369226
+          },
+          "G6": {
+            "formula": "=D6*Sheet1!$C$9",
+            "value": 10.06485078141394
+          },
+          "H6": {
+            "formula": "=E6*F6",
+            "value": 9439.393631941879
+          },
+          "I6": {
+            "formula": "=E6*G6",
+            "value": 5366.87932250876
+          },
+          "J6": {
+            "formula": null,
+            "value": 0
+          },
+          "A7": {
+            "formula": null,
+            "value": "ER2 机舱2"
+          },
+          "B7": {
+            "formula": null,
+            "value": 400
+          },
+          "C7": {
+            "formula": null,
+            "value": 15.4
+          },
+          "D7": {
+            "formula": null,
+            "value": 10.2
+          },
+          "E7": {
+            "formula": "=B7*Sheet1!$C$8",
+            "value": 384.30983402977546
+          },
+          "F7": {
+            "formula": "=C7*Sheet1!$C$9",
+            "value": 15.195951179781831
+          },
+          "G7": {
+            "formula": "=D7*Sheet1!$C$9",
+            "value": 10.06485078141394
+          },
+          "H7": {
+            "formula": "=E7*F7",
+            "value": 5839.953475826526
+          },
+          "I7": {
+            "formula": "=E7*G7",
+            "value": 3868.021133339647
+          },
+          "J7": {
+            "formula": null,
+            "value": 0
+          },
+          "A8": {
+            "formula": null,
+            "value": "HOLD5 五货舱区"
+          },
+          "B8": {
+            "formula": null,
+            "value": 885
+          },
+          "C8": {
+            "formula": null,
+            "value": 40.3
+          },
+          "D8": {
+            "formula": null,
+            "value": 10.2
+          },
+          "E8": {
+            "formula": "=B8*Sheet1!$C$8",
+            "value": 850.2855077908781
+          },
+          "F8": {
+            "formula": "=C8*Sheet1!$C$9",
+            "value": 39.76602808735115
+          },
+          "G8": {
+            "formula": "=D8*Sheet1!$C$9",
+            "value": 10.06485078141394
+          },
+          "H8": {
+            "formula": "=E8*F8",
+            "value": 33812.4773850797
+          },
+          "I8": {
+            "formula": "=E8*G8",
+            "value": 8557.996757513967
+          },
+          "J8": {
+            "formula": null,
+            "value": 0
+          },
+          "A9": {
+            "formula": null,
+            "value": "BHD2 舱壁2"
+          },
+          "B9": {
+            "formula": null,
+            "value": 201
+          },
+          "C9": {
+            "formula": null,
+            "value": 53.4
+          },
+          "D9": {
+            "formula": null,
+            "value": 10.2
+          },
+          "E9": {
+            "formula": "=B9*Sheet1!$C$8",
+            "value": 193.11569159996216
+          },
+          "F9": {
+            "formula": "=C9*Sheet1!$C$9",
+            "value": 52.6924540909318
+          },
+          "G9": {
+            "formula": "=D9*Sheet1!$C$9",
+            "value": 10.06485078141394
+          },
+          "H9": {
+            "formula": "=E9*F9",
+            "value": 10175.739713869549
+          },
+          "I9": {
+            "formula": "=E9*G9",
+            "value": 1943.6806195031725
+          },
+          "J9": {
+            "formula": null,
+            "value": 0
+          },
+          "A10": {
+            "formula": null,
+            "value": "HOLD4 四货舱区"
+          },
+          "B10": {
+            "formula": null,
+            "value": 1035
+          },
+          "C10": {
+            "formula": null,
+            "value": 68.5
+          },
+          "D10": {
+            "formula": null,
+            "value": 10.2
+          },
+          "E10": {
+            "formula": "=B10*Sheet1!$C$8",
+            "value": 994.401695552044
+          },
+          "F10": {
+            "formula": "=C10*Sheet1!$C$9",
+            "value": 67.59238024773087
+          },
+          "G10": {
+            "formula": "=D10*Sheet1!$C$9",
+            "value": 10.06485078141394
+          },
+          "H10": {
+            "formula": "=E10*F10",
+            "value": 67213.97752474206
+          },
+          "I10": {
+            "formula": "=E10*G10",
+            "value": 10008.504682516337
+          },
+          "J10": {
+            "formula": null,
+            "value": 0
+          },
+          "A11": {
+            "formula": null,
+            "value": "BHD3 舱壁3"
+          },
+          "B11": {
+            "formula": null,
+            "value": 222
+          },
+          "C11": {
+            "formula": null,
+            "value": 82.23
+          },
+          "D11": {
+            "formula": null,
+            "value": 10.2
+          },
+          "E11": {
+            "formula": "=B11*Sheet1!$C$8",
+            "value": 213.29195788652535
+          },
+          "F11": {
+            "formula": "=C11*Sheet1!$C$9",
+            "value": 81.14045879957533
+          },
+          "G11": {
+            "formula": "=D11*Sheet1!$C$9",
+            "value": 10.06485078141394
+          },
+          "H11": {
+            "formula": "=E11*F11",
+            "value": 17306.607321172367
+          },
+          "I11": {
+            "formula": "=E11*G11",
+            "value": 2146.751729003504
+          },
+          "J11": {
+            "formula": null,
+            "value": 0
+          },
+          "A12": {
+            "formula": null,
+            "value": "HOLD3 三货舱区"
+          },
+          "B12": {
+            "formula": null,
+            "value": 1026
+          },
+          "C12": {
+            "formula": null,
+            "value": 96.76
+          },
+          "D12": {
+            "formula": null,
+            "value": 10.2
+          },
+          "E12": {
+            "formula": "=B12*Sheet1!$C$8",
+            "value": 985.754724286374
+          },
+          "F12": {
+            "formula": "=C12*Sheet1!$C$9",
+            "value": 95.47793741270715
+          },
+          "G12": {
+            "formula": "=D12*Sheet1!$C$9",
+            "value": 10.06485078141394
+          },
+          "H12": {
+            "formula": "=E12*F12",
+            "value": 94117.82786969481
+          },
+          "I12": {
+            "formula": "=E12*G12",
+            "value": 9921.474207016194
+          },
+          "J12": {
+            "formula": null,
+            "value": 0
+          },
+          "A13": {
+            "formula": null,
+            "value": "BHD4 舱壁4"
+          },
+          "B13": {
+            "formula": null,
+            "value": 222
+          },
+          "C13": {
+            "formula": null,
+            "value": 111.03
+          },
+          "D13": {
+            "formula": null,
+            "value": 10.2
+          },
+          "E13": {
+            "formula": "=B13*Sheet1!$C$8",
+            "value": 213.29195788652535
+          },
+          "F13": {
+            "formula": "=C13*Sheet1!$C$9",
+            "value": 109.55886100592056
+          },
+          "G13": {
+            "formula": "=D13*Sheet1!$C$9",
+            "value": 10.06485078141394
+          },
+          "H13": {
+            "formula": "=E13*F13",
+            "value": 23368.023967770492
+          },
+          "I13": {
+            "formula": "=E13*G13",
+            "value": 2146.751729003504
+          },
+          "J13": {
+            "formula": null,
+            "value": 0
+          },
+          "A14": {
+            "formula": null,
+            "value": "HOLD2 二货舱区"
+          },
+          "B14": {
+            "formula": null,
+            "value": 1021
+          },
+          "C14": {
+            "formula": null,
+            "value": 125.8
+          },
+          "D14": {
+            "formula": null,
+            "value": 10.2
+          },
+          "E14": {
+            "formula": "=B14*Sheet1!$C$8",
+            "value": 980.9508513610018
+          },
+          "F14": {
+            "formula": "=C14*Sheet1!$C$9",
+            "value": 124.13315963743858
+          },
+          "G14": {
+            "formula": "=D14*Sheet1!$C$9",
+            "value": 10.06485078141394
+          },
+          "H14": {
+            "formula": "=E14*F14",
+            "value": 121768.52862847652
+          },
+          "I14": {
+            "formula": "=E14*G14",
+            "value": 9873.123942849448
+          },
+          "J14": {
+            "formula": null,
+            "value": 0
+          },
+          "A15": {
+            "formula": null,
+            "value": "BHD5 舱壁5"
+          },
+          "B15": {
+            "formula": null,
+            "value": 201
+          },
+          "C15": {
+            "formula": null,
+            "value": 139.83
+          },
+          "D15": {
+            "formula": null,
+            "value": 10.2
+          },
+          "E15": {
+            "formula": "=B15*Sheet1!$C$8",
+            "value": 193.11569159996216
+          },
+          "F15": {
+            "formula": "=C15*Sheet1!$C$9",
+            "value": 137.97726321226583
+          },
+          "G15": {
+            "formula": "=D15*Sheet1!$C$9",
+            "value": 10.06485078141394
+          },
+          "H15": {
+            "formula": "=E15*F15",
+            "value": 26645.574610306732
+          },
+          "I15": {
+            "formula": "=E15*G15",
+            "value": 1943.6806195031725
+          },
+          "J15": {
+            "formula": null,
+            "value": 0
+          },
+          "A16": {
+            "formula": null,
+            "value": "HOLD1 一货舱区"
+          },
+          "B16": {
+            "formula": null,
+            "value": 717
+          },
+          "C16": {
+            "formula": null,
+            "value": 152.6
+          },
+          "D16": {
+            "formula": null,
+            "value": 10.2
+          },
+          "E16": {
+            "formula": "=B16*Sheet1!$C$8",
+            "value": 688.8753774983725
+          },
+          "F16": {
+            "formula": "=C16*Sheet1!$C$9",
+            "value": 150.5780616905654
+          },
+          "G16": {
+            "formula": "=D16*Sheet1!$C$9",
+            "value": 10.06485078141394
+          },
+          "H16": {
+            "formula": "=E16*F16",
+            "value": 103729.51909006145
+          },
+          "I16": {
+            "formula": "=E16*G16",
+            "value": 6933.427881511317
+          },
+          "J16": {
+            "formula": null,
+            "value": 0
+          },
+          "A17": {
+            "formula": null,
+            "value": "FORE 艏部"
+          },
+          "B17": {
+            "formula": null,
+            "value": 360
+          },
+          "C17": {
+            "formula": null,
+            "value": 170
+          },
+          "D17": {
+            "formula": null,
+            "value": 10.2
+          },
+          "E17": {
+            "formula": "=B17*Sheet1!$C$8",
+            "value": 345.8788506267979
+          },
+          "F17": {
+            "formula": "=C17*Sheet1!$C$9",
+            "value": 167.74751302356566
+          },
+          "G17": {
+            "formula": "=D17*Sheet1!$C$9",
+            "value": 10.06485078141394
+          },
+          "H17": {
+            "formula": "=E17*F17",
+            "value": 58020.3170000947
+          },
+          "I17": {
+            "formula": "=E17*G17",
+            "value": 3481.219020005682
+          },
+          "J17": {
+            "formula": null,
+            "value": 0
+          },
+          "A18": {
+            "formula": null,
+            "value": "SUPER 上层建筑"
+          },
+          "B18": {
+            "formula": null,
+            "value": 700
+          },
+          "C18": {
+            "formula": null,
+            "value": 18.4
+          },
+          "D18": {
+            "formula": null,
+            "value": 10.2
+          },
+          "E18": {
+            "formula": "=B18*Sheet1!$C$8",
+            "value": 672.542209552107
+          },
+          "F18": {
+            "formula": "=C18*Sheet1!$C$9",
+            "value": 18.15620140960946
+          },
+          "G18": {
+            "formula": "=D18*Sheet1!$C$9",
+            "value": 10.06485078141394
+          },
+          "H18": {
+            "formula": "=E18*F18",
+            "value": 12210.811813091825
+          },
+          "I18": {
+            "formula": "=E18*G18",
+            "value": 6769.036983344382
+          },
+          "J18": {
+            "formula": null,
+            "value": 0
+          },
+          "A19": {
+            "formula": null,
+            "value": "PIPE 管系"
+          },
+          "B19": {
+            "formula": null,
+            "value": 200
+          },
+          "C19": {
+            "formula": null,
+            "value": 75
+          },
+          "D19": {
+            "formula": null,
+            "value": 10.2
+          },
+          "E19": {
+            "formula": "=B19*Sheet1!$C$8",
+            "value": 192.15491701488773
+          },
+          "F19": {
+            "formula": "=C19*Sheet1!$C$9",
+            "value": 74.00625574569074
+          },
+          "G19": {
+            "formula": "=D19*Sheet1!$C$9",
+            "value": 10.06485078141394
+          },
+          "H19": {
+            "formula": "=E19*F19",
+            "value": 14220.665931395763
+          },
+          "I19": {
+            "formula": "=E19*G19",
+            "value": 1934.0105666698234
+          },
+          "J19": {
+            "formula": null,
+            "value": 0
+          },
+          "A20": {
+            "formula": null,
+            "value": "MIS 杂项"
+          },
+          "B20": {
+            "formula": null,
+            "value": 386
+          },
+          "C20": {
+            "formula": null,
+            "value": 86
+          },
+          "D20": {
+            "formula": null,
+            "value": 10.2
+          },
+          "E20": {
+            "formula": "=B20*Sheet1!$C$8",
+            "value": 370.8589898387333
+          },
+          "F20": {
+            "formula": "=C20*Sheet1!$C$9",
+            "value": 84.86050658839204
+          },
+          "G20": {
+            "formula": "=D20*Sheet1!$C$9",
+            "value": 10.06485078141394
+          },
+          "H20": {
+            "formula": "=E20*F20",
+            "value": 31471.281750574242
+          },
+          "I20": {
+            "formula": "=E20*G20",
+            "value": 3732.6403936727593
+          },
+          "J20": {
+            "formula": null,
+            "value": 0
+          },
+          "A21": {
+            "formula": null,
+            "value": "ADD 附加"
+          },
+          "B21": {
+            "formula": null,
+            "value": 250
+          },
+          "C21": {
+            "formula": null,
+            "value": 86
+          },
+          "D21": {
+            "formula": null,
+            "value": 10.2
+          },
+          "E21": {
+            "formula": "=B21*Sheet1!$C$8",
+            "value": 240.19364626860965
+          },
+          "F21": {
+            "formula": "=C21*Sheet1!$C$9",
+            "value": 84.86050658839204
+          },
+          "G21": {
+            "formula": "=D21*Sheet1!$C$9",
+            "value": 10.06485078141394
+          },
+          "H21": {
+            "formula": "=E21*F21",
+            "value": 20382.954501667256
+          },
+          "I21": {
+            "formula": "=E21*G21",
+            "value": 2417.513208337279
+          },
+          "J21": {
+            "formula": null,
+            "value": 0
+          },
+          "A22": {
+            "formula": null,
+            "value": "合计或加权重心"
+          },
+          "B22": {
+            "formula": "=SUM(B5:B21)",
+            "value": 8650
+          },
+          "C22": {
+            "formula": "=SUMPRODUCT(B5:B21,C5:C21)/B22",
+            "value": 79.2964323699422
+          },
+          "D22": {
+            "formula": "=SUMPRODUCT(B5:B21,D5:D21)/B22",
+            "value": 10.199999999999998
+          },
+          "E22": {
+            "formula": "=SUM(E5:E21)",
+            "value": 8310.700160893894
+          },
+          "F22": {
+            "formula": "=H22/E22",
+            "value": 78.2457607158775
+          },
+          "G22": {
+            "formula": "=I22/E22",
+            "value": 10.064850781413938
+          },
+          "H22": {
+            "formula": "=SUM(H5:H21)",
+            "value": 650277.0561707082
+          },
+          "I22": {
+            "formula": "=SUM(I5:I21)",
+            "value": 83645.95700846985
+          },
+          "J22": {
+            "formula": null,
+            "value": 0
+          },
+          "A24": {
+            "formula": null,
+            "value": "来源：母型装载手册PDF第333页，逐项照录重量及坐标；全部原始ZG均为10.2 m。"
+          },
+          "A25": {
+            "formula": null,
+            "value": "这些是空船纵向重量分布区，不是货物载荷，也不是钢料、机电、舾装的独立估算。"
+          },
+          "A26": {
+            "formula": null,
+            "value": "分区缩放沿用v0.1假设；保留原表坐标舍入引起的加权重心差异。"
+          },
+          "A27": {
+            "formula": null,
+            "value": "实际设备不会全部按体积比缩放；本表用于复核与后续替换，不能证明独立重量闭合。"
+          }
+        }
+      }
+    }
+  }
+}

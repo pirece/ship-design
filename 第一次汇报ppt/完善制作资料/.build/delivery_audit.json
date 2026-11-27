@@ -1,0 +1,139 @@
+{
+  "slides": 8,
+  "pdf_pages": 8,
+  "native_shapes": 359,
+  "native_text_objects": 183,
+  "native_charts": 1,
+  "independent_real_images": 4,
+  "max_chart_source_error": 4.547473508864641e-12,
+  "unchanged_inputs": [
+    "C:\\Users\\董昱彤\\Desktop\\船舶设计\\《船舶设计Ⅱ》_课程设计指导书_20261016.docx",
+    "C:\\Users\\董昱彤\\Desktop\\船舶设计\\outputs\\B组_首次汇报综合材料_v0.3_20261101\\01_首次汇报综合分析.docx",
+    "C:\\Users\\董昱彤\\Desktop\\船舶设计\\outputs\\B组_首次汇报综合材料_v0.3_20261101\\02_供GPT读取的完整文本.txt",
+    "C:\\Users\\董昱彤\\Desktop\\船舶设计\\outputs\\B组_成员一_中期_v0.2_20261031\\01_成员一中期设计计算报告.docx",
+    "C:\\Users\\董昱彤\\Desktop\\船舶设计\\outputs\\B组_成员一_中期_v0.2_20261031\\02_阻力快速性与总体校核.xlsx",
+    "C:\\Users\\董昱彤\\Desktop\\船舶设计\\outputs\\B组_成员一_中期_v0.2_20261031\\03_重量重心与浮态待补.xlsx",
+    "C:\\Users\\董昱彤\\Desktop\\船舶设计\\outputs\\B组_首次汇报综合材料_v0.3_20261101\\型线图补充说明.txt",
+    "C:\\Users\\董昱彤\\Desktop\\船舶设计\\outputs\\B组_首次汇报综合材料_v0.3_20261101\\三维建模补充说明.txt",
+    "C:\\Users\\董昱彤\\Desktop\\船舶设计\\第一次汇报ppt\\ppt模板.pptx"
+  ],
+  "template_title_checks": [
+    {
+      "slide": 2,
+      "x": 1075373,
+      "y": 43625,
+      "font_sizes": [
+        "3200"
+      ]
+    },
+    {
+      "slide": 3,
+      "x": 1075373,
+      "y": 43625,
+      "font_sizes": [
+        "3200"
+      ]
+    },
+    {
+      "slide": 4,
+      "x": 1075373,
+      "y": 43625,
+      "font_sizes": [
+        "3200"
+      ]
+    },
+    {
+      "slide": 5,
+      "x": 1075373,
+      "y": 43625,
+      "font_sizes": [
+        "3200"
+      ]
+    },
+    {
+      "slide": 6,
+      "x": 1075373,
+      "y": 43625,
+      "font_sizes": [
+        "3200"
+      ]
+    },
+    {
+      "slide": 7,
+      "x": 1075373,
+      "y": 43625,
+      "font_sizes": [
+        "3200"
+      ]
+    },
+    {
+      "slide": 8,
+      "x": 1075373,
+      "y": 43625,
+      "font_sizes": [
+        "3200"
+      ]
+    }
+  ],
+  "template_render_comparisons": [
+    {
+      "slide": 2,
+      "mean_absolute_rgb_difference": {
+        "校徽": 0.0,
+        "右上装饰": 0.031099,
+        "页脚": 0.0
+      }
+    },
+    {
+      "slide": 3,
+      "mean_absolute_rgb_difference": {
+        "校徽": 0.0,
+        "右上装饰": 0.031099,
+        "页脚": 0.0
+      }
+    },
+    {
+      "slide": 4,
+      "mean_absolute_rgb_difference": {
+        "校徽": 0.0,
+        "右上装饰": 0.031099,
+        "页脚": 0.0
+      }
+    },
+    {
+      "slide": 5,
+      "mean_absolute_rgb_difference": {
+        "校徽": 0.0,
+        "右上装饰": 0.031099,
+        "页脚": 0.0
+      }
+    },
+    {
+      "slide": 6,
+      "mean_absolute_rgb_difference": {
+        "校徽": 0.0,
+        "右上装饰": 0.031099,
+        "页脚": 0.0
+      }
+    },
+    {
+      "slide": 7,
+      "mean_absolute_rgb_difference": {
+        "校徽": 0.0,
+        "右上装饰": 0.031099,
+        "页脚": 0.0
+      }
+    },
+    {
+      "slide": 8,
+      "mean_absolute_rgb_difference": {
+        "校徽": 0.0,
+        "右上装饰": 0.031099,
+        "页脚": 0.0
+      }
+    }
+  ],
+  "pptx_sha256": "7827890db8405bae53bd489e169a1f75c0cbd207b09f4d44c9895f229d050e5f",
+  "pdf_sha256": "b74f04c072110174f27e81e9ed6b1a011638fa8182ecf809f6e87f5d818e666e",
+  "text_overflow_count": 0
+}

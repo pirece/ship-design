@@ -1,0 +1,137 @@
+[
+  {
+    "boundWidth": 32.75,
+    "width": 90.75,
+    "text": "型线\r模型",
+    "boundHeight": 34.2,
+    "height": 29.25,
+    "name": "路线文字_型线 / 模型",
+    "slide": 2
+  },
+  {
+    "boundWidth": 47.0,
+    "width": 90.75,
+    "text": "总布置\r舱容",
+    "boundHeight": 34.2,
+    "height": 29.25,
+    "name": "路线文字_总布置 / 舱容",
+    "slide": 2
+  },
+  {
+    "boundWidth": 47.0,
+    "width": 90.75,
+    "text": "快速性\r推进",
+    "boundHeight": 34.2,
+    "height": 29.25,
+    "name": "路线文字_快速性 / 推进",
+    "slide": 2
+  },
+  {
+    "boundWidth": 503.0,
+    "width": 853.5,
+    "text": "当前证明的是型值数据在不同文件之间的传递一致；曲面公平性、接缝、水密性\r及与当前 MSD 切剖的一致性仍待进一步验证。",
+    "boundHeight": 34.2,
+    "height": 32.25,
+    "name": "模型边界说明",
+    "slide": 6
+  },
+  {
+    "boundWidth": 268.87503,
+    "width": 258.0,
+    "text": "仍为几何相似初值，独立分项未闭合",
+    "boundHeight": 19.8,
+    "height": 21.75,
+    "name": "当前缺口文本",
+    "slide": 7
+  },
+  {
+    "boundWidth": 263.46503,
+    "width": 258.0,
+    "text": "DWT 含油水人员备品，不等于货重",
+    "boundHeight": 19.8,
+    "height": 21.75,
+    "name": "当前缺口文本",
+    "slide": 7
+  },
+  {
+    "boundWidth": 214.37505,
+    "width": 183.75,
+    "text": "统一坐标系、单位、模型版本",
+    "boundHeight": 19.35504,
+    "height": 26.25,
+    "name": "计划任务_1",
+    "slide": 8
+  },
+  {
+    "boundWidth": 198.75,
+    "width": 183.75,
+    "text": "定义性能 / 满载 / 压载工况",
+    "boundHeight": 19.35504,
+    "height": 26.25,
+    "name": "计划任务_2",
+    "slide": 8
+  },
+  {
+    "boundWidth": 209.25008,
+    "width": 183.75,
+    "text": "模型与布置交叉验证",
+    "boundHeight": 27.0,
+    "height": 48.0,
+    "name": "阶段标题_1",
+    "slide": 8
+  },
+  {
+    "boundWidth": 198.25,
+    "width": 183.75,
+    "text": "并入货舱、机舱与设备信息",
+    "boundHeight": 19.35504,
+    "height": 26.25,
+    "name": "计划任务_2",
+    "slide": 8
+  },
+  {
+    "boundWidth": 235.25008,
+    "width": 183.75,
+    "text": "重量—浮力—性能闭环",
+    "boundHeight": 27.0,
+    "height": 48.0,
+    "name": "阶段标题_2",
+    "slide": 8
+  },
+  {
+    "boundWidth": 198.25,
+    "width": 183.75,
+    "text": "更新重量重心，闭合排水量",
+    "boundHeight": 19.35504,
+    "height": 26.25,
+    "name": "计划任务_1",
+    "slide": 8
+  },
+  {
+    "boundWidth": 209.25008,
+    "width": 183.75,
+    "text": "方案收敛与成果整理",
+    "boundHeight": 27.0,
+    "height": 48.0,
+    "name": "阶段标题_3",
+    "slide": 8
+  },
+  {
+    "boundWidth": 214.87505,
+    "width": 183.75,
+    "text": "迭代主机 / 桨 / 设备阶段方案",
+    "boundHeight": 19.35504,
+    "height": 26.25,
+    "name": "计划任务_0",
+    "slide": 8
+  },
+  {
+    "boundWidth": 230.5,
+    "width": 183.75,
+    "text": "整理报告、规格书、图纸计算书",
+    "boundHeight": 19.35504,
+    "height": 26.25,
+    "name": "计划任务_2",
+    "slide": 8
+  }
+]

@@ -1,0 +1,942 @@
+{
+  "scope": "P021 p81 FR−5~9/BL6.48~10.90 and P015 three source-based horizontal-floor envelopes; not actual APT",
+  "aft_ap_m": -3.1576002451494714,
+  "fore_ap_m": 5.861295455058706,
+  "roof_BL_m": 10.755575835040387,
+  "reference_load_m3": 318.03982118610446,
+  "reference_load_mass_t": 325.99081671575703,
+  "parent_net_m3": 331.0,
+  "runs": [
+    {
+      "mesh_resolution": 64,
+      "layouts": [
+        {
+          "floor_parent_BL_m": 6.48,
+          "floor_BL_m": 6.39414049642768,
+          "full": {
+            "height_BL_m": 10.755575835040387,
+            "volume_m3": 330.20651758398714,
+            "volume_percent": 100.0,
+            "LCG_AP_m": 2.304492724813179,
+            "VCG_BL_m": 9.371242843960356,
+            "waterplane_area_m2": 138.80414270381738,
+            "geometric_transverse_I_m4": 2944.9941606682733,
+            "geometric_FSM_tm": 3018.61901468498,
+            "nominal_FSM_tm": 0.0
+          },
+          "fill_fractions": [
+            {
+              "height_BL_m": 8.066262896884636,
+              "volume_m3": 33.02065182223764,
+              "volume_percent": 10.00000001933303,
+              "LCG_AP_m": 4.366987561916154,
+              "VCG_BL_m": 7.574190150011529,
+              "waterplane_area_m2": 55.25562414042422,
+              "geometric_transverse_I_m4": 558.6683099893459,
+              "geometric_FSM_tm": 572.6350177390794,
+              "nominal_FSM_tm": 572.6350177390794
+            },
+            {
+              "height_BL_m": 8.729454964729024,
+              "volume_m3": 82.55162942068696,
+              "volume_percent": 25.000000007477194,
+              "LCG_AP_m": 3.493114087516901,
+              "VCG_BL_m": 8.085250637313274,
+              "waterplane_area_m2": 93.27773809404675,
+              "geometric_transverse_I_m4": 1241.8394913549673,
+              "geometric_FSM_tm": 1272.8854786388415,
+              "nominal_FSM_tm": 1272.8854786388415
+            },
+            {
+              "height_BL_m": 9.489337843388062,
+              "volume_m3": 165.10326001329918,
+              "volume_percent": 50.00000036986115,
+              "LCG_AP_m": 2.7848873538276995,
+              "VCG_BL_m": 8.604681887754733,
+              "waterplane_area_m2": 119.52774346651883,
+              "geometric_transverse_I_m4": 1997.2094042170845,
+              "geometric_FSM_tm": 2047.1396393225114,
+              "nominal_FSM_tm": 2047.1396393225114
+            },
+            {
+              "height_BL_m": 10.14523957489437,
+              "volume_m3": 247.65488746052606,
+              "volume_percent": 74.99999977969414,
+              "LCG_AP_m": 2.476775283696727,
+              "VCG_BL_m": 9.010588373873324,
+              "waterplane_area_m2": 131.33930796530677,
+              "geometric_transverse_I_m4": 2541.3491588487577,
+              "geometric_FSM_tm": 2604.8828878199765,
+              "nominal_FSM_tm": 2604.8828878199765
+            },
+            {
+              "height_BL_m": 10.51540513433427,
+              "volume_m3": 297.1858649774189,
+              "volume_percent": 89.99999974313967,
+              "LCG_AP_m": 2.3636019801021586,
+              "VCG_BL_m": 9.230727273853367,
+              "waterplane_area_m2": 136.1133514835452,
+              "geometric_transverse_I_m4": 2793.4922169793645,
+              "geometric_FSM_tm": 2863.3295224038484,
+              "nominal_FSM_tm": 2863.3295224038484
+            },
+            {
+              "height_BL_m": 10.70791045721728,
+              "volume_m3": 323.60238911461937,
+              "volume_percent": 98.00000057004083,
+              "LCG_AP_m": 2.3154883443553866,
+              "VCG_BL_m": 9.343477244147866,
+              "waterplane_area_m2": 138.29894434847833,
+              "geometric_transverse_I_m4": 2916.157549489928,
+              "geometric_FSM_tm": 2989.061488227176,
+              "nominal_FSM_tm": 2989.061488227176
+            },
+            {
+              "height_BL_m": 10.755575818792774,
+              "volume_m3": 330.20651532875024,
+              "volume_percent": 99.9999993170223,
+              "LCG_AP_m": 2.304492728503991,
+              "VCG_BL_m": 9.37124283450567,
+              "waterplane_area_m2": 138.8041425323853,
+              "geometric_transverse_I_m4": 2944.994150829844,
+              "geometric_FSM_tm": 3018.6190046005895,
+              "nominal_FSM_tm": 3018.6190046005895
+            }
+          ],
+          "same_load": {
+            "height_BL_m": 10.667626154587584,
+            "volume_m3": 318.039821592452,
+            "volume_percent": 96.31542827181157,
+            "LCG_AP_m": 2.3250505756584534,
+            "VCG_BL_m": 9.319965192897092,
+            "waterplane_area_m2": 137.86411533541292,
+            "geometric_transverse_I_m4": 2891.522493613731,
+            "geometric_FSM_tm": 2963.810555954074,
+            "nominal_FSM_tm": 2963.810555954074
+          }
+        },
+        {
+          "floor_parent_BL_m": 7.4,
+          "floor_BL_m": 7.301950566908153,
+          "full": {
+            "height_BL_m": 10.755575835040387,
+            "volume_m3": 322.6565468401174,
+            "volume_percent": 100.0,
+            "LCG_AP_m": 2.237500694897017,
+            "VCG_BL_m": 9.428022383552472,
+            "waterplane_area_m2": 138.80414270381738,
+            "geometric_transverse_I_m4": 2944.9941606682733,
+            "geometric_FSM_tm": 3018.61901468498,
+            "nominal_FSM_tm": 0.0
+          },
+          "fill_fractions": [
+            {
+              "height_BL_m": 8.181845933647892,
+              "volume_m3": 32.265654823903716,
+              "volume_percent": 10.00000004335631,
+              "LCG_AP_m": 3.979506525109171,
+              "VCG_BL_m": 7.837526367800982,
+              "waterplane_area_m2": 62.27409721415849,
+              "geometric_transverse_I_m4": 671.2698220931088,
+              "geometric_FSM_tm": 688.0515676454364,
+              "nominal_FSM_tm": 688.0515676454364
+            },
+            {
+              "height_BL_m": 8.78913877823936,
+              "volume_m3": 80.6641357877402,
+              "volume_percent": 24.999999714157617,
+              "LCG_AP_m": 3.258615845102743,
+              "VCG_BL_m": 8.239331558871921,
+              "waterplane_area_m2": 96.4656376846444,
+              "geometric_transverse_I_m4": 1305.0980400177343,
+              "geometric_FSM_tm": 1337.7254910181775,
+              "nominal_FSM_tm": 1337.7254910181775
+            },
+            {
+              "height_BL_m": 9.520828668825121,
+              "volume_m3": 161.3282719264812,
+              "volume_percent": 49.99999953709989,
+              "LCG_AP_m": 2.6530541533266567,
+              "VCG_BL_m": 8.703436024653948,
+              "waterplane_area_m2": 120.22134124388144,
+              "geometric_transverse_I_m4": 2025.7583070426267,
+              "geometric_FSM_tm": 2076.402264718692,
+              "nominal_FSM_tm": 2076.402264718692
+            },
+            {
+              "height_BL_m": 10.159599568524099,
+              "volume_m3": 241.99240896184344,
+              "volume_percent": 74.99999963792936,
+              "LCG_AP_m": 2.387667889922669,
+              "VCG_BL_m": 9.083948363044408,
+              "waterplane_area_m2": 131.54249290168437,
+              "geometric_transverse_I_m4": 2551.6635703442166,
+              "geometric_FSM_tm": 2615.455159602822,
+              "nominal_FSM_tm": 2615.455159602822
+            },
+            {
+              "height_BL_m": 10.520950633657172,
+              "volume_m3": 290.3908906991005,
+              "volume_percent": 89.99999954843464,
+              "LCG_AP_m": 2.289188858892637,
+              "VCG_BL_m": 9.293509623930872,
+              "waterplane_area_m2": 136.17826781829405,
+              "geometric_transverse_I_m4": 2797.0687605147104,
+              "geometric_FSM_tm": 2866.995479527578,
+              "nominal_FSM_tm": 2866.995479527578
+            },
+            {
+              "height_BL_m": 10.709002220335014,
+              "volume_m3": 316.2034143984787,
+              "volume_percent": 97.99999953361046,
+              "LCG_AP_m": 2.2471299019669297,
+              "VCG_BL_m": 9.40140440842885,
+              "waterplane_area_m2": 138.310560225071,
+              "geometric_transverse_I_m4": 2916.816799930571,
+              "geometric_FSM_tm": 2989.737219928835,
+              "nominal_FSM_tm": 2989.737219928835
+            },
+            {
+              "height_BL_m": 10.755575822174631,
+              "volume_m3": 322.6565450542972,
+              "volume_percent": 99.99999944652598,
+              "LCG_AP_m": 2.237500697517203,
+              "VCG_BL_m": 9.428022376204808,
+              "waterplane_area_m2": 138.80414256806802,
+              "geometric_transverse_I_m4": 2944.994152877662,
+              "geometric_FSM_tm": 3018.6190066996032,
+              "nominal_FSM_tm": 3018.6190066996032
+            }
+          ],
+          "same_load": {
+            "height_BL_m": 10.722272865620887,
+            "volume_m3": 318.0398209397185,
+            "volume_percent": 98.56915164263299,
+            "LCG_AP_m": 2.2443564737133146,
+            "VCG_BL_m": 9.408992981418669,
+            "waterplane_area_m2": 138.45159957026735,
+            "geometric_transverse_I_m4": 2924.8362661385104,
+            "geometric_FSM_tm": 2997.957172791973,
+            "nominal_FSM_tm": 2997.957172791973
+          }
+        },
+        {
+          "floor_parent_BL_m": 7.85,
+          "floor_BL_m": 7.745988101382296,
+          "full": {
+            "height_BL_m": 10.755575835040387,
+            "volume_m3": 311.6814550541677,
+            "volume_percent": 100.0,
+            "LCG_AP_m": 2.156941713057576,
+            "VCG_BL_m": 9.494035445071702,
+            "waterplane_area_m2": 138.80414270381738,
+            "geometric_transverse_I_m4": 2944.9941606682733,
+            "geometric_FSM_tm": 3018.61901468498,
+            "nominal_FSM_tm": 0.0
+          },
+          "fill_fractions": [
+            {
+              "height_BL_m": 8.330048344259643,
+              "volume_m3": 31.168146139372862,
+              "volume_percent": 10.00000020339872,
+              "LCG_AP_m": 3.5345775850951826,
+              "VCG_BL_m": 8.070717078427432,
+              "waterplane_area_m2": 70.97934372626779,
+              "geometric_transverse_I_m4": 821.5071167925662,
+              "geometric_FSM_tm": 842.0447947123803,
+              "nominal_FSM_tm": 842.0447947123803
+            },
+            {
+              "height_BL_m": 8.872560942242892,
+              "volume_m3": 77.92036358999947,
+              "volume_percent": 24.99999994432057,
+              "LCG_AP_m": 2.97679129557396,
+              "VCG_BL_m": 8.39847588882708,
+              "waterplane_area_m2": 100.86575918259416,
+              "geometric_transverse_I_m4": 1393.6283010797324,
+              "geometric_FSM_tm": 1428.4690086067255,
+              "nominal_FSM_tm": 1428.4690086067255
+            },
+            {
+              "height_BL_m": 9.566288442958047,
+              "volume_m3": 155.84072876483663,
+              "volume_percent": 50.000000397121084,
+              "LCG_AP_m": 2.4949434823685066,
+              "VCG_BL_m": 8.814017044418975,
+              "waterplane_area_m2": 121.19808034448782,
+              "geometric_transverse_I_m4": 2066.8045614882167,
+              "geometric_FSM_tm": 2118.474675525422,
+              "nominal_FSM_tm": 2118.474675525422
+            },
+            {
+              "height_BL_m": 10.1804348364467,
+              "volume_m3": 233.76109093061692,
+              "volume_percent": 74.99999988449461,
+              "LCG_AP_m": 2.280565137007235,
+              "VCG_BL_m": 9.168559282623004,
+              "waterplane_area_m2": 131.83488590790418,
+              "geometric_transverse_I_m4": 2566.5920141564175,
+              "geometric_FSM_tm": 2630.756814510328,
+              "nominal_FSM_tm": 2630.756814510328
+            },
+            {
+              "height_BL_m": 10.529007210390255,
+              "volume_m3": 280.5133093942517,
+              "volume_percent": 89.9999999504304,
+              "LCG_AP_m": 2.199711406730734,
+              "VCG_BL_m": 9.366412789201453,
+              "waterplane_area_m2": 136.27254387279132,
+              "geometric_transverse_I_m4": 2802.273067238594,
+              "geometric_FSM_tm": 2872.329893919559,
+              "nominal_FSM_tm": 2872.329893919559
+            },
+            {
+              "height_BL_m": 10.710589147647292,
+              "volume_m3": 305.4478248129373,
+              "volume_percent": 97.99999963419478,
+              "LCG_AP_m": 2.1649279712428493,
+              "VCG_BL_m": 9.468748502716892,
+              "waterplane_area_m2": 138.327440984968,
+              "geometric_transverse_I_m4": 2917.7751895535275,
+              "geometric_FSM_tm": 2990.7195692923656,
+              "nominal_FSM_tm": 2990.7195692923656
+            },
+            {
+              "height_BL_m": 10.7555758238288,
+              "volume_m3": 311.681453497952,
+              "volume_percent": 99.99999950070315,
+              "LCG_AP_m": 2.1569417150190575,
+              "VCG_BL_m": 9.494035438772869,
+              "waterplane_area_m2": 138.8041425855215,
+              "geometric_transverse_I_m4": 2944.994153879312,
+              "geometric_FSM_tm": 3018.6190077262945,
+              "nominal_FSM_tm": 3018.6190077262945
+            }
+          ],
+          "same_load": null
+        }
+      ]
+    },
+    {
+      "mesh_resolution": 128,
+      "layouts": [
+        {
+          "floor_parent_BL_m": 6.48,
+          "floor_BL_m": 6.39414049642768,
+          "full": {
+            "height_BL_m": 10.755575835040387,
+            "volume_m3": 330.02271243964225,
+            "volume_percent": 100.00000000000001,
+            "LCG_AP_m": 2.301503521568389,
+            "VCG_BL_m": 9.37406226897869,
+            "waterplane_area_m2": 138.83923205228783,
+            "geometric_transverse_I_m4": 2947.1629252641246,
+            "geometric_FSM_tm": 3020.8419983957274,
+            "nominal_FSM_tm": 0.0
+          },
+          "fill_fractions": [
+            {
+              "height_BL_m": 8.072706017703256,
+              "volume_m3": 33.002270549175435,
+              "volume_percent": 9.999999789472433,
+              "LCG_AP_m": 4.357712778027344,
+              "VCG_BL_m": 7.588008174580083,
+              "waterplane_area_m2": 55.73487248613695,
+              "geometric_transverse_I_m4": 566.786277854341,
+              "geometric_FSM_tm": 580.9559348006995,
+              "nominal_FSM_tm": 580.9559348006995
+            },
+            {
+              "height_BL_m": 8.732396530027744,
+              "volume_m3": 82.50567960025039,
+              "volume_percent": 25.00000045158705,
+              "LCG_AP_m": 3.4846995439201254,
+              "VCG_BL_m": 8.09332396772354,
+              "waterplane_area_m2": 93.53116454161233,
+              "geometric_transverse_I_m4": 1248.0196351354887,
+              "geometric_FSM_tm": 1279.2201260138759,
+              "nominal_FSM_tm": 1279.2201260138759
+            },
+            {
+              "height_BL_m": 9.490699230860743,
+              "volume_m3": 165.0113566113064,
+              "volume_percent": 50.00000011862374,
+              "LCG_AP_m": 2.779400728909089,
+              "VCG_BL_m": 8.609722197190678,
+              "waterplane_area_m2": 119.63846217738379,
+              "geometric_transverse_I_m4": 2001.7782513496552,
+              "geometric_FSM_tm": 2051.8227076333965,
+              "nominal_FSM_tm": 2051.8227076333965
+            },
+            {
+              "height_BL_m": 10.14579748542113,
+              "volume_m3": 247.51703458654865,
+              "volume_percent": 75.00000007781797,
+              "LCG_AP_m": 2.4728637245048155,
+              "VCG_BL_m": 9.01425989171755,
+              "waterplane_area_m2": 131.40217957076453,
+              "geometric_transverse_I_m4": 2544.7530121275017,
+              "geometric_FSM_tm": 2608.371837430689,
+              "nominal_FSM_tm": 2608.371837430689
+            },
+            {
+              "height_BL_m": 10.515605824847011,
+              "volume_m3": 297.02043911405025,
+              "volume_percent": 89.99999936924712,
+              "LCG_AP_m": 2.3603011565778935,
+              "VCG_BL_m": 9.233849241110534,
+              "waterplane_area_m2": 136.1673001706075,
+              "geometric_transverse_I_m4": 2796.760301407801,
+              "geometric_FSM_tm": 2866.6793089429957,
+              "nominal_FSM_tm": 2866.6793089429957
+            },
+            {
+              "height_BL_m": 10.707948704097705,
+              "volume_m3": 323.4222572882961,
+              "volume_percent": 97.99999972651783,
+              "LCG_AP_m": 2.3124408630095634,
+              "VCG_BL_m": 9.346353805085245,
+              "waterplane_area_m2": 138.33154944271033,
+              "geometric_transverse_I_m4": 2918.0587513744695,
+              "geometric_FSM_tm": 2991.010220158831,
+              "nominal_FSM_tm": 2991.010220158831
+            },
+            {
+              "height_BL_m": 10.755575818792774,
+              "volume_m3": 330.02271018383664,
+              "volume_percent": 99.99999931646958,
+              "LCG_AP_m": 2.301503525242303,
+              "VCG_BL_m": 9.374062259535625,
+              "waterplane_area_m2": 138.83923188052353,
+              "geometric_transverse_I_m4": 2947.162915359716,
+              "geometric_FSM_tm": 3020.841988243709,
+              "nominal_FSM_tm": 3020.841988243709
+            }
+          ],
+          "same_load": {
+            "height_BL_m": 10.66897966196808,
+            "volume_m3": 318.03982132207847,
+            "volume_percent": 96.36907077425607,
+            "LCG_AP_m": 2.3216462035042498,
+            "VCG_BL_m": 9.323640055941928,
+            "waterplane_area_m2": 137.90831212815675,
+            "geometric_transverse_I_m4": 2893.996576390044,
+            "geometric_FSM_tm": 2966.346490799795,
+            "nominal_FSM_tm": 2966.346490799795
+          }
+        },
+        {
+          "floor_parent_BL_m": 7.4,
+          "floor_BL_m": 7.301950566908153,
+          "full": {
+            "height_BL_m": 10.755575835040387,
+            "volume_m3": 322.7972552584791,
+            "volume_percent": 100.0,
+            "LCG_AP_m": 2.2368611950999826,
+            "VCG_BL_m": 9.428242466787296,
+            "waterplane_area_m2": 138.83923205228783,
+            "geometric_transverse_I_m4": 2947.1629252641246,
+            "geometric_FSM_tm": 3020.8419983957274,
+            "nominal_FSM_tm": 0.0
+          },
+          "fill_fractions": [
+            {
+              "height_BL_m": 8.182744864068935,
+              "volume_m3": 32.27972553929597,
+              "volume_percent": 10.0000000041661,
+              "LCG_AP_m": 3.980423153144742,
+              "VCG_BL_m": 7.838959210664114,
+              "waterplane_area_m2": 62.413557239330416,
+              "geometric_transverse_I_m4": 674.5814047588779,
+              "geometric_FSM_tm": 691.4459398778497,
+              "nominal_FSM_tm": 691.4459398778497
+            },
+            {
+              "height_BL_m": 8.789405176597713,
+              "volume_m3": 80.69931326959933,
+              "volume_percent": 24.99999983115704,
+              "LCG_AP_m": 3.2579897153523962,
+              "VCG_BL_m": 8.240212260531765,
+              "waterplane_area_m2": 96.5780474232632,
+              "geometric_transverse_I_m4": 1308.5325793482868,
+              "geometric_FSM_tm": 1341.245893831994,
+              "nominal_FSM_tm": 1341.245893831994
+            },
+            {
+              "height_BL_m": 9.52081281821286,
+              "volume_m3": 161.3986287217892,
+              "volume_percent": 50.000000338463124,
+              "LCG_AP_m": 2.6521601785314983,
+              "VCG_BL_m": 8.703921821838007,
+              "waterplane_area_m2": 120.29894928985846,
+              "geometric_transverse_I_m4": 2029.021180584108,
+              "geometric_FSM_tm": 2079.7467100987105,
+              "nominal_FSM_tm": 2079.7467100987105
+            },
+            {
+              "height_BL_m": 10.159534107553979,
+              "volume_m3": 242.09794082403747,
+              "volume_percent": 74.99999980798417,
+              "LCG_AP_m": 2.3868794352064757,
+              "VCG_BL_m": 9.084255779592858,
+              "waterplane_area_m2": 131.59724157672733,
+              "geometric_transverse_I_m4": 2554.67728235637,
+              "geometric_FSM_tm": 2618.5442144152794,
+              "nominal_FSM_tm": 2618.5442144152794
+            },
+            {
+              "height_BL_m": 10.52091092993198,
+              "volume_m3": 290.5175289769759,
+              "volume_percent": 89.99999976590405,
+              "LCG_AP_m": 2.288498108035206,
+              "VCG_BL_m": 9.29375668333954,
+              "waterplane_area_m2": 136.22955351339482,
+              "geometric_transverse_I_m4": 2800.191529176558,
+              "geometric_FSM_tm": 2870.196317405972,
+              "nominal_FSM_tm": 2870.196317405972
+            },
+            {
+              "height_BL_m": 10.708993317231375,
+              "volume_m3": 316.34130891873644,
+              "volume_percent": 97.99999961753917,
+              "LCG_AP_m": 2.246480018718963,
+              "VCG_BL_m": 9.401629073503377,
+              "waterplane_area_m2": 138.34276497077988,
+              "geometric_transverse_I_m4": 2918.698022499697,
+              "geometric_FSM_tm": 2991.665473062189,
+              "nominal_FSM_tm": 2991.665473062189
+            },
+            {
+              "height_BL_m": 10.755575822174631,
+              "volume_m3": 322.7972534722067,
+              "volume_percent": 99.99999944662716,
+              "LCG_AP_m": 2.236861197716598,
+              "VCG_BL_m": 9.42824245944219,
+              "waterplane_area_m2": 138.83923191627537,
+              "geometric_transverse_I_m4": 2947.162917421267,
+              "geometric_FSM_tm": 3020.8419903567988,
+              "nominal_FSM_tm": 3020.8419903567988
+            }
+          ],
+          "same_load": {
+            "height_BL_m": 10.721265045867963,
+            "volume_m3": 318.0398210911964,
+            "volume_percent": 98.52618506205292,
+            "LCG_AP_m": 2.2439176265610357,
+            "VCG_BL_m": 9.408643910716288,
+            "waterplane_area_m2": 138.47425402326556,
+            "geometric_transverse_I_m4": 2926.2050689649186,
+            "geometric_FSM_tm": 2999.360195689041,
+            "nominal_FSM_tm": 2999.360195689041
+          }
+        },
+        {
+          "floor_parent_BL_m": 7.85,
+          "floor_BL_m": 7.745988101382296,
+          "full": {
+            "height_BL_m": 10.755575835040387,
+            "volume_m3": 311.8881930930482,
+            "volume_percent": 100.0,
+            "LCG_AP_m": 2.1564313725710305,
+            "VCG_BL_m": 9.493812181048275,
+            "waterplane_area_m2": 138.83923205228783,
+            "geometric_transverse_I_m4": 2947.1629252641246,
+            "geometric_FSM_tm": 3020.8419983957274,
+            "nominal_FSM_tm": 0.0
+          },
+          "fill_fractions": [
+            {
+              "height_BL_m": 8.329829606178025,
+              "volume_m3": 31.188819362812435,
+              "volume_percent": 10.000000017156024,
+              "LCG_AP_m": 3.534270950454358,
+              "VCG_BL_m": 8.070637857243703,
+              "waterplane_area_m2": 71.0472235050924,
+              "geometric_transverse_I_m4": 823.8874311649331,
+              "geometric_FSM_tm": 844.4846169440564,
+              "nominal_FSM_tm": 844.4846169440564
+            },
+            {
+              "height_BL_m": 8.872244483960383,
+              "volume_m3": 77.97204910405667,
+              "volume_percent": 25.000000266375785,
+              "LCG_AP_m": 2.976357271179322,
+              "VCG_BL_m": 8.39828035543039,
+              "waterplane_area_m2": 100.94306572325158,
+              "geometric_transverse_I_m4": 1396.3225328957283,
+              "geometric_FSM_tm": 1431.2305962181213,
+              "nominal_FSM_tm": 1431.2305962181213
+            },
+            {
+              "height_BL_m": 9.565972455562234,
+              "volume_m3": 155.94409752768544,
+              "volume_percent": 50.000000314587524,
+              "LCG_AP_m": 2.494271890724901,
+              "VCG_BL_m": 8.813755053216184,
+              "waterplane_area_m2": 121.26301248322004,
+              "geometric_transverse_I_m4": 2069.544692961149,
+              "geometric_FSM_tm": 2121.2833102851773,
+              "nominal_FSM_tm": 2121.2833102851773
+            },
+            {
+              "height_BL_m": 10.180235516835475,
+              "volume_m3": 233.9161441524106,
+              "volume_percent": 74.99999978602091,
+              "LCG_AP_m": 2.279946321974862,
+              "VCG_BL_m": 9.168297249274138,
+              "waterplane_area_m2": 131.88817143593937,
+              "geometric_transverse_I_m4": 2569.5532806818096,
+              "geometric_FSM_tm": 2633.7921126988545,
+              "nominal_FSM_tm": 2633.7921126988545
+            },
+            {
+              "height_BL_m": 10.52891603775675,
+              "volume_m3": 280.69937400540596,
+              "volume_percent": 90.00000007107117,
+              "LCG_AP_m": 2.199164373943175,
+              "VCG_BL_m": 9.366170041270278,
+              "waterplane_area_m2": 136.32315653044603,
+              "geometric_transverse_I_m4": 2805.3541117854365,
+              "geometric_FSM_tm": 2875.487964580072,
+              "nominal_FSM_tm": 2875.487964580072
+            },
+            {
+              "height_BL_m": 10.710570334602652,
+              "volume_m3": 305.65042904339714,
+              "volume_percent": 97.99999993978929,
+              "LCG_AP_m": 2.1644098447813356,
+              "VCG_BL_m": 9.468520876572406,
+              "waterplane_area_m2": 138.35968992635725,
+              "geometric_transverse_I_m4": 2919.6630349056627,
+              "geometric_FSM_tm": 2992.6546107783042,
+              "nominal_FSM_tm": 2992.6546107783042
+            },
+            {
+              "height_BL_m": 10.7555758238288,
+              "volume_m3": 311.8881915364396,
+              "volume_percent": 99.99999950090813,
+              "LCG_AP_m": 2.156431374529558,
+              "VCG_BL_m": 9.493812174750909,
+              "waterplane_area_m2": 138.83923193376268,
+              "geometric_transverse_I_m4": 2947.1629184296344,
+              "geometric_FSM_tm": 3020.841991390375,
+              "nominal_FSM_tm": 3020.841991390375
+            }
+          ],
+          "same_load": null
+        }
+      ]
+    },
+    {
+      "mesh_resolution": 192,
+      "layouts": [
+        {
+          "floor_parent_BL_m": 6.48,
+          "floor_BL_m": 6.39414049642768,
+          "full": {
+            "height_BL_m": 10.755575835040387,
+            "volume_m3": 329.9870301009403,
+            "volume_percent": 99.99999999999999,
+            "LCG_AP_m": 2.300866104285071,
+            "VCG_BL_m": 9.374599079420683,
+            "waterplane_area_m2": 138.84615222077784,
+            "geometric_transverse_I_m4": 2947.604642386261,
+            "geometric_FSM_tm": 3021.294758445917,
+            "nominal_FSM_tm": 0.0
+          },
+          "fill_fractions": [
+            {
+              "height_BL_m": 8.074005859218826,
+              "volume_m3": 32.998703832476046,
+              "volume_percent": 10.000000249216466,
+              "LCG_AP_m": 4.355762239896723,
+              "VCG_BL_m": 7.590667450504319,
+              "waterplane_area_m2": 55.856845981358376,
+              "geometric_transverse_I_m4": 568.4658564017791,
+              "geometric_FSM_tm": 582.6775028118235,
+              "nominal_FSM_tm": 582.6775028118235
+            },
+            {
+              "height_BL_m": 8.732948428937778,
+              "volume_m3": 82.49675783035559,
+              "volume_percent": 25.0000000924644,
+              "LCG_AP_m": 3.4828155208657385,
+              "VCG_BL_m": 8.094880273160804,
+              "waterplane_area_m2": 93.58100706355059,
+              "geometric_transverse_I_m4": 1249.1869652676842,
+              "geometric_FSM_tm": 1280.4166393993762,
+              "nominal_FSM_tm": 1280.4166393993762
+            },
+            {
+              "height_BL_m": 9.490948014307241,
+              "volume_m3": 164.99351382256586,
+              "volume_percent": 49.999999627893175,
+              "LCG_AP_m": 2.778208530847492,
+              "VCG_BL_m": 8.610686116105958,
+              "waterplane_area_m2": 119.65655252293939,
+              "geometric_transverse_I_m4": 2002.4924766132704,
+              "geometric_FSM_tm": 2052.554788528602,
+              "nominal_FSM_tm": 2052.554788528602
+            },
+            {
+              "height_BL_m": 10.145899942867159,
+              "volume_m3": 247.49027440675036,
+              "volume_percent": 75.00000055488398,
+              "LCG_AP_m": 2.4720237144818764,
+              "VCG_BL_m": 9.014959288325521,
+              "waterplane_area_m2": 131.4129661832742,
+              "geometric_transverse_I_m4": 2545.3497565964176,
+              "geometric_FSM_tm": 2608.9835005113277,
+              "nominal_FSM_tm": 2608.9835005113277
+            },
+            {
+              "height_BL_m": 10.515643844260856,
+              "volume_m3": 296.98832548478526,
+              "volume_percent": 89.99999951329573,
+              "LCG_AP_m": 2.3595951945979183,
+              "VCG_BL_m": 9.23444360358431,
+              "waterplane_area_m2": 136.1735630997703,
+              "geometric_transverse_I_m4": 2797.112240711735,
+              "geometric_FSM_tm": 2867.040046729528,
+              "nominal_FSM_tm": 2867.040046729528
+            },
+            {
+              "height_BL_m": 10.707956242990024,
+              "volume_m3": 323.3872914502918,
+              "volume_percent": 98.00000059134759,
+              "LCG_AP_m": 2.311790590877701,
+              "VCG_BL_m": 9.346901505920526,
+              "waterplane_area_m2": 138.3379729759269,
+              "geometric_transverse_I_m4": 2918.4537730895745,
+              "geometric_FSM_tm": 2991.4151174168137,
+              "nominal_FSM_tm": 2991.4151174168137
+            },
+            {
+              "height_BL_m": 10.755575818792774,
+              "volume_m3": 329.9870278450211,
+              "volume_percent": 99.99999931636125,
+              "LCG_AP_m": 2.3008661079552417,
+              "VCG_BL_m": 9.374599069979794,
+              "waterplane_area_m2": 138.8461520491287,
+              "geometric_transverse_I_m4": 2947.604632488952,
+              "geometric_FSM_tm": 3021.294748301176,
+              "nominal_FSM_tm": 3021.294748301176
+            }
+          ],
+          "same_load": {
+            "height_BL_m": 10.669242483351994,
+            "volume_m3": 318.0398212802646,
+            "volume_percent": 96.37949139485237,
+            "LCG_AP_m": 2.320925761790894,
+            "VCG_BL_m": 9.324342249797526,
+            "waterplane_area_m2": 137.91741835004157,
+            "geometric_transverse_I_m4": 2894.528416000204,
+            "geometric_FSM_tm": 2966.8916264002087,
+            "nominal_FSM_tm": 2966.8916264002087
+          }
+        },
+        {
+          "floor_parent_BL_m": 7.4,
+          "floor_BL_m": 7.301950566908153,
+          "full": {
+            "height_BL_m": 10.755575835040387,
+            "volume_m3": 322.8293265783816,
+            "volume_percent": 100.0,
+            "LCG_AP_m": 2.2366923136483456,
+            "VCG_BL_m": 9.428257775089092,
+            "waterplane_area_m2": 138.84615222077784,
+            "geometric_transverse_I_m4": 2947.604642386261,
+            "geometric_FSM_tm": 3021.294758445917,
+            "nominal_FSM_tm": 0.0
+          },
+          "fill_fractions": [
+            {
+              "height_BL_m": 8.182874319312907,
+              "volume_m3": 32.28293212551676,
+              "volume_percent": 9.999999835107483,
+              "LCG_AP_m": 3.980251811699229,
+              "VCG_BL_m": 7.839236855801526,
+              "waterplane_area_m2": 62.44828275433815,
+              "geometric_transverse_I_m4": 675.2398139548282,
+              "geometric_FSM_tm": 692.1208093036988,
+              "nominal_FSM_tm": 692.1208093036988
+            },
+            {
+              "height_BL_m": 8.789401754306429,
+              "volume_m3": 80.70733167336617,
+              "volume_percent": 25.000000008912068,
+              "LCG_AP_m": 3.2576451327846567,
+              "VCG_BL_m": 8.240349205616132,
+              "waterplane_area_m2": 96.59793338367065,
+              "geometric_transverse_I_m4": 1309.1447507626713,
+              "geometric_FSM_tm": 1341.873369531738,
+              "nominal_FSM_tm": 1341.873369531738
+            },
+            {
+              "height_BL_m": 9.5207754817869,
+              "volume_m3": 161.41466465078804,
+              "volume_percent": 50.00000042177,
+              "LCG_AP_m": 2.6518828571711563,
+              "VCG_BL_m": 8.703976833302262,
+              "waterplane_area_m2": 120.31125535892858,
+              "geometric_transverse_I_m4": 2029.5221294725466,
+              "geometric_FSM_tm": 2080.26018270936,
+              "nominal_FSM_tm": 2080.26018270936
+            },
+            {
+              "height_BL_m": 10.15950672922371,
+              "volume_m3": 242.12199618025204,
+              "volume_percent": 75.00000038610675,
+              "LCG_AP_m": 2.386662155415662,
+              "VCG_BL_m": 9.084281022062482,
+              "waterplane_area_m2": 131.60634402164908,
+              "geometric_transverse_I_m4": 2555.2021515274764,
+              "geometric_FSM_tm": 2619.082205315663,
+              "nominal_FSM_tm": 2619.082205315663
+            },
+            {
+              "height_BL_m": 10.520898990509757,
+              "volume_m3": 290.54639557312413,
+              "volume_percent": 90.00000051190538,
+              "LCG_AP_m": 2.2883124766294256,
+              "VCG_BL_m": 9.293774366997082,
+              "waterplane_area_m2": 136.23505694772737,
+              "geometric_transverse_I_m4": 2800.4953511039907,
+              "geometric_FSM_tm": 2870.5077348815903,
+              "nominal_FSM_tm": 2870.5077348815903
+            },
+            {
+              "height_BL_m": 10.708991001395166,
+              "volume_m3": 316.3727400733138,
+              "volume_percent": 98.00000000820863,
+              "LCG_AP_m": 2.246307836869726,
+              "VCG_BL_m": 9.401644722845871,
+              "waterplane_area_m2": 138.34911581779085,
+              "geometric_transverse_I_m4": 2919.0896987041647,
+              "geometric_FSM_tm": 2992.0669411717686,
+              "nominal_FSM_tm": 2992.0669411717686
+            },
+            {
+              "height_BL_m": 10.755575822174631,
+              "volume_m3": 322.8293247920212,
+              "volume_percent": 99.99999944665487,
+              "LCG_AP_m": 2.236692316263925,
+              "VCG_BL_m": 9.428257767744446,
+              "waterplane_area_m2": 138.84615208485658,
+              "geometric_transverse_I_m4": 2947.604634549026,
+              "geometric_FSM_tm": 3021.294750412751,
+              "nominal_FSM_tm": 3021.294750412751
+            }
+          ],
+          "same_load": {
+            "height_BL_m": 10.721035173392902,
+            "volume_m3": 318.0398207692823,
+            "volume_percent": 98.51639692717433,
+            "LCG_AP_m": 2.2437937404516886,
+            "VCG_BL_m": 9.408529057665936,
+            "waterplane_area_m2": 138.4785720921901,
+            "geometric_transverse_I_m4": 2926.488847655762,
+            "geometric_FSM_tm": 2999.651068847156,
+            "nominal_FSM_tm": 2999.651068847156
+          }
+        },
+        {
+          "floor_parent_BL_m": 7.85,
+          "floor_BL_m": 7.745988101382296,
+          "full": {
+            "height_BL_m": 10.755575835040387,
+            "volume_m3": 311.93309152489655,
+            "volume_percent": 100.0,
+            "LCG_AP_m": 2.1562898303062794,
+            "VCG_BL_m": 9.4937390983025,
+            "waterplane_area_m2": 138.84615222077784,
+            "geometric_transverse_I_m4": 2947.604642386261,
+            "geometric_FSM_tm": 3021.294758445917,
+            "nominal_FSM_tm": 0.0
+          },
+          "fill_fractions": [
+            {
+              "height_BL_m": 8.32973078724151,
+              "volume_m3": 31.193309396270475,
+              "volume_percent": 10.000000078151638,
+              "LCG_AP_m": 3.533781390512326,
+              "VCG_BL_m": 8.070598273580163,
+              "waterplane_area_m2": 71.06367038651115,
+              "geometric_transverse_I_m4": 824.3372493753794,
+              "geometric_FSM_tm": 844.9456806097638,
+              "nominal_FSM_tm": 844.9456806097638
+            },
+            {
+              "height_BL_m": 8.87212985668481,
+              "volume_m3": 77.98327208770766,
+              "volume_percent": 24.999999745613245,
+              "LCG_AP_m": 2.9760611683933096,
+              "VCG_BL_m": 8.398197602280282,
+              "waterplane_area_m2": 100.9567247495518,
+              "geometric_transverse_I_m4": 1396.8192928883686,
+              "geometric_FSM_tm": 1431.7397752105778,
+              "nominal_FSM_tm": 1431.7397752105778
+            },
+            {
+              "height_BL_m": 9.56587753825834,
+              "volume_m3": 155.9665451841925,
+              "volume_percent": 49.99999981462186,
+              "LCG_AP_m": 2.4940418321854416,
+              "VCG_BL_m": 8.813659928881197,
+              "waterplane_area_m2": 121.27420376594608,
+              "geometric_transverse_I_m4": 2070.014449049151,
+              "geometric_FSM_tm": 2121.7648102753797,
+              "nominal_FSM_tm": 2121.7648102753797
+            },
+            {
+              "height_BL_m": 10.180182329062065,
+              "volume_m3": 233.94981845579196,
+              "volume_percent": 74.999999939769,
+              "LCG_AP_m": 2.2797651775332484,
+              "VCG_BL_m": 9.168208796698437,
+              "waterplane_area_m2": 131.89767526469834,
+              "geometric_transverse_I_m4": 2570.1123782290933,
+              "geometric_FSM_tm": 2634.3651876848203,
+              "nominal_FSM_tm": 2634.3651876848203
+            },
+            {
+              "height_BL_m": 10.528894354545583,
+              "volume_m3": 280.73978284627015,
+              "volume_percent": 90.00000015191182,
+              "LCG_AP_m": 2.199008974394563,
+              "VCG_BL_m": 9.366090044541215,
+              "waterplane_area_m2": 136.32843970156483,
+              "geometric_transverse_I_m4": 2805.6416440197786,
+              "geometric_FSM_tm": 2875.7826851202726,
+              "nominal_FSM_tm": 2875.7826851202726
+            },
+            {
+              "height_BL_m": 10.710566074199217,
+              "volume_m3": 305.6944283041626,
+              "volume_percent": 97.99999955431596,
+              "LCG_AP_m": 2.1642655567774907,
+              "VCG_BL_m": 9.468446340554316,
+              "waterplane_area_m2": 138.3660722104826,
+              "geometric_transverse_I_m4": 2920.0577008566634,
+              "geometric_FSM_tm": 2993.0591433780796,
+              "nominal_FSM_tm": 2993.0591433780796
+            },
+            {
+              "height_BL_m": 10.7555758238288,
+              "volume_m3": 311.93308996821094,
+              "volume_percent": 99.99999950095528,
+              "LCG_AP_m": 2.156289832263949,
+              "VCG_BL_m": 9.493739092005372,
+              "waterplane_area_m2": 138.84615210233218,
+              "geometric_transverse_I_m4": 2947.60463555667,
+              "geometric_FSM_tm": 3021.2947514455864,
+              "nominal_FSM_tm": 3021.2947514455864
+            }
+          ],
+          "same_load": null
+        }
+      ]
+    }
+  ],
+  "formal_net_capacity_m3": null
+}

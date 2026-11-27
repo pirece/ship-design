@@ -1,0 +1,165 @@
+{
+  "render_application": "Microsoft PowerPoint COM",
+  "source_size": [
+    1672,
+    941
+  ],
+  "slides": [
+    {
+      "index": 1,
+      "source": "船舶设计困难与解决措施闭环分析.png",
+      "native_shapes": 123,
+      "native_textboxes": 52,
+      "native_groups": 45,
+      "independent_images": 3,
+      "text_exact_match": true,
+      "single_combined_render_identical": true
+    },
+    {
+      "index": 2,
+      "source": "船舶设计任务信息图幻灯片.png",
+      "native_shapes": 69,
+      "native_textboxes": 30,
+      "native_groups": 7,
+      "independent_images": 1,
+      "text_exact_match": true,
+      "single_combined_render_identical": true
+    },
+    {
+      "index": 3,
+      "source": "船舶设计项目总体进展 infographics.png",
+      "native_shapes": 151,
+      "native_textboxes": 61,
+      "native_groups": 0,
+      "independent_images": 6,
+      "text_exact_match": true,
+      "single_combined_render_identical": true
+    },
+    {
+      "index": 4,
+      "source": "船舶总体设计流程与任务概览.png",
+      "native_shapes": 70,
+      "native_textboxes": 26,
+      "native_groups": 11,
+      "independent_images": 2,
+      "text_exact_match": true,
+      "single_combined_render_identical": true
+    },
+    {
+      "index": 5,
+      "source": "船舶总体设计与快速性初估.png",
+      "native_shapes": 208,
+      "native_textboxes": 92,
+      "native_groups": 56,
+      "independent_images": 4,
+      "text_exact_match": true,
+      "single_combined_render_identical": true
+    },
+    {
+      "index": 6,
+      "source": "大学船舶设计进展规划时间轴.png",
+      "native_shapes": 130,
+      "native_textboxes": 53,
+      "native_groups": 27,
+      "independent_images": 1,
+      "text_exact_match": true,
+      "single_combined_render_identical": true
+    },
+    {
+      "index": 7,
+      "source": "上海交大风格B组成员分工图.png",
+      "native_shapes": 94,
+      "native_textboxes": 40,
+      "native_groups": 20,
+      "independent_images": 3,
+      "text_exact_match": true,
+      "single_combined_render_identical": true
+    },
+    {
+      "index": 8,
+      "source": "上海交通大学船舶设计课程汇报封面.png",
+      "native_shapes": 6,
+      "native_textboxes": 6,
+      "native_groups": 0,
+      "independent_images": 0,
+      "text_exact_match": true,
+      "single_combined_render_identical": true
+    },
+    {
+      "index": 9,
+      "source": "型线设计与三维建模阶段成果.png",
+      "native_shapes": 149,
+      "native_textboxes": 110,
+      "native_groups": 21,
+      "independent_images": 7,
+      "text_exact_match": true,
+      "single_combined_render_identical": true
+    }
+  ],
+  "native_text_missing": [],
+  "native_text_extra": [],
+  "page_size_emu": {
+    "cx": 12192000,
+    "cy": 6861646
+  },
+  "embedded_full_reference_images": [],
+  "totals": {
+    "native_shapes": 1000,
+    "native_textboxes": 470,
+    "native_groups": 187,
+    "independent_images": 27
+  },
+  "all_expected_text_native": true,
+  "delivered_files": [
+    {
+      "file": "pptx/combined_editable.pptx",
+      "bytes": 7173075,
+      "sha256": "a28e325984f24ec5639fa6c6c866e110d8df8375c92fb38f971e53816b32c64d"
+    },
+    {
+      "file": "pptx/上海交大风格B组成员分工图_editable.pptx",
+      "bytes": 5262383,
+      "sha256": "bd3873ca7a376855c0057e34e41aaff92bc7670bcf918f406b727001802a50b0"
+    },
+    {
+      "file": "pptx/上海交通大学船舶设计课程汇报封面_editable.pptx",
+      "bytes": 5055420,
+      "sha256": "c77f37581b9930572242eb166f0dc95788d6915a17c2376ae9d4b6c8a723313e"
+    },
+    {
+      "file": "pptx/型线设计与三维建模阶段成果_editable.pptx",
+      "bytes": 5808543,
+      "sha256": "0303a6b8e7a3fe5de123ef4b71407cf333288e27e9b6ee8939a5c156f3b77e24"
+    },
+    {
+      "file": "pptx/大学船舶设计进展规划时间轴_editable.pptx",
+      "bytes": 5098876,
+      "sha256": "91dfd49ac5bbef99e2b63ecddb6dfdfb56909a1bc642ffe2cc6c8d7e1076a72a"
+    },
+    {
+      "file": "pptx/船舶总体设计与快速性初估_editable.pptx",
+      "bytes": 5280397,
+      "sha256": "e8b40e3a077022ac3210ab12d6031fc8364326ed7d3fadaa4b771a1b95af5b7a"
+    },
+    {
+      "file": "pptx/船舶总体设计流程与任务概览_editable.pptx",
+      "bytes": 5163021,
+      "sha256": "6532b84432e082e25f1d8e1ee3555c921e44a4eb663461cf6b0f97911bfbc150"
+    },
+    {
+      "file": "pptx/船舶设计任务信息图幻灯片_editable.pptx",
+      "bytes": 5296939,
+      "sha256": "4ac97e566557d29ca6a97f28819756419d9a5f167ecebb25a8e9b3b73757f831"
+    },
+    {
+      "file": "pptx/船舶设计困难与解决措施闭环分析_editable.pptx",
+      "bytes": 5242424,
+      "sha256": "4e54a7599ca52759714ea9c015022e4053e15c708aec26512daf1bbf5af7aae7"
+    },
+    {
+      "file": "pptx/船舶设计项目总体进展 infographics_editable.pptx",
+      "bytes": 5383015,
+      "sha256": "f37213e0b2412414b309d180e6a9617604cf80c08f205c22799fcc3f2a558001"
+    }
+  ]
+}

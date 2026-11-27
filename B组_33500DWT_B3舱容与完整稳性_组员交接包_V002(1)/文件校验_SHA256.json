@@ -1,0 +1,114 @@
+{
+  "issue": "B3 V002",
+  "files": {
+    "00_先读_组员交接与完整稳性流程.docx": {
+      "bytes": 42500,
+      "sha256": "f83d690b2eca0fc4f6b4fb07c288db421cad4578cc402c10465d2aef40047f0c"
+    },
+    "01_图纸与计算书/R05_B3舱容图_v002.dwg": {
+      "bytes": 81679,
+      "sha256": "417baf0450a155251d6aeddb462e77946385a485ad530032b12b007579c0b493"
+    },
+    "01_图纸与计算书/R05_B3舱容图_v002.dxf": {
+      "bytes": 406847,
+      "sha256": "9cd42f2ee579b1ea2dd12049e4e6bbdc0cbd213eed7ddf93d0f9a3eb0850cd12"
+    },
+    "01_图纸与计算书/R05_B3舱容图_v002.png": {
+      "bytes": 260561,
+      "sha256": "7414bd47139f7727eef683ca73be3f94002c88eda19fad41ba3b597758fdb3d3"
+    },
+    "01_图纸与计算书/R07_B3舱容计算书_v002.docx": {
+      "bytes": 124445,
+      "sha256": "f02f6c465e725e94f2a0f210069b618934e84afe0ac2da7cac37d42e8c84fb98"
+    },
+    "01_图纸与计算书/R08_B3完整稳性计算书_v002.docx": {
+      "bytes": 160972,
+      "sha256": "f67323d0bffc71b39c80bcb31a1d51f9ff7c3dd484baa5572c114792026c41c1"
+    },
+    "02_补资与回填/33500DWT_稳性校核补资清单_组内转发版.docx": {
+      "bytes": 42653,
+      "sha256": "8b81103effce48262b22bb8ca86cc206c1843a7b78fa289876638c391a66478b"
+    },
+    "02_补资与回填/开口点位回填表.csv": {
+      "bytes": 4780,
+      "sha256": "2d5db06a3baa6c194146047848512947729e0244d64976e315d84b5b9f0cfde7"
+    },
+    "03_复算数据/B3_WBT45_and_five_pair_ballast_sensitivity.json": {
+      "bytes": 86218,
+      "sha256": "90ae73fe728746a3d70f1325a1d371e684ef8054d3ec08f0e91c9703fe48ec1c"
+    },
+    "03_复算数据/B3_capacity_and_four_provisional_cases.json": {
+      "bytes": 171592,
+      "sha256": "d66bb0abd948e366b50384fc9df920ec540a08e4c976d1cc1a28e34504104088"
+    },
+    "03_复算数据/R05_DWG往返校核.json": {
+      "bytes": 990,
+      "sha256": "800037c0ffb366b5cebf9ddf427b4ccdf0f2e65430c860c05d6ddf459cb76b08"
+    },
+    "03_复算数据/R05_开口标绘坐标.csv": {
+      "bytes": 1299,
+      "sha256": "2dcb4f2ec575eca2c0bce1a9aad03494a5088bc5febfcb1ef8d82553514a9137"
+    },
+    "03_复算数据/R07_APT艉尖舱包络液位标定.json": {
+      "bytes": 40492,
+      "sha256": "a5b3b1ce5d5cf29310cd738306835050c3c07312f14cecc0bf2a5affae25b678"
+    },
+    "03_复算数据/R07_主压载舱分级与自由液面.csv": {
+      "bytes": 4820,
+      "sha256": "f83fb5d8f9d6ae39c83f7efcf1d609c798e73b1989c649d22e2df1cebb67fb12"
+    },
+    "03_复算数据/R07_货舱分级曲线.png": {
+      "bytes": 84991,
+      "sha256": "bdb7c0caa7c48fbdbca05a5c6298537d1d8d4e52c109a768cd8b5ca63551ca97"
+    },
+    "03_复算数据/R07_货舱容积分级.csv": {
+      "bytes": 5757,
+      "sha256": "ff0c4dbde1191f4b269840b35f7965f174650dc618175d8ab7cd31f13617c147"
+    },
+    "03_复算数据/R07_逐舱参考装载与容量补录.json": {
+      "bytes": 125500,
+      "sha256": "5ecb2f89e745dd08a43c941c94754f407d8df0716a1cb3affccecf36cee62422"
+    },
+    "03_复算数据/R07_逐舱参考载况与舱位.csv": {
+      "bytes": 41263,
+      "sha256": "4122e4b6e6e8d7696970ce5642e8b7a3f59f57b80452add2b122bf4cb4c04059"
+    },
+    "03_复算数据/R08_GZ与下浸点曲线.png": {
+      "bytes": 121153,
+      "sha256": "bca431a6acd097f6f043f5f01f55c52a1b87456c0e201544c3c472ab9e9a2580"
+    },
+    "03_复算数据/R08_GZ与平衡吃水.csv": {
+      "bytes": 46562,
+      "sha256": "a04f53371e688203288ea1c092d977bcce203bcf7c082a2d181924e05d21be33"
+    },
+    "03_复算数据/R08_完整稳性逐角计算.json": {
+      "bytes": 269231,
+      "sha256": "9b1987c9144adf3b7e52f97f559cd0bc2e1b5560a4fe7181559e76029963b5be"
+    },
+    "03_复算数据/开口与关闭证据.json": {
+      "bytes": 8827,
+      "sha256": "0081b04c4eae3e2a37376812a526d4916ff3eb04df43bd5c3c0504fe918e1a3a"
+    },
+    "04_模型参考/B3_WBT1至WBT5_十舱闭合模型.3dm": {
+      "bytes": 30737922,
+      "sha256": "f3429bbbb3feeb9b31a788a963bea5bc189799d2add1dc6404ed3f72d972d64b"
+    },
+    "04_模型参考/B3_reference_native_COM.3dm": {
+      "bytes": 1041406,
+      "sha256": "a2210ee1a5acd85dec34f79d5d88ba797d03edf2e8917d2249bcec007afea066"
+    },
+    "04_模型参考/five_hold_source_candidate_closed_strips_v001.3dm": {
+      "bytes": 1352035,
+      "sha256": "e35b1ae1fa39fda85b1e53f60fecc54c3d7997366a112979c6d83c06b9cf759c"
+    },
+    "04_模型参考/target33500_B3_local_bow_v002.msd": {
+      "bytes": 372844,
+      "sha256": "d86d81dececfbec3a02d0675d0396930eda531e99fa60216127157943e90de33"
+    },
+    "03_复算数据/历史_Maxsurf_固定纵倾_KN.json": {
+      "bytes": 115375,
+      "sha256": "6d48165da493f95c48ba91ccf476778d3a610c4a3b15068c3ab1ea6a6f74a5b8",
+      "raw_source_sha256": "73f5d3dbb5ab31642157996a0890df58d3f803c3e4eb1e79a5d2d18c369a96cf"
+    }
+  }
+}

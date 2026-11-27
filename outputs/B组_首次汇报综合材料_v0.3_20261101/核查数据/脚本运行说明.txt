@@ -1,0 +1,1 @@
+核查脚本记录本轮方法，默认从原工作区运行；需要Python及numpy、matplotlib、ezdxf。附加库安装在工作区tmp/analysislibs，运行器使用Codex依赖目录。移动归档后应先调整源码中的输入输出路径。报告和原始几何不依赖脚本即可查阅。

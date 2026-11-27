@@ -1,0 +1,2191 @@
+{
+  "scope": "Ten side-ballast tanks calibrated as B3 candidates across several stages. Current output adds WBT4/5 and cumulative steady sensitivity.",
+  "sources_sha256": {
+    "06_results/capacity_loading_20261109/B3_capacity_and_four_provisional_cases.json": "d66bb0abd948e366b50384fc9df920ec540a08e4c976d1cc1a28e34504104088",
+    "06_results/deck_GZ_and_FPT_20261109/B3_deck_closed_free_trim_GZ.json": "9c7d2bba7838a16a8faa4e3138aa9c000823565e88f710e97c145cdf4c44f796",
+    "06_results/WBT1_calibration_20261109/B3_WBT1_and_FPT_ballast_sensitivity.json": "02df066f2b432e9a1ab970bc58dfca802d924224cd3e204ad0513667d95f7ea8",
+    "06_results/native_model_compare_20261103/B3_reference_native_COM.3dm": "a2210ee1a5acd85dec34f79d5d88ba797d03edf2e8917d2249bcec007afea066",
+    "06_results/inner_hold_sources_20261103/P015_capacity_reference.dxf": "70447cff0f772cc0a59f83998e2a9847e454ad87c82365808c64dd19ffbe38f8",
+    "06_results/inner_hatch_sources_20261103/P017_section_coordinates_and_3D_reference.json": "d2cc00c9690a98302c69b80b8feb133741b75466322b9dc25b7254600faff659",
+    "05_calculations/B4_20261027/arrangement_inputs_v001.json": "3f099cb7a83ee892064150109239346a99ae9f106540bb83b90db92d281c0c56"
+  },
+  "source_evidence": {
+    "WBT4_FR85": {
+      "2DB91": [
+        [
+          13.099999999999302,
+          10.600032092210983
+        ],
+        [
+          14.399999999999768,
+          10.600032092210983
+        ]
+      ],
+      "2DB3E": [
+        [
+          1.2,
+          3.2092210894916206e-05
+        ],
+        [
+          1.2,
+          1.750032092210895
+        ]
+      ]
+    },
+    "WBT5_FR35": {
+      "2D742": [
+        [
+          12.872187870000081,
+          10.827063348381198
+        ],
+        [
+          14.210820166607213,
+          10.827063348381198
+        ]
+      ],
+      "2D693": [
+        [
+          1.1991878700000234,
+          6.334838090697304e-05
+        ],
+        [
+          1.1991878700000234,
+          1.750063348380907
+        ]
+      ]
+    }
+  },
+  "tanks": {
+    "WBT4": {
+      "parent_reference": {
+        "id": "WBT4P",
+        "group": "Ballast Water",
+        "moulded_m3": 968.5,
+        "net_m3": 949.1,
+        "lcg_ap_m": 68.29,
+        "tcg_port_m": 9.66,
+        "vcg_bl_m": 2.7,
+        "iymax_m4": 5478.0,
+        "manual_fsm_tm": 5615.0,
+        "density_t_m3": 1.025,
+        "table_fill_fraction": 1.0,
+        "table_reduction_parameter": 0.02,
+        "capacity_page": 84,
+        "description": "NO.4 WATER BALLAST TK. (P)",
+        "frame_aft": 69,
+        "frame_fore": 105,
+        "zmin_m": 0.0,
+        "zmax_m": 10.6,
+        "location_page": 81
+      },
+      "parent_scaled_moulded_m3": 930.5101856445938,
+      "AP_bounds_m": [
+        53.08715412157548,
+        81.50555632792071
+      ],
+      "max_scaled_roof_BL_m": 10.459550812057623,
+      "roof_policy": "P017 upper knuckle capped by P021 zmax; P015 FR85/FR35 verify side compartment, excludes upper wing space",
+      "mesh_stations": 303,
+      "mesh_refinement_full_volume_delta_m3": 0.018447985849206816,
+      "section_check_volume_m3": 931.7887139660252,
+      "calibration": {
+        "full": {
+          "level_BL_m": 10.459550812057623,
+          "volume_m3": 931.7883133909348,
+          "fill_percent": 100.00000000000043,
+          "centres_AP_port_BL_m": [
+            67.39417446301508,
+            9.538821247783309,
+            2.662314839087812
+          ],
+          "waterplane_area_m2": 1.021405182655144e-14,
+          "geometric_FSM_one_tm": 0.0,
+          "isolated_pair_geometric_FSM_tm": 0.0
+        },
+        "source_case_equal_volume": {
+          "level_BL_m": 9.912481639449734,
+          "volume_m3": 911.8452284985872,
+          "fill_percent": 97.85969789428165,
+          "centres_AP_port_BL_m": [
+            67.39631388022693,
+            9.450702638796756,
+            2.4977629932585055
+          ],
+          "waterplane_area_m2": 36.454411783477816,
+          "geometric_FSM_one_tm": 5.123816775333557,
+          "isolated_pair_geometric_FSM_tm": 10.247633550667114
+        },
+        "maximum_FSM_local_scan": {
+          "level_BL_m": 1.7218126340661173,
+          "volume_m3": 611.6053442724889,
+          "fill_percent": 65.63779943179975,
+          "centres_AP_port_BL_m": [
+            67.44570769065136,
+            7.447748899615862,
+            0.879354945283571
+          ],
+          "waterplane_area_m2": 369.44657875723664,
+          "geometric_FSM_one_tm": 5333.771711325259,
+          "isolated_pair_geometric_FSM_tm": 10667.543422650519
+        },
+        "fixed_levels": [
+          {
+            "level_BL_m": 0.0,
+            "volume_m3": 0,
+            "fill_percent": 0.0,
+            "centres_AP_port_BL_m": null,
+            "waterplane_area_m2": 301.5518925776546,
+            "geometric_FSM_one_tm": 0.0,
+            "isolated_pair_geometric_FSM_tm": 0.0
+          },
+          {
+            "level_BL_m": 0.29054307811271174,
+            "volume_m3": 95.81898198230608,
+            "fill_percent": 10.283342321992112,
+            "centres_AP_port_BL_m": [
+              67.67507135079867,
+              7.005737865232106,
+              0.14730322097815496
+            ],
+            "waterplane_area_m2": 340.4940981396458,
+            "geometric_FSM_one_tm": 4209.040432874311,
+            "isolated_pair_geometric_FSM_tm": 8418.080865748621
+          },
+          {
+            "level_BL_m": 0.5810861562254235,
+            "volume_m3": 196.49276787691863,
+            "fill_percent": 21.087704691406692,
+            "centres_AP_port_BL_m": [
+              67.5922841613075,
+              7.149566051422231,
+              0.295529186503517
+            ],
+            "waterplane_area_m2": 352.0250030669634,
+            "geometric_FSM_one_tm": 4629.236232491238,
+            "isolated_pair_geometric_FSM_tm": 9258.472464982477
+          },
+          {
+            "level_BL_m": 0.8716292343381352,
+            "volume_m3": 300.134491131331,
+            "fill_percent": 32.210587621462246,
+            "centres_AP_port_BL_m": [
+              67.53927498745489,
+              7.257832960444953,
+              0.44450279784802627
+            ],
+            "waterplane_area_m2": 360.6561027144261,
+            "geometric_FSM_one_tm": 4969.048855330277,
+            "isolated_pair_geometric_FSM_tm": 9938.097710660553
+          },
+          {
+            "level_BL_m": 1.162172312450847,
+            "volume_m3": 405.6799638238774,
+            "fill_percent": 43.537781918249365,
+            "centres_AP_port_BL_m": [
+              67.498182084528,
+              7.340781145786557,
+              0.5935037239794341
+            ],
+            "waterplane_area_m2": 365.4249021738091,
+            "geometric_FSM_one_tm": 5164.197610956821,
+            "isolated_pair_geometric_FSM_tm": 10328.395221913643
+          },
+          {
+            "level_BL_m": 1.4527153905635588,
+            "volume_m3": 512.317638472712,
+            "fill_percent": 54.98219188951875,
+            "centres_AP_port_BL_m": [
+              67.46825024849755,
+              7.403521477978795,
+              0.7421480195966627
+            ],
+            "waterplane_area_m2": 368.29673314300726,
+            "geometric_FSM_one_tm": 5285.160437103014,
+            "isolated_pair_geometric_FSM_tm": 10570.320874206029
+          },
+          {
+            "level_BL_m": 1.7218126340661173,
+            "volume_m3": 611.6053442724889,
+            "fill_percent": 65.63779943179975,
+            "centres_AP_port_BL_m": [
+              67.44570769065136,
+              7.447748899615862,
+              0.879354945283571
+            ],
+            "waterplane_area_m2": 369.44657875723664,
+            "geometric_FSM_one_tm": 5333.771711325259,
+            "isolated_pair_geometric_FSM_tm": 10667.543422650519
+          },
+          {
+            "level_BL_m": 1.7268126340661172,
+            "volume_m3": 613.452607996546,
+            "fill_percent": 65.83604872270732,
+            "centres_AP_port_BL_m": [
+              67.4453237957248,
+              7.448461599667083,
+              0.8818993304441356
+            ],
+            "waterplane_area_m2": 36.60229965962094,
+            "geometric_FSM_one_tm": 5.542854018761317,
+            "isolated_pair_geometric_FSM_tm": 11.085708037522634
+          },
+          {
+            "level_BL_m": 1.731812634066117,
+            "volume_m3": 613.6356132030811,
+            "fill_percent": 65.85568893539352,
+            "centres_AP_port_BL_m": [
+              67.44525280137076,
+              7.450277320437749,
+              0.882152055413239
+            ],
+            "waterplane_area_m2": 36.59977446696849,
+            "geometric_FSM_one_tm": 5.532251927248899,
+            "isolated_pair_geometric_FSM_tm": 11.064503854497797
+          },
+          {
+            "level_BL_m": 1.7432584686762704,
+            "volume_m3": 614.0544941825863,
+            "fill_percent": 65.90064345708963,
+            "centres_AP_port_BL_m": [
+              67.44509243570673,
+              7.4544298979442125,
+              0.8827355603213096
+            ],
+            "waterplane_area_m2": 36.593775020671835,
+            "geometric_FSM_one_tm": 5.508560627396718,
+            "isolated_pair_geometric_FSM_tm": 11.017121254793436
+          },
+          {
+            "level_BL_m": 2.033801546788982,
+            "volume_m3": 624.6608019673529,
+            "fill_percent": 67.0389178518573,
+            "centres_AP_port_BL_m": [
+              67.4419348235826,
+              7.557945985192263,
+              0.8998112545245431
+            ],
+            "waterplane_area_m2": 36.42195036881467,
+            "geometric_FSM_one_tm": 5.146136373690933,
+            "isolated_pair_geometric_FSM_tm": 10.292272747381865
+          },
+          {
+            "level_BL_m": 2.324344624901694,
+            "volume_m3": 635.2345526895867,
+            "fill_percent": 68.17369820596524,
+            "centres_AP_port_BL_m": [
+              67.4397732029486,
+              7.657931521857661,
+              0.9211049055172722
+            ],
+            "waterplane_area_m2": 36.40386689866503,
+            "geometric_FSM_one_tm": 5.1029713369048295,
+            "isolated_pair_geometric_FSM_tm": 10.205942673809659
+          },
+          {
+            "level_BL_m": 2.6148877030144058,
+            "volume_m3": 645.8187180129461,
+            "fill_percent": 69.30959626041086,
+            "centres_AP_port_BL_m": [
+              67.43749183841399,
+              7.754779814259403,
+              0.9464834810551077
+            ],
+            "waterplane_area_m2": 36.44243962445092,
+            "geometric_FSM_one_tm": 5.1187740173565315,
+            "isolated_pair_geometric_FSM_tm": 10.237548034713063
+          },
+          {
+            "level_BL_m": 2.9054307811271176,
+            "volume_m3": 656.4079558338059,
+            "fill_percent": 70.44603869789152,
+            "centres_AP_port_BL_m": [
+              67.43521232321481,
+              7.848553960809254,
+              0.9757419515855981
+            ],
+            "waterplane_area_m2": 36.44968812221824,
+            "geometric_FSM_one_tm": 5.121825799100407,
+            "isolated_pair_geometric_FSM_tm": 10.243651598200813
+          },
+          {
+            "level_BL_m": 3.195973859239829,
+            "volume_m3": 666.9989086762951,
+            "fill_percent": 71.58266519237363,
+            "centres_AP_port_BL_m": [
+              67.4330072489995,
+              7.939366713710364,
+              1.0086892900827298
+            ],
+            "waterplane_area_m2": 36.45404326162365,
+            "geometric_FSM_one_tm": 5.123661390455027,
+            "isolated_pair_geometric_FSM_tm": 10.247322780910054
+          },
+          {
+            "level_BL_m": 3.486516937352541,
+            "volume_m3": 677.5904651573876,
+            "fill_percent": 72.71935646966043,
+            "centres_AP_port_BL_m": [
+              67.43087131909678,
+              8.02734610717821,
+              1.0451499591310842
+            ],
+            "waterplane_area_m2": 36.45441126507026,
+            "geometric_FSM_one_tm": 5.123816556742849,
+            "isolated_pair_geometric_FSM_tm": 10.247633113485698
+          },
+          {
+            "level_BL_m": 3.7770600154652527,
+            "volume_m3": 688.1820421526014,
+            "fill_percent": 73.85604994853324,
+            "centres_AP_port_BL_m": [
+              67.42880102754822,
+              8.112617565382688,
+              1.0849600374797355
+            ],
+            "waterplane_area_m2": 36.454411783477816,
+            "geometric_FSM_one_tm": 5.123816775333557,
+            "isolated_pair_geometric_FSM_tm": 10.247633550667114
+          },
+          {
+            "level_BL_m": 4.067603093577964,
+            "volume_m3": 698.7736191630186,
+            "fill_percent": 74.9927434290377,
+            "centres_AP_port_BL_m": [
+              67.4267934962314,
+              8.195304039994516,
+              1.1279671546716186
+            ],
+            "waterplane_area_m2": 36.45441178347782,
+            "geometric_FSM_one_tm": 5.123816775333557,
+            "isolated_pair_geometric_FSM_tm": 10.247633550667114
+          },
+          {
+            "level_BL_m": 4.358146171690676,
+            "volume_m3": 709.3651961733616,
+            "fill_percent": 76.1294369095342,
+            "centres_AP_port_BL_m": [
+              67.42484591407721,
+              8.275521320548343,
+              1.1740281050804984
+            ],
+            "waterplane_area_m2": 36.45441178347784,
+            "geometric_FSM_one_tm": 5.12381677533449,
+            "isolated_pair_geometric_FSM_tm": 10.24763355066898
+          },
+          {
+            "level_BL_m": 4.648689249803388,
+            "volume_m3": 719.9567731836711,
+            "fill_percent": 77.2661303900271,
+            "centres_AP_port_BL_m": [
+              67.42295563527385,
+              8.353378383002186,
+              1.2230081101573549
+            ],
+            "waterplane_area_m2": 36.45441178347782,
+            "geometric_FSM_one_tm": 5.12381677533449,
+            "isolated_pair_geometric_FSM_tm": 10.24763355066898
+          },
+          {
+            "level_BL_m": 4.939232327916099,
+            "volume_m3": 730.5483501941271,
+            "fill_percent": 78.40282387053574,
+            "centres_AP_port_BL_m": [
+              67.42112016743276,
+              8.428977883520272,
+              1.2747802074965744
+            ],
+            "waterplane_area_m2": 36.45441178347782,
+            "geometric_FSM_one_tm": 5.123816775337286,
+            "isolated_pair_geometric_FSM_tm": 10.247633550674571
+          },
+          {
+            "level_BL_m": 5.2297754060288115,
+            "volume_m3": 741.139927204499,
+            "fill_percent": 79.53951735103534,
+            "centres_AP_port_BL_m": [
+              67.41933716067327,
+              8.502416610068675,
+              1.3292246923320423
+            ],
+            "waterplane_area_m2": 36.45441178347781,
+            "geometric_FSM_one_tm": 5.12381677533076,
+            "isolated_pair_geometric_FSM_tm": 10.24763355066152
+          },
+          {
+            "level_BL_m": 5.520318484141523,
+            "volume_m3": 751.7315042147998,
+            "fill_percent": 80.67621083152731,
+            "centres_AP_port_BL_m": [
+              67.41760439753455,
+              8.573785895804363,
+              1.386228606255738
+            ],
+            "waterplane_area_m2": 36.45441178347782,
+            "geometric_FSM_one_tm": 5.123816775336354,
+            "isolated_pair_geometric_FSM_tm": 10.247633550672708
+          },
+          {
+            "level_BL_m": 5.810861562254235,
+            "volume_m3": 762.3230812251961,
+            "fill_percent": 81.81290431202953,
+            "centres_AP_port_BL_m": [
+              67.41591978377357,
+              8.643171998018238,
+              1.445685268554329
+            ],
+            "waterplane_area_m2": 36.45441178347782,
+            "geometric_FSM_one_tm": 5.123816775331693,
+            "isolated_pair_geometric_FSM_tm": 10.247633550663386
+          },
+          {
+            "level_BL_m": 6.101404640366947,
+            "volume_m3": 772.9146582356154,
+            "fill_percent": 82.94959779253423,
+            "centres_AP_port_BL_m": [
+              67.41428133996074,
+              8.710656445923364,
+              1.5074938460770424
+            ],
+            "waterplane_area_m2": 36.45441178347782,
+            "geometric_FSM_one_tm": 5.123816775333557,
+            "isolated_pair_geometric_FSM_tm": 10.247633550667114
+          },
+          {
+            "level_BL_m": 6.391947718479658,
+            "volume_m3": 783.5062352458808,
+            "fill_percent": 84.0862912730224,
+            "centres_AP_port_BL_m": [
+              67.41268719371354,
+              8.776316360228016,
+              1.5715589579949993
+            ],
+            "waterplane_area_m2": 36.45441178347782,
+            "geometric_FSM_one_tm": 5.123816775335421,
+            "isolated_pair_geometric_FSM_tm": 10.247633550670843
+          },
+          {
+            "level_BL_m": 6.68249079659237,
+            "volume_m3": 794.0978122562171,
+            "fill_percent": 85.22298475351818,
+            "centres_AP_port_BL_m": [
+              67.41113557250648,
+              8.840224747129627,
+              1.6377903121908144
+            ],
+            "waterplane_area_m2": 36.45441178347784,
+            "geometric_FSM_one_tm": 5.12381677533449,
+            "isolated_pair_geometric_FSM_tm": 10.24763355066898
+          },
+          {
+            "level_BL_m": 6.973033874705082,
+            "volume_m3": 804.6893892666371,
+            "fill_percent": 86.35967823402294,
+            "centres_AP_port_BL_m": [
+              67.40962479715253,
+              8.902450769107014,
+              1.7061023703610605
+            ],
+            "waterplane_area_m2": 36.45441178347782,
+            "geometric_FSM_one_tm": 5.123816775331693,
+            "isolated_pair_geometric_FSM_tm": 10.247633550663386
+          },
+          {
+            "level_BL_m": 7.263576952817793,
+            "volume_m3": 815.2809662769357,
+            "fill_percent": 87.49637171451467,
+            "centres_AP_port_BL_m": [
+              67.40815327574582,
+              8.963059994591813,
+              1.776414039222014
+            ],
+            "waterplane_area_m2": 36.45441178347782,
+            "geometric_FSM_one_tm": 5.123816775333557,
+            "isolated_pair_geometric_FSM_tm": 10.247633550667114
+          },
+          {
+            "level_BL_m": 7.554120030930505,
+            "volume_m3": 825.8725432873268,
+            "fill_percent": 88.63306519501633,
+            "centres_AP_port_BL_m": [
+              67.40671949800574,
+              9.022114628427444,
+              1.8486483854850837
+            ],
+            "waterplane_area_m2": 36.454411783477816,
+            "geometric_FSM_one_tm": 5.123816775333557,
+            "isolated_pair_geometric_FSM_tm": 10.247633550667114
+          },
+          {
+            "level_BL_m": 7.844663109043217,
+            "volume_m3": 836.4641202977508,
+            "fill_percent": 89.76975867552152,
+            "centres_AP_port_BL_m": [
+              67.40532203016843,
+              9.079673724828016,
+              1.9227323724768155
+            ],
+            "waterplane_area_m2": 36.45441178347781,
+            "geometric_FSM_one_tm": 5.12381677533076,
+            "isolated_pair_geometric_FSM_tm": 10.24763355066152
+          },
+          {
+            "level_BL_m": 8.135206187155928,
+            "volume_m3": 847.0556973080398,
+            "fill_percent": 90.90645215601222,
+            "centres_AP_port_BL_m": [
+              67.40395951019536,
+              9.135793384357614,
+              1.9985966165202846
+            ],
+            "waterplane_area_m2": 36.45441178347782,
+            "geometric_FSM_one_tm": 5.12381677533449,
+            "isolated_pair_geometric_FSM_tm": 10.24763355066898
+          },
+          {
+            "level_BL_m": 8.42574926526864,
+            "volume_m3": 857.6472743184096,
+            "fill_percent": 92.0431456365116,
+            "centres_AP_port_BL_m": [
+              67.40263064329311,
+              9.190526936301818,
+              2.076175161378515
+            ],
+            "waterplane_area_m2": 36.45441178347782,
+            "geometric_FSM_one_tm": 5.123816775333557,
+            "isolated_pair_geometric_FSM_tm": 10.247633550667114
+          },
+          {
+            "level_BL_m": 8.716292343381353,
+            "volume_m3": 868.2388513288086,
+            "fill_percent": 93.1798391170141,
+            "centres_AP_port_BL_m": [
+              67.40133419787405,
+              9.243925107712494,
+              2.1554052691910996
+            ],
+            "waterplane_area_m2": 36.45441178347782,
+            "geometric_FSM_one_tm": 5.123816775335421,
+            "isolated_pair_geometric_FSM_tm": 10.247633550670843
+          },
+          {
+            "level_BL_m": 9.006835421494063,
+            "volume_m3": 878.8304283391111,
+            "fill_percent": 94.31653259750627,
+            "centres_AP_port_BL_m": [
+              67.4000690017222,
+              9.29603618020967,
+              2.2362272265396292
+            ],
+            "waterplane_area_m2": 36.45441178347781,
+            "geometric_FSM_one_tm": 5.123816775333557,
+            "isolated_pair_geometric_FSM_tm": 10.247633550667114
+          },
+          {
+            "level_BL_m": 9.297378499606776,
+            "volume_m3": 889.4220053495337,
+            "fill_percent": 95.45322607801131,
+            "centres_AP_port_BL_m": [
+              67.39883393844246,
+              9.346906135589018,
+              2.318584164367733
+            ],
+            "waterplane_area_m2": 36.454411783477816,
+            "geometric_FSM_one_tm": 5.123816775331693,
+            "isolated_pair_geometric_FSM_tm": 10.247633550663386
+          },
+          {
+            "level_BL_m": 9.587921577719488,
+            "volume_m3": 900.013582359949,
+            "fill_percent": 96.58991955851558,
+            "centres_AP_port_BL_m": [
+              67.39762794420655,
+              9.39657879114883,
+              2.4024218906124517
+            ],
+            "waterplane_area_m2": 36.454411783477816,
+            "geometric_FSM_one_tm": 5.123816775333557,
+            "isolated_pair_geometric_FSM_tm": 10.247633550667114
+          },
+          {
+            "level_BL_m": 9.878464655832198,
+            "volume_m3": 910.605159370174,
+            "fill_percent": 97.72661303899939,
+            "centres_AP_port_BL_m": [
+              67.39645000469373,
+              9.445095925569186,
+              2.4876887345213197
+            ],
+            "waterplane_area_m2": 36.454411783477816,
+            "geometric_FSM_one_tm": 5.123816775333557,
+            "isolated_pair_geometric_FSM_tm": 10.247633550667114
+          },
+          {
+            "level_BL_m": 10.16900773394491,
+            "volume_m3": 921.1967363805786,
+            "fill_percent": 98.86330651950252,
+            "centres_AP_port_BL_m": [
+              67.39529915218604,
+              9.49249739610114,
+              2.5743354017083977
+            ],
+            "waterplane_area_m2": 36.45441178347781,
+            "geometric_FSM_one_tm": 5.123816775331693,
+            "isolated_pair_geometric_FSM_tm": 10.247633550663386
+          },
+          {
+            "level_BL_m": 10.459550812057623,
+            "volume_m3": 931.7883133909348,
+            "fill_percent": 100.00000000000043,
+            "centres_AP_port_BL_m": [
+              67.39417446301508,
+              9.538821247783309,
+              2.662314839087812
+            ],
+            "waterplane_area_m2": 1.021405182655144e-14,
+            "geometric_FSM_one_tm": 0.0,
+            "isolated_pair_geometric_FSM_tm": 0.0
+          }
+        ],
+        "fill_fractions": [
+          {
+            "level_BL_m": 0.28278515653855907,
+            "volume_m3": 93.17892397457906,
+            "fill_percent": 10.000009941687898,
+            "centres_AP_port_BL_m": [
+              67.67791786123111,
+              7.000802279985783,
+              0.14335465898142513
+            ],
+            "waterplane_area_m2": 340.11392584528835,
+            "geometric_FSM_one_tm": 4195.982959359016,
+            "isolated_pair_geometric_FSM_tm": 8391.965918718031
+          },
+          {
+            "level_BL_m": 0.6840995565159592,
+            "volume_m3": 232.94710479870074,
+            "fill_percent": 25.000002838731465,
+            "centres_AP_port_BL_m": [
+              67.57149486492531,
+              7.190876037917186,
+              0.34829067480959086
+            ],
+            "waterplane_area_m2": 355.63631508195687,
+            "geometric_FSM_one_tm": 4769.878103841416,
+            "isolated_pair_geometric_FSM_tm": 9539.756207682833
+          },
+          {
+            "level_BL_m": 1.3265048391304086,
+            "volume_m3": 465.8940115231078,
+            "fill_percent": 49.99998442002807,
+            "centres_AP_port_BL_m": [
+              67.48028321781489,
+              7.378352127312864,
+              0.6776293483442942
+            ],
+            "waterplane_area_m2": 367.29815218494525,
+            "geometric_FSM_one_tm": 5243.0236044252615,
+            "isolated_pair_geometric_FSM_tm": 10486.047208850523
+          },
+          {
+            "level_BL_m": 4.06946287783804,
+            "volume_m3": 698.8414165042573,
+            "fill_percent": 75.00001947449398,
+            "centres_AP_port_BL_m": [
+              67.42678084190513,
+              8.195825248159377,
+              1.128252430473046
+            ],
+            "waterplane_area_m2": 36.45441178347782,
+            "geometric_FSM_one_tm": 5.1238167753326245,
+            "isolated_pair_geometric_FSM_tm": 10.247633550665249
+          },
+          {
+            "level_BL_m": 7.90351563836979,
+            "volume_m3": 838.6095546362516,
+            "fill_percent": 90.00000778979654,
+            "centres_AP_port_BL_m": [
+              67.40504325786229,
+              9.09115583708217,
+              1.9379578675839415
+            ],
+            "waterplane_area_m2": 36.454411783477816,
+            "geometric_FSM_one_tm": 5.123816775333557,
+            "isolated_pair_geometric_FSM_tm": 10.247633550667114
+          },
+          {
+            "level_BL_m": 9.181533225213704,
+            "volume_m3": 885.1989340136053,
+            "fill_percent": 95.00000389489979,
+            "centres_AP_port_BL_m": [
+              67.39932283975492,
+              9.326769201475628,
+              2.2855663490895397
+            ],
+            "waterplane_area_m2": 36.45441178347782,
+            "geometric_FSM_one_tm": 5.12381677533449,
+            "isolated_pair_geometric_FSM_tm": 10.24763355066898
+          },
+          {
+            "level_BL_m": 9.948341782319062,
+            "volume_m3": 913.152488913433,
+            "fill_percent": 97.99999375290736,
+            "centres_AP_port_BL_m": [
+              67.39617078036184,
+              9.456596655433488,
+              2.508403502444743
+            ],
+            "waterplane_area_m2": 36.45441178347781,
+            "geometric_FSM_one_tm": 5.123816775333557,
+            "isolated_pair_geometric_FSM_tm": 10.247633550667114
+          }
+        ]
+      },
+      "closed_mesh_file": "B3_WBT4P_S_candidate_closed.3dm",
+      "closed_mesh_sha256": "073c75db0345482614d7f5700275312e256098369ccb83f2907f997456459e74",
+      "closed_mesh_reopen_checks": [
+        {
+          "name": "WBT4P_B3_CANDIDATE",
+          "volume_m3": 931.7883133909309,
+          "triangles": 157606
+        },
+        {
+          "name": "WBT4S_B3_CANDIDATE",
+          "volume_m3": 931.7883133909309,
+          "triangles": 157606
+        }
+      ]
+    },
+    "WBT5": {
+      "parent_reference": {
+        "id": "WBT5P",
+        "group": "Ballast Water",
+        "moulded_m3": 925.1,
+        "net_m3": 906.6,
+        "lcg_ap_m": 39.87,
+        "tcg_port_m": 9.38,
+        "vcg_bl_m": 3.43,
+        "iymax_m4": 3153.0,
+        "manual_fsm_tm": 3231.6,
+        "density_t_m3": 1.025,
+        "table_fill_fraction": 1.0,
+        "table_reduction_parameter": 0.02,
+        "capacity_page": 84,
+        "description": "NO.5 W.B.T.(P)",
+        "frame_aft": 34,
+        "frame_fore": 69,
+        "zmin_m": 0.0,
+        "zmax_m": 10.84,
+        "location_page": 81
+      },
+      "parent_scaled_moulded_m3": 888.8125686523631,
+      "AP_bounds_m": [
+        25.458151976517613,
+        53.08715412157548
+      ],
+      "max_scaled_roof_BL_m": 10.696370830443835,
+      "roof_policy": "P017 upper knuckle capped by P021 zmax; P015 FR85/FR35 verify side compartment, excludes upper wing space",
+      "mesh_stations": 506,
+      "mesh_refinement_full_volume_delta_m3": 0.11390023816454686,
+      "section_check_volume_m3": 894.79422746405,
+      "calibration": {
+        "full": {
+          "level_BL_m": 10.696370830443835,
+          "volume_m3": 894.7838413292602,
+          "fill_percent": 99.99999999999791,
+          "centres_AP_port_BL_m": [
+            39.33944630929548,
+            9.290094757961585,
+            3.386247147437116
+          ],
+          "waterplane_area_m2": 4.107825191113079e-15,
+          "geometric_FSM_one_tm": 0.0,
+          "isolated_pair_geometric_FSM_tm": 0.0
+        },
+        "source_case_equal_volume": {
+          "level_BL_m": 9.802469982177431,
+          "volume_m3": 870.9773508610605,
+          "fill_percent": 97.33941435142013,
+          "centres_AP_port_BL_m": [
+            39.349216157989744,
+            9.173787257684523,
+            3.201601437353453
+          ],
+          "waterplane_area_m2": 35.24907020746374,
+          "geometric_FSM_one_tm": 5.011885117682436,
+          "isolated_pair_geometric_FSM_tm": 10.023770235364871
+        },
+        "maximum_FSM_local_scan": {
+          "level_BL_m": 1.7218126340661173,
+          "volume_m3": 377.4935368546684,
+          "fill_percent": 42.18823803231281,
+          "centres_AP_port_BL_m": [
+            42.12434228778276,
+            5.8063517405086955,
+            0.9500767508587132
+          ],
+          "waterplane_area_m2": 275.7707721051311,
+          "geometric_FSM_one_tm": 3112.218647340699,
+          "isolated_pair_geometric_FSM_tm": 6224.437294681398
+        },
+        "fixed_levels": [
+          {
+            "level_BL_m": 0.0,
+            "volume_m3": 0,
+            "fill_percent": 0.0,
+            "centres_AP_port_BL_m": null,
+            "waterplane_area_m2": 111.14801259563185,
+            "geometric_FSM_one_tm": 0.0,
+            "isolated_pair_geometric_FSM_tm": 0.0
+          },
+          {
+            "level_BL_m": 0.29712141195677316,
+            "volume_m3": 45.549806411362084,
+            "fill_percent": 5.090593315106575,
+            "centres_AP_port_BL_m": [
+              43.54224230560485,
+              4.788806237547543,
+              0.15727589519787546
+            ],
+            "waterplane_area_m2": 176.08877473818524,
+            "geometric_FSM_one_tm": 1355.6218532473586,
+            "isolated_pair_geometric_FSM_tm": 2711.243706494717
+          },
+          {
+            "level_BL_m": 0.5942428239135463,
+            "volume_m3": 102.44730698812923,
+            "fill_percent": 11.449391714085369,
+            "centres_AP_port_BL_m": [
+              43.121822305998364,
+              5.091603448535172,
+              0.31953386680273727
+            ],
+            "waterplane_area_m2": 205.28543077561847,
+            "geometric_FSM_one_tm": 1813.752162631142,
+            "isolated_pair_geometric_FSM_tm": 3627.504325262284
+          },
+          {
+            "level_BL_m": 0.8913642358703195,
+            "volume_m3": 166.93405870531566,
+            "fill_percent": 18.656355981721873,
+            "centres_AP_port_BL_m": [
+              42.79568677269479,
+              5.319706921638353,
+              0.48404604278373764
+            ],
+            "waterplane_area_m2": 228.0836882797734,
+            "geometric_FSM_one_tm": 2192.3633033645465,
+            "isolated_pair_geometric_FSM_tm": 4384.726606729093
+          },
+          {
+            "level_BL_m": 1.1884856478270927,
+            "volume_m3": 237.65251824478472,
+            "fill_percent": 26.559768657839346,
+            "centres_AP_port_BL_m": [
+              42.52418509200395,
+              5.512830905665131,
+              0.6500586795650286
+            ],
+            "waterplane_area_m2": 247.44929964288107,
+            "geometric_FSM_one_tm": 2545.4305566075072,
+            "isolated_pair_geometric_FSM_tm": 5090.8611132150145
+          },
+          {
+            "level_BL_m": 1.4856070597838658,
+            "volume_m3": 313.7084201154791,
+            "fill_percent": 35.05968767266048,
+            "centres_AP_port_BL_m": [
+              42.29007035484643,
+              5.683372884680591,
+              0.817003093082764
+            ],
+            "waterplane_area_m2": 264.09872065738256,
+            "geometric_FSM_one_tm": 2870.318262813962,
+            "isolated_pair_geometric_FSM_tm": 5740.636525627924
+          },
+          {
+            "level_BL_m": 1.7218126340661173,
+            "volume_m3": 377.4935368546684,
+            "fill_percent": 42.18823803231281,
+            "centres_AP_port_BL_m": [
+              42.12434228778276,
+              5.8063517405086955,
+              0.9500767508587132
+            ],
+            "waterplane_area_m2": 275.7707721051311,
+            "geometric_FSM_one_tm": 3112.218647340699,
+            "isolated_pair_geometric_FSM_tm": 6224.437294681398
+          },
+          {
+            "level_BL_m": 1.7268126340661172,
+            "volume_m3": 378.87297441169926,
+            "fill_percent": 42.342402367129324,
+            "centres_AP_port_BL_m": [
+              42.121001946243126,
+              5.808849340594788,
+              0.9528956654122515
+            ],
+            "waterplane_area_m2": 91.10132256106726,
+            "geometric_FSM_one_tm": 571.7171734371537,
+            "isolated_pair_geometric_FSM_tm": 1143.4343468743075
+          },
+          {
+            "level_BL_m": 1.731812634066117,
+            "volume_m3": 379.3286250263233,
+            "fill_percent": 42.39332534914777,
+            "centres_AP_port_BL_m": [
+              42.11735376406335,
+              5.813327705699114,
+              0.9538282999814043
+            ],
+            "waterplane_area_m2": 91.15881890029036,
+            "geometric_FSM_one_tm": 571.6416251293471,
+            "isolated_pair_geometric_FSM_tm": 1143.2832502586941
+          },
+          {
+            "level_BL_m": 1.782728471740639,
+            "volume_m3": 383.9843870053557,
+            "fill_percent": 42.913647885607055,
+            "centres_AP_port_BL_m": [
+              42.080070167969325,
+              5.858834891068319,
+              0.9635702467343733
+            ],
+            "waterplane_area_m2": 91.71214105878691,
+            "geometric_FSM_one_tm": 570.5872899580008,
+            "isolated_pair_geometric_FSM_tm": 1141.1745799160017
+          },
+          {
+            "level_BL_m": 2.079849883697412,
+            "volume_m3": 411.5913561028344,
+            "fill_percent": 45.998970599578534,
+            "centres_AP_port_BL_m": [
+              41.85880846771269,
+              6.119400778322171,
+              1.0285160290033992
+            ],
+            "waterplane_area_m2": 93.80097445002204,
+            "geometric_FSM_one_tm": 554.4632852339089,
+            "isolated_pair_geometric_FSM_tm": 1108.9265704678178
+          },
+          {
+            "level_BL_m": 2.3769712956541853,
+            "volume_m3": 439.5514103642868,
+            "fill_percent": 49.12375370025627,
+            "centres_AP_port_BL_m": [
+              41.63398367901363,
+              6.367745214086074,
+              1.1048474532499006
+            ],
+            "waterplane_area_m2": 94.14881583717019,
+            "geometric_FSM_one_tm": 524.3435025670594,
+            "isolated_pair_geometric_FSM_tm": 1048.6870051341189
+          },
+          {
+            "level_BL_m": 2.6740927076109586,
+            "volume_m3": 467.42437815301554,
+            "fill_percent": 52.23880411816738,
+            "centres_AP_port_BL_m": [
+              41.40922850295399,
+              6.601035800326718,
+              1.1895509676445533
+            ],
+            "waterplane_area_m2": 93.30756634117658,
+            "geometric_FSM_one_tm": 486.2636553808215,
+            "isolated_pair_geometric_FSM_tm": 972.527310761643
+          },
+          {
+            "level_BL_m": 2.9712141195677315,
+            "volume_m3": 494.9083594899647,
+            "fill_percent": 55.310381863259344,
+            "centres_AP_port_BL_m": [
+              41.188558804927844,
+              6.818710302407224,
+              1.2802167362322978
+            ],
+            "waterplane_area_m2": 91.55534807015434,
+            "geometric_FSM_one_tm": 443.201594929105,
+            "isolated_pair_geometric_FSM_tm": 886.40318985821
+          },
+          {
+            "level_BL_m": 3.268335531524505,
+            "volume_m3": 521.7573127828588,
+            "fill_percent": 58.31098961373097,
+            "centres_AP_port_BL_m": [
+              40.97504664821004,
+              7.020919773355158,
+              1.37484282519334
+            ],
+            "waterplane_area_m2": 89.06306726865436,
+            "geometric_FSM_one_tm": 397.4539904696165,
+            "isolated_pair_geometric_FSM_tm": 794.907980939233
+          },
+          {
+            "level_BL_m": 3.565456943481278,
+            "volume_m3": 547.7761174341564,
+            "fill_percent": 61.21882091884757,
+            "centres_AP_port_BL_m": [
+              40.77119696553335,
+              7.208317531365403,
+              1.471796995342324
+            ],
+            "waterplane_area_m2": 85.99185068072896,
+            "geometric_FSM_one_tm": 351.21303054413846,
+            "isolated_pair_geometric_FSM_tm": 702.4260610882769
+          },
+          {
+            "level_BL_m": 3.862578355438051,
+            "volume_m3": 572.8148222560201,
+            "fill_percent": 64.01711740849656,
+            "centres_AP_port_BL_m": [
+              40.579057417667855,
+              7.38182151014965,
+              1.569763258935808
+            ],
+            "waterplane_area_m2": 82.49104668558519,
+            "geometric_FSM_one_tm": 306.19322770362146,
+            "isolated_pair_geometric_FSM_tm": 612.3864554072429
+          },
+          {
+            "level_BL_m": 4.159699767394824,
+            "volume_m3": 596.7674597472383,
+            "fill_percent": 66.69403627815726,
+            "centres_AP_port_BL_m": [
+              40.40011293581128,
+              7.5424608122249595,
+              1.6677067688444005
+            ],
+            "waterplane_area_m2": 78.70191958561048,
+            "geometric_FSM_one_tm": 263.6093857206503,
+            "isolated_pair_geometric_FSM_tm": 527.2187714413006
+          },
+          {
+            "level_BL_m": 4.456821179351597,
+            "volume_m3": 619.5658853394315,
+            "fill_percent": 69.24196177023187,
+            "centres_AP_port_BL_m": [
+              40.23533713075538,
+              7.691262928943388,
+              1.7648252689884338
+            ],
+            "waterplane_area_m2": 74.7403356147537,
+            "geometric_FSM_one_tm": 224.18327944557583,
+            "isolated_pair_geometric_FSM_tm": 448.36655889115167
+          },
+          {
+            "level_BL_m": 4.753942591308371,
+            "volume_m3": 641.1731132058052,
+            "fill_percent": 71.65676039179328,
+            "centres_AP_port_BL_m": [
+              40.08530201362577,
+              7.829199489774754,
+              1.8605042114041739
+            ],
+            "waterplane_area_m2": 70.69169994841893,
+            "geometric_FSM_one_tm": 188.27751631771352,
+            "isolated_pair_geometric_FSM_tm": 376.55503263542704
+          },
+          {
+            "level_BL_m": 5.051064003265144,
+            "volume_m3": 661.567833964902,
+            "fill_percent": 73.93605063118771,
+            "centres_AP_port_BL_m": [
+              39.95045944323787,
+              7.957099228993424,
+              1.9542368485897277
+            ],
+            "waterplane_area_m2": 66.58468067867199,
+            "geometric_FSM_one_tm": 156.00026105718783,
+            "isolated_pair_geometric_FSM_tm": 312.00052211437566
+          },
+          {
+            "level_BL_m": 5.348185415221917,
+            "volume_m3": 680.7435901263304,
+            "fill_percent": 76.07911080680971,
+            "centres_AP_port_BL_m": [
+              39.831106375627314,
+              8.075668339839737,
+              2.045611569127982
+            ],
+            "waterplane_area_m2": 62.50728126373495,
+            "geometric_FSM_one_tm": 127.35154532870973,
+            "isolated_pair_geometric_FSM_tm": 254.70309065741947
+          },
+          {
+            "level_BL_m": 5.64530682717869,
+            "volume_m3": 698.7255197034293,
+            "fill_percent": 78.08875031375311,
+            "centres_AP_port_BL_m": [
+              39.72706118004429,
+              8.185631928640273,
+              2.134386099889538
+            ],
+            "waterplane_area_m2": 58.56227970544233,
+            "geometric_FSM_one_tm": 102.24997256834071,
+            "isolated_pair_geometric_FSM_tm": 204.49994513668142
+          },
+          {
+            "level_BL_m": 5.942428239135463,
+            "volume_m3": 715.5638509995493,
+            "fill_percent": 79.97058260870214,
+            "centres_AP_port_BL_m": [
+              39.637806996835415,
+              8.287716555716951,
+              2.2204608961075416
+            ],
+            "waterplane_area_m2": 54.81879949138931,
+            "geometric_FSM_one_tm": 80.56902815747338,
+            "isolated_pair_geometric_FSM_tm": 161.13805631494677
+          },
+          {
+            "level_BL_m": 6.239549651092236,
+            "volume_m3": 731.326199087898,
+            "fill_percent": 81.73216427349085,
+            "centres_AP_port_BL_m": [
+              39.56262039427585,
+              8.382622062040603,
+              2.3038476416580695
+            ],
+            "waterplane_area_m2": 51.3260917840132,
+            "geometric_FSM_one_tm": 62.142423438267215,
+            "isolated_pair_geometric_FSM_tm": 124.28484687653443
+          },
+          {
+            "level_BL_m": 6.53667106304901,
+            "volume_m3": 746.0910666703064,
+            "fill_percent": 83.38226867864797,
+            "centres_AP_port_BL_m": [
+              39.50065882676034,
+              8.47100106545755,
+              2.384641947352847
+            ],
+            "waterplane_area_m2": 48.106278346098755,
+            "geometric_FSM_one_tm": 46.78429504025416,
+            "isolated_pair_geometric_FSM_tm": 93.56859008050832
+          },
+          {
+            "level_BL_m": 6.833792475005783,
+            "volume_m3": 759.9417299470284,
+            "fill_percent": 84.9302026753265,
+            "centres_AP_port_BL_m": [
+              39.4510410157049,
+              8.553443038704238,
+              2.46299594664658
+            ],
+            "waterplane_area_m2": 45.17785357956487,
+            "geometric_FSM_one_tm": 34.29766899727065,
+            "isolated_pair_geometric_FSM_tm": 68.5953379945413
+          },
+          {
+            "level_BL_m": 7.130913886962556,
+            "volume_m3": 772.9702589420322,
+            "fill_percent": 86.3862559021761,
+            "centres_AP_port_BL_m": [
+              39.41275657611142,
+              8.630521525098343,
+              2.539145639574886
+            ],
+            "waterplane_area_m2": 42.57813214593622,
+            "geometric_FSM_one_tm": 24.469338142898618,
+            "isolated_pair_geometric_FSM_tm": 48.938676285797236
+          },
+          {
+            "level_BL_m": 7.428035298919329,
+            "volume_m3": 785.2786969476717,
+            "fill_percent": 87.76183259870588,
+            "centres_AP_port_BL_m": [
+              39.38462427134067,
+              8.702815998810278,
+              2.6134243887731694
+            ],
+            "waterplane_area_m2": 40.33095775719836,
+            "geometric_FSM_one_tm": 17.049306014164742,
+            "isolated_pair_geometric_FSM_tm": 34.098612028329484
+          },
+          {
+            "level_BL_m": 7.725156710876102,
+            "volume_m3": 796.9702300387172,
+            "fill_percent": 89.06846472045684,
+            "centres_AP_port_BL_m": [
+              39.36540399822727,
+              8.770867166082798,
+              2.6862163991256702
+            ],
+            "waterplane_area_m2": 38.425602931520444,
+            "geometric_FSM_one_tm": 11.742866101064077,
+            "isolated_pair_geometric_FSM_tm": 23.485732202128155
+          },
+          {
+            "level_BL_m": 8.022278122832875,
+            "volume_m3": 808.1482578816973,
+            "fill_percent": 90.31770809373616,
+            "centres_AP_port_BL_m": [
+              39.353795875020865,
+              8.83518587748334,
+              2.757954030846622
+            ],
+            "waterplane_area_m2": 36.87786132201508,
+            "geometric_FSM_one_tm": 8.225203796385312,
+            "isolated_pair_geometric_FSM_tm": 16.450407592770624
+          },
+          {
+            "level_BL_m": 8.319399534789648,
+            "volume_m3": 818.9218834623814,
+            "fill_percent": 91.52175594116697,
+            "centres_AP_port_BL_m": [
+              39.348342851016845,
+              8.896298455929475,
+              2.8291546848092217
+            ],
+            "waterplane_area_m2": 35.706336850254125,
+            "geometric_FSM_one_tm": 6.134943592458148,
+            "isolated_pair_geometric_FSM_tm": 12.269887184916296
+          },
+          {
+            "level_BL_m": 8.616520946746421,
+            "volume_m3": 829.4126365032287,
+            "fill_percent": 92.6941902829922,
+            "centres_AP_port_BL_m": [
+              39.34732791605522,
+              8.954784139094887,
+              2.9004704254329816
+            ],
+            "waterplane_area_m2": 35.00862377361236,
+            "geometric_FSM_one_tm": 5.127290903163589,
+            "isolated_pair_geometric_FSM_tm": 10.254581806327177
+          },
+          {
+            "level_BL_m": 8.913642358703195,
+            "volume_m3": 839.7854621574861,
+            "fill_percent": 93.85344519743586,
+            "centres_AP_port_BL_m": [
+              39.34829309698066,
+              9.011414146414136,
+              2.972907854544352
+            ],
+            "waterplane_area_m2": 34.91189417322646,
+            "geometric_FSM_one_tm": 4.916512294790845,
+            "isolated_pair_geometric_FSM_tm": 9.83302458958169
+          },
+          {
+            "level_BL_m": 9.210763770659968,
+            "volume_m3": 850.1784213507772,
+            "fill_percent": 95.01495021275346,
+            "centres_AP_port_BL_m": [
+              39.349047847055374,
+              9.066818883091152,
+              3.0473472342126504
+            ],
+            "waterplane_area_m2": 35.042226333845605,
+            "geometric_FSM_one_tm": 4.951880164740032,
+            "isolated_pair_geometric_FSM_tm": 9.903760329480065
+          },
+          {
+            "level_BL_m": 9.507885182616741,
+            "volume_m3": 860.6072099364154,
+            "fill_percent": 96.1804594792312,
+            "centres_AP_port_BL_m": [
+              39.34932912317106,
+              9.1210908692835,
+              3.1238363637869604
+            ],
+            "waterplane_area_m2": 35.153761178844235,
+            "geometric_FSM_one_tm": 4.983642621281547,
+            "isolated_pair_geometric_FSM_tm": 9.967285242563094
+          },
+          {
+            "level_BL_m": 9.805006594573515,
+            "volume_m3": 871.0667650570897,
+            "fill_percent": 97.34940717783242,
+            "centres_AP_port_BL_m": [
+              39.349213679011086,
+              9.174236237258095,
+              3.2022791405820525
+            ],
+            "waterplane_area_m2": 35.24983303587046,
+            "geometric_FSM_one_tm": 5.012115527619062,
+            "isolated_pair_geometric_FSM_tm": 10.024231055238124
+          },
+          {
+            "level_BL_m": 10.102128006530288,
+            "volume_m3": 881.5529284906277,
+            "fill_percent": 98.52132859049001,
+            "centres_AP_port_BL_m": [
+              39.34876424865315,
+              9.226267049833938,
+              3.282587109308574
+            ],
+            "waterplane_area_m2": 35.333339063206935,
+            "geometric_FSM_one_tm": 5.037701156081857,
+            "isolated_pair_geometric_FSM_tm": 10.075402312163714
+          },
+          {
+            "level_BL_m": 10.399249418487061,
+            "volume_m3": 892.0623709333007,
+            "fill_percent": 99.69585163809673,
+            "centres_AP_port_BL_m": [
+              39.34803097591287,
+              9.277200296260558,
+              3.3646793559496384
+            ],
+            "waterplane_area_m2": 35.40694770148008,
+            "geometric_FSM_one_tm": 5.060890605711142,
+            "isolated_pair_geometric_FSM_tm": 10.121781211422284
+          },
+          {
+            "level_BL_m": 10.696370830443835,
+            "volume_m3": 894.7838413292602,
+            "fill_percent": 99.99999999999791,
+            "centres_AP_port_BL_m": [
+              39.33944630929548,
+              9.290094757961585,
+              3.386247147437116
+            ],
+            "waterplane_area_m2": 4.107825191113079e-15,
+            "geometric_FSM_one_tm": 0.0,
+            "isolated_pair_geometric_FSM_tm": 0.0
+          }
+        ],
+        "fill_fractions": [
+          {
+            "level_BL_m": 0.5302072454083171,
+            "volume_m3": 89.47827899288455,
+            "fill_percent": 9.999988249671208,
+            "centres_AP_port_BL_m": [
+              43.20197109580091,
+              5.035006879853285,
+              0.2843368437793966
+            ],
+            "waterplane_area_m2": 199.72284757312184,
+            "geometric_FSM_one_tm": 1725.8482810502323,
+            "isolated_pair_geometric_FSM_tm": 3451.6965621004647
+          },
+          {
+            "level_BL_m": 1.1316878586910768,
+            "volume_m3": 223.69619993171776,
+            "fill_percent": 25.000026777349674,
+            "centres_AP_port_BL_m": [
+              42.57279684644912,
+              5.4778633151066884,
+              0.6182340491917738
+            ],
+            "waterplane_area_m2": 243.97226522606587,
+            "geometric_FSM_one_tm": 2480.165893303532,
+            "isolated_pair_geometric_FSM_tm": 4960.331786607064
+          },
+          {
+            "level_BL_m": 2.4603032065500514,
+            "volume_m3": 447.39192103922437,
+            "fill_percent": 50.00000004186318,
+            "centres_AP_port_BL_m": [
+              41.57074973811688,
+              6.434736683793745,
+              1.1278713475810844
+            ],
+            "waterplane_area_m2": 94.01300605267619,
+            "geometric_FSM_one_tm": 514.2745760907958,
+            "isolated_pair_geometric_FSM_tm": 1028.5491521815916
+          },
+          {
+            "level_BL_m": 5.196223291102042,
+            "volume_m3": 671.0876445158716,
+            "fill_percent": 74.99997357114908,
+            "centres_AP_port_BL_m": [
+              39.89021485613099,
+              8.016147819279537,
+              1.9991916829905652
+            ],
+            "waterplane_area_m2": 64.58132977517806,
+            "geometric_FSM_one_tm": 141.55389915727991,
+            "isolated_pair_geometric_FSM_tm": 283.10779831455983
+          },
+          {
+            "level_BL_m": 7.945567699701947,
+            "volume_m3": 805.3055327768594,
+            "fill_percent": 90.00000844678961,
+            "centres_AP_port_BL_m": [
+              39.35614209522094,
+              8.818908630060223,
+              2.73950660471521
+            ],
+            "waterplane_area_m2": 37.24209893948826,
+            "geometric_FSM_one_tm": 8.981645028725278,
+            "isolated_pair_geometric_FSM_tm": 17.963290057450557
+          },
+          {
+            "level_BL_m": 9.206944117498754,
+            "volume_m3": 850.0445751562432,
+            "fill_percent": 94.99999171793586,
+            "centres_AP_port_BL_m": [
+              39.349041329006944,
+              9.066113819438801,
+              3.0463770565869925
+            ],
+            "waterplane_area_m2": 35.0406780822005,
+            "geometric_FSM_one_tm": 4.95144864520505,
+            "isolated_pair_geometric_FSM_tm": 9.9028972904101
+          },
+          {
+            "level_BL_m": 9.970039413131124,
+            "volume_m3": 876.8881357794628,
+            "fill_percent": 97.9999967899252,
+            "centres_AP_port_BL_m": [
+              39.34900179503486,
+              9.203272803581227,
+              3.246660390235931
+            ],
+            "waterplane_area_m2": 35.29760249670862,
+            "geometric_FSM_one_tm": 5.026659071306903,
+            "isolated_pair_geometric_FSM_tm": 10.053318142613806
+          }
+        ]
+      },
+      "closed_mesh_file": "B3_WBT5P_S_candidate_closed.3dm",
+      "closed_mesh_sha256": "2c784297e83143b10902accf3e579cafaf3deee592a2a4a7f1b4cb6e2ddd43e3",
+      "closed_mesh_reopen_checks": [
+        {
+          "name": "WBT5P_B3_CANDIDATE",
+          "volume_m3": 894.7838413292789,
+          "triangles": 264128
+        },
+        {
+          "name": "WBT5S_B3_CANDIDATE",
+          "volume_m3": 894.7838413292789,
+          "triangles": 264128
+        }
+      ]
+    }
+  },
+  "revised_ballast_cases": [
+    {
+      "case_id": "TGT_BALLAST_DEP",
+      "scenario": "WBT12345_keep_FPT_reference",
+      "mass_t": 22767.859652343,
+      "LCG_AP_m": 86.92112488547008,
+      "KG_BL_m": 7.497705924139358,
+      "screening_FSM_tm": 3385.3033965574064,
+      "rows": [
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 5.902375721583537,
+          "stern_trim_m": 2.4296836545176737,
+          "draft_AP_m": 7.117217548842374,
+          "draft_FP_m": 4.6875338943247,
+          "calculated_displacement_t": 22767.861690580678,
+          "calculated_LCB_AP_m": 86.85790779827802,
+          "calculated_VCB_BL_m": 3.0822365683437556,
+          "calculated_TCB_heel_rotated_port_m": 0.0,
+          "residual_mass_t": 0.002038237678789301,
+          "residual_horizontal_BG_m": -6.330197426920869e-06,
+          "iterations": 2,
+          "heel_deg": 0,
+          "GZ_m": -0.0,
+          "delta_from_scaled_parent_m": 0.0
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 5.872643178769066,
+          "stern_trim_m": 2.391863298099007,
+          "draft_AP_m": 7.06857482781857,
+          "draft_FP_m": 4.6767115297195625,
+          "calculated_displacement_t": 22767.861727989028,
+          "calculated_LCB_AP_m": 86.85850749320907,
+          "calculated_VCB_BL_m": 3.0264434032343965,
+          "calculated_TCB_heel_rotated_port_m": -1.2792169111374234,
+          "residual_mass_t": 0.002075646028970368,
+          "residual_horizontal_BG_m": -6.368520602234584e-06,
+          "iterations": 2,
+          "heel_deg": 5,
+          "GZ_m": 0.6127897851071239,
+          "delta_from_scaled_parent_m": 0.002566962996574218
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 5.7837277856789955,
+          "stern_trim_m": 2.28162027808905,
+          "draft_AP_m": 6.924537924723521,
+          "draft_FP_m": 4.64291764663447,
+          "calculated_displacement_t": 22767.86160457285,
+          "calculated_LCB_AP_m": 86.8602863834238,
+          "calculated_VCB_BL_m": 2.858688259691422,
+          "calculated_TCB_heel_rotated_port_m": -2.566960868409868,
+          "residual_mass_t": 0.0019522298498486634,
+          "residual_horizontal_BG_m": -5.821055291524435e-06,
+          "iterations": 2,
+          "heel_deg": 10,
+          "GZ_m": 1.2391785291780602,
+          "delta_from_scaled_parent_m": 0.005119057509218816
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 5.423519680779627,
+          "stern_trim_m": 1.8760773366592678,
+          "draft_AP_m": 6.361558349109261,
+          "draft_FP_m": 4.485481012449993,
+          "calculated_displacement_t": 22767.861643405347,
+          "calculated_LCB_AP_m": 86.86736748196097,
+          "calculated_VCB_BL_m": 2.182706878150325,
+          "calculated_TCB_heel_rotated_port_m": -5.184201469884431,
+          "residual_mass_t": 0.0019910623486794066,
+          "residual_horizontal_BG_m": -4.195033630714773e-06,
+          "iterations": 2,
+          "heel_deg": 20,
+          "GZ_m": 2.5689807859080904,
+          "delta_from_scaled_parent_m": 0.010120266035563041
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 4.679562022521695,
+          "stern_trim_m": 1.3808900499215395,
+          "draft_AP_m": 5.370007047482465,
+          "draft_FP_m": 3.9891169975609255,
+          "calculated_displacement_t": 22767.862059087936,
+          "calculated_LCB_AP_m": 86.87695484023659,
+          "calculated_VCB_BL_m": 1.0646362501675397,
+          "calculated_TCB_heel_rotated_port_m": -7.509470619938261,
+          "residual_mass_t": 0.0024067449376161676,
+          "residual_horizontal_BG_m": -1.943858506124607e-06,
+          "iterations": 2,
+          "heel_deg": 30,
+          "GZ_m": 3.6862737483344903,
+          "delta_from_scaled_parent_m": 0.014926490934346504
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 3.4959453546717856,
+          "stern_trim_m": 1.0408229017596051,
+          "draft_AP_m": 4.016356805551588,
+          "draft_FP_m": 2.975533903791983,
+          "calculated_displacement_t": 22767.86037090166,
+          "calculated_LCB_AP_m": 86.88348955623923,
+          "calculated_VCB_BL_m": -0.3933812022490635,
+          "calculated_TCB_heel_rotated_port_m": -9.032381806436813,
+          "residual_mass_t": 0.0007185586619016249,
+          "residual_horizontal_BG_m": -1.2165503550376489e-07,
+          "iterations": 2,
+          "heel_deg": 40,
+          "GZ_m": 4.117374649518328,
+          "delta_from_scaled_parent_m": 0.019351838855749648
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 2.1875279317481056,
+          "stern_trim_m": 0.8103391196996832,
+          "draft_AP_m": 2.592697491597947,
+          "draft_FP_m": 1.782358371898264,
+          "calculated_displacement_t": 22767.860304967482,
+          "calculated_LCB_AP_m": 86.88838776968619,
+          "calculated_VCB_BL_m": -2.0372724186845708,
+          "calculated_TCB_heel_rotated_port_m": -9.69031829031292,
+          "residual_mass_t": 0.0006526244833366945,
+          "residual_horizontal_BG_m": 4.698504173644702e-07,
+          "iterations": 2,
+          "heel_deg": 50,
+          "GZ_m": 3.83284085342906,
+          "delta_from_scaled_parent_m": 0.023107084506156284
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 0.8193923324564916,
+          "stern_trim_m": 0.618752560683174,
+          "draft_AP_m": 1.1287686127980785,
+          "draft_FP_m": 0.5100160521149046,
+          "calculated_displacement_t": 22767.86088654526,
+          "calculated_LCB_AP_m": 86.89381242057165,
+          "calculated_VCB_BL_m": -3.742802605141619,
+          "calculated_TCB_heel_rotated_port_m": -9.771782212391885,
+          "residual_mass_t": 0.0012342022600932978,
+          "residual_horizontal_BG_m": -1.0693400944589149e-07,
+          "iterations": 2,
+          "heel_deg": 60,
+          "GZ_m": 3.149810983435769,
+          "delta_from_scaled_parent_m": 0.02615130763104645
+        }
+      ]
+    },
+    {
+      "case_id": "TGT_BALLAST_DEP",
+      "scenario": "WBT12345_FPT_profile_extent",
+      "mass_t": 22767.859652343,
+      "LCG_AP_m": 86.92178813083213,
+      "KG_BL_m": 7.497367353894525,
+      "screening_FSM_tm": 3534.8969609466617,
+      "rows": [
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 5.902371851672509,
+          "stern_trim_m": 2.4293665634590336,
+          "draft_AP_m": 7.117055133402026,
+          "draft_FP_m": 4.687688569942992,
+          "calculated_displacement_t": 22767.861809629198,
+          "calculated_LCB_AP_m": 86.85858363837039,
+          "calculated_VCB_BL_m": 3.0822269084134724,
+          "calculated_TCB_heel_rotated_port_m": 0.0,
+          "residual_mass_t": 0.002157286198780639,
+          "residual_horizontal_BG_m": -6.692905502439506e-06,
+          "iterations": 2,
+          "heel_deg": 0,
+          "GZ_m": -0.0,
+          "delta_from_scaled_parent_m": 0.0
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 5.872639305586586,
+          "stern_trim_m": 2.391547111359416,
+          "draft_AP_m": 7.068412861266294,
+          "draft_FP_m": 4.676865749906877,
+          "calculated_displacement_t": 22767.86184845477,
+          "calculated_LCB_AP_m": 86.85918327079867,
+          "calculated_VCB_BL_m": 3.0264338951001837,
+          "calculated_TCB_heel_rotated_port_m": -1.2792135020801434,
+          "residual_mass_t": 0.0021961117708997335,
+          "residual_horizontal_BG_m": -6.731685940286614e-06,
+          "iterations": 2,
+          "heel_deg": 5,
+          "GZ_m": 0.6122432377560683,
+          "delta_from_scaled_parent_m": 0.0020204156455185807
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 5.783723937606887,
+          "stern_trim_m": 2.281306834920704,
+          "draft_AP_m": 6.924377355067239,
+          "draft_FP_m": 4.643070520146535,
+          "calculated_displacement_t": 22767.861719122975,
+          "calculated_LCB_AP_m": 86.86096201087001,
+          "calculated_VCB_BL_m": 2.8586791921951784,
+          "calculated_TCB_heel_rotated_port_m": -2.566954334515437,
+          "residual_mass_t": 0.0020667799763032235,
+          "residual_horizontal_BG_m": -6.155885952430218e-06,
+          "iterations": 2,
+          "heel_deg": 10,
+          "GZ_m": 1.2380898523064496,
+          "delta_from_scaled_parent_m": 0.0040303806376082996
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 5.42351591746759,
+          "stern_trim_m": 1.8757708940710496,
+          "draft_AP_m": 6.361401364503115,
+          "draft_FP_m": 4.485630470432065,
+          "calculated_displacement_t": 22767.861761138804,
+          "calculated_LCB_AP_m": 86.86804269749122,
+          "calculated_VCB_BL_m": 2.182699431645712,
+          "calculated_TCB_heel_rotated_port_m": -5.184190109914813,
+          "residual_mass_t": 0.0021087958048155997,
+          "residual_horizontal_BG_m": -4.438975232889941e-06,
+          "iterations": 2,
+          "heel_deg": 20,
+          "GZ_m": 2.5668380203508847,
+          "delta_from_scaled_parent_m": 0.007977500478357324
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 4.6795597576335,
+          "stern_trim_m": 1.3805809696386402,
+          "draft_AP_m": 5.36985024245282,
+          "draft_FP_m": 3.9892692728141803,
+          "calculated_displacement_t": 22767.862204387002,
+          "calculated_LCB_AP_m": 86.8776301953877,
+          "calculated_VCB_BL_m": 1.0646307788991394,
+          "calculated_TCB_heel_rotated_port_m": -7.509460002389479,
+          "residual_mass_t": 0.0025520440030959435,
+          "residual_horizontal_BG_m": -2.0606663251251933e-06,
+          "iterations": 2,
+          "heel_deg": 30,
+          "GZ_m": 3.683147224267946,
+          "delta_from_scaled_parent_m": 0.011799966867802159
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 3.49594202862246,
+          "stern_trim_m": 1.0404882079166948,
+          "draft_AP_m": 4.016186132580807,
+          "draft_FP_m": 2.9756979246641126,
+          "calculated_displacement_t": 22767.860415807674,
+          "calculated_LCB_AP_m": 86.88416646462721,
+          "calculated_VCB_BL_m": -0.3933853451107986,
+          "calculated_TCB_heel_rotated_port_m": -9.032376015091463,
+          "residual_mass_t": 0.0007634646754013374,
+          "residual_horizontal_BG_m": -1.254815642712237e-07,
+          "iterations": 2,
+          "heel_deg": 40,
+          "GZ_m": 4.11336312596786,
+          "delta_from_scaled_parent_m": 0.015340315305281571
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 2.1875253212554115,
+          "stern_trim_m": 0.8099710639630994,
+          "draft_AP_m": 2.5925108532369614,
+          "draft_FP_m": 1.782539789273862,
+          "calculated_displacement_t": 22767.860346933037,
+          "calculated_LCB_AP_m": 86.88906694022901,
+          "calculated_VCB_BL_m": -2.03727565290306,
+          "calculated_TCB_heel_rotated_port_m": -9.690313545138537,
+          "residual_mass_t": 0.0006945900386199355,
+          "residual_horizontal_BG_m": 5.024620227042642e-07,
+          "iterations": 2,
+          "heel_deg": 50,
+          "GZ_m": 3.828062262508258,
+          "delta_from_scaled_parent_m": 0.018328493585354266
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 0.8193903390081474,
+          "stern_trim_m": 0.6183508506159423,
+          "draft_AP_m": 1.1285657643161184,
+          "draft_FP_m": 0.5102149137001762,
+          "calculated_displacement_t": 22767.86096812282,
+          "calculated_LCB_AP_m": 86.89449399919012,
+          "calculated_VCB_BL_m": -3.7428050728489257,
+          "calculated_TCB_heel_rotated_port_m": -9.771778239268643,
+          "residual_mass_t": 0.0013157798202882987,
+          "residual_horizontal_BG_m": -1.133344991015306e-07,
+          "iterations": 2,
+          "heel_deg": 60,
+          "GZ_m": 3.144410101912128,
+          "delta_from_scaled_parent_m": 0.02075042610740585
+        }
+      ]
+    },
+    {
+      "case_id": "TGT_BALLAST_DEP",
+      "scenario": "WBT12345_FPT_plan_extent",
+      "mass_t": 22767.859652343,
+      "LCG_AP_m": 86.92182698119285,
+      "KG_BL_m": 7.498875009765683,
+      "screening_FSM_tm": 3545.8645148052797,
+      "rows": [
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 5.902371751636232,
+          "stern_trim_m": 2.4293583667308276,
+          "draft_AP_m": 7.117050935001646,
+          "draft_FP_m": 4.687692568270818,
+          "calculated_displacement_t": 22767.86181273551,
+          "calculated_LCB_AP_m": 86.8586011085937,
+          "calculated_VCB_BL_m": 3.082226658728025,
+          "calculated_TCB_heel_rotated_port_m": 0.0,
+          "residual_mass_t": 0.002160392512450926,
+          "residual_horizontal_BG_m": -6.702364021268781e-06,
+          "iterations": 2,
+          "heel_deg": 0,
+          "GZ_m": -0.0,
+          "delta_from_scaled_parent_m": 0.0
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 5.872639203035038,
+          "stern_trim_m": 2.391538739577333,
+          "draft_AP_m": 7.068408572823705,
+          "draft_FP_m": 4.676869833246371,
+          "calculated_displacement_t": 22767.861851674956,
+          "calculated_LCB_AP_m": 86.85920116350395,
+          "calculated_VCB_BL_m": 3.026433643372173,
+          "calculated_TCB_heel_rotated_port_m": -1.279213411818187,
+          "residual_mass_t": 0.002199331956944661,
+          "residual_horizontal_BG_m": -6.7413864132670476e-06,
+          "iterations": 2,
+          "heel_deg": 5,
+          "GZ_m": 0.6120697626495594,
+          "delta_from_scaled_parent_m": 0.0018469405390096894
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 5.783723828726939,
+          "stern_trim_m": 2.28129796614819,
+          "draft_AP_m": 6.9243728118010335,
+          "draft_FP_m": 4.643074845652844,
+          "calculated_displacement_t": 22767.861722394635,
+          "calculated_LCB_AP_m": 86.86098112744789,
+          "calculated_VCB_BL_m": 2.8586789356564735,
+          "calculated_TCB_heel_rotated_port_m": -2.566954149642336,
+          "residual_mass_t": 0.0020700516361102927,
+          "residual_horizontal_BG_m": -6.165441672215111e-06,
+          "iterations": 2,
+          "heel_deg": 10,
+          "GZ_m": 1.237744217307603,
+          "delta_from_scaled_parent_m": 0.003684745638761644
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 5.423515786564878,
+          "stern_trim_m": 1.875760234799229,
+          "draft_AP_m": 6.3613959039644925,
+          "draft_FP_m": 4.485635669165264,
+          "calculated_displacement_t": 22767.861765271035,
+          "calculated_LCB_AP_m": 86.8680661840582,
+          "calculated_VCB_BL_m": 2.1826991726551195,
+          "calculated_TCB_heel_rotated_port_m": -5.184189714769986,
+          "residual_mass_t": 0.002112928035785444,
+          "residual_horizontal_BG_m": -4.4475314373570995e-06,
+          "iterations": 2,
+          "heel_deg": 20,
+          "GZ_m": 2.566157221281831,
+          "delta_from_scaled_parent_m": 0.007296701409303719
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 4.679559661578894,
+          "stern_trim_m": 1.380567861448659,
+          "draft_AP_m": 5.369843592303224,
+          "draft_FP_m": 3.9892757308545646,
+          "calculated_displacement_t": 22767.862210606338,
+          "calculated_LCB_AP_m": 86.87765883736199,
+          "calculated_VCB_BL_m": 1.06463054689746,
+          "calculated_TCB_heel_rotated_port_m": -7.509459552091111,
+          "residual_mass_t": 0.0025582633388694376,
+          "residual_horizontal_BG_m": -2.0656665602539204e-06,
+          "iterations": 2,
+          "heel_deg": 30,
+          "GZ_m": 3.682152089975808,
+          "delta_from_scaled_parent_m": 0.010804832575664225
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 3.4959418696827553,
+          "stern_trim_m": 1.0404722141248688,
+          "draft_AP_m": 4.0161779767451895,
+          "draft_FP_m": 2.975705762620321,
+          "calculated_displacement_t": 22767.860417975877,
+          "calculated_LCB_AP_m": 86.8841988116012,
+          "calculated_VCB_BL_m": -0.39338554304574935,
+          "calculated_TCB_heel_rotated_port_m": -9.032375738322898,
+          "residual_mass_t": 0.0007656328780285548,
+          "residual_horizontal_BG_m": -1.2566151502690914e-07,
+          "iterations": 2,
+          "heel_deg": 40,
+          "GZ_m": 4.112084108105797,
+          "delta_from_scaled_parent_m": 0.014061297443218379
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 2.187525186756457,
+          "stern_trim_m": 0.8099521008332476,
+          "draft_AP_m": 2.5925012371730807,
+          "draft_FP_m": 1.7825491363398331,
+          "calculated_displacement_t": 22767.860349119048,
+          "calculated_LCB_AP_m": 86.88910193277324,
+          "calculated_VCB_BL_m": -2.037275819493758,
+          "calculated_TCB_heel_rotated_port_m": -9.690313300634479,
+          "residual_mass_t": 0.0006967760491534136,
+          "residual_horizontal_BG_m": 5.041618927059677e-07,
+          "iterations": 2,
+          "heel_deg": 50,
+          "GZ_m": 3.826538073712025,
+          "delta_from_scaled_parent_m": 0.016804304789121538
+        },
+        {
+          "case_id": "TGT_BALLAST_DEP",
+          "mid_draft_m": 0.8193902305949244,
+          "stern_trim_m": 0.6183290037076766,
+          "draft_AP_m": 1.1285547324487628,
+          "draft_FP_m": 0.5102257287410861,
+          "calculated_displacement_t": 22767.86097261095,
+          "calculated_LCB_AP_m": 86.89453106668357,
+          "calculated_VCB_BL_m": -3.742805206998111,
+          "calculated_TCB_heel_rotated_port_m": -9.771778023161998,
+          "residual_mass_t": 0.001320267951086862,
+          "residual_horizontal_BG_m": -1.1368379368437154e-07,
+          "iterations": 2,
+          "heel_deg": 60,
+          "GZ_m": 3.1426870425907962,
+          "delta_from_scaled_parent_m": 0.019027366786073863
+        }
+      ]
+    },
+    {
+      "case_id": "TGT_BALLAST_ARR",
+      "scenario": "WBT12345_keep_FPT_reference",
+      "mass_t": 20344.882226243775,
+      "LCG_AP_m": 88.384973243787,
+      "KG_BL_m": 7.132721604030333,
+      "screening_FSM_tm": 3385.3033965574064,
+      "rows": [
+        {
+          "case_id": "TGT_BALLAST_ARR",
+          "mid_draft_m": 5.325223223826257,
+          "stern_trim_m": 1.7472245726008957,
+          "draft_AP_m": 6.198835510126705,
+          "draft_FP_m": 4.4516109375258095,
+          "calculated_displacement_t": 20344.884147546098,
+          "calculated_LCB_AP_m": 88.34000381452167,
+          "calculated_VCB_BL_m": 2.765163248193943,
+          "calculated_TCB_heel_rotated_port_m": 0.0,
+          "residual_mass_t": 0.0019213023224438075,
+          "residual_horizontal_BG_m": -6.786521523284572e-06,
+          "iterations": 2,
+          "heel_deg": 0,
+          "GZ_m": -0.0,
+          "delta_from_scaled_parent_m": 0.0
+        },
+        {
+          "case_id": "TGT_BALLAST_ARR",
+          "mid_draft_m": 5.2974693142639495,
+          "stern_trim_m": 1.7133412029500825,
+          "draft_AP_m": 6.154139915738991,
+          "draft_FP_m": 4.440798712788908,
+          "calculated_displacement_t": 20344.884178844593,
+          "calculated_LCB_AP_m": 88.34055679050668,
+          "calculated_VCB_BL_m": 2.7064242210314364,
+          "calculated_TCB_heel_rotated_port_m": -1.3469761392526503,
+          "residual_mass_t": 0.0019526008181856014,
+          "residual_horizontal_BG_m": -6.784953774728597e-06,
+          "iterations": 2,
+          "heel_deg": 5,
+          "GZ_m": 0.7108161386058997,
+          "delta_from_scaled_parent_m": 0.0028833677220926335
+        },
+        {
+          "case_id": "TGT_BALLAST_ARR",
+          "mid_draft_m": 5.213938568893681,
+          "stern_trim_m": 1.6125917265762626,
+          "draft_AP_m": 6.020234432181812,
+          "draft_FP_m": 4.40764270560555,
+          "calculated_displacement_t": 20344.884188441603,
+          "calculated_LCB_AP_m": 88.34226149597349,
+          "calculated_VCB_BL_m": 2.529755098260839,
+          "calculated_TCB_heel_rotated_port_m": -2.703969514011264,
+          "residual_mass_t": 0.001962197828106582,
+          "residual_horizontal_BG_m": -6.594253412137152e-06,
+          "iterations": 2,
+          "heel_deg": 10,
+          "GZ_m": 1.4364910744465955,
+          "delta_from_scaled_parent_m": 0.0057450987766496375
+        },
+        {
+          "case_id": "TGT_BALLAST_ARR",
+          "mid_draft_m": 4.86383956339999,
+          "stern_trim_m": 1.228560144260469,
+          "draft_AP_m": 5.478119635530224,
+          "draft_FP_m": 4.249559491269756,
+          "calculated_displacement_t": 20344.884519941494,
+          "calculated_LCB_AP_m": 88.34961380953274,
+          "calculated_VCB_BL_m": 1.8184382019597687,
+          "calculated_TCB_heel_rotated_port_m": -5.437843379650119,
+          "residual_mass_t": 0.002293697718414478,
+          "residual_horizontal_BG_m": -4.680799319527196e-06,
+          "iterations": 2,
+          "heel_deg": 20,
+          "GZ_m": 2.941398191531917,
+          "delta_from_scaled_parent_m": 0.011344803597165942
+        },
+        {
+          "case_id": "TGT_BALLAST_ARR",
+          "mid_draft_m": 4.08394067925537,
+          "stern_trim_m": 0.7743625495362786,
+          "draft_AP_m": 4.471121954023509,
+          "draft_FP_m": 3.696759404487231,
+          "calculated_displacement_t": 20344.884841128613,
+          "calculated_LCB_AP_m": 88.35980473669098,
+          "calculated_VCB_BL_m": 0.6613116631367978,
+          "calculated_TCB_heel_rotated_port_m": -7.67706316952438,
+          "residual_mass_t": 0.002614884837385034,
+          "residual_horizontal_BG_m": -2.301327893205335e-06,
+          "iterations": 2,
+          "heel_deg": 30,
+          "GZ_m": 4.027504456631397,
+          "delta_from_scaled_parent_m": 0.016729004450128038
+        },
+        {
+          "case_id": "TGT_BALLAST_ARR",
+          "mid_draft_m": 2.8221291640513226,
+          "stern_trim_m": 0.3927107857463679,
+          "draft_AP_m": 3.0184845569245065,
+          "draft_FP_m": 2.625773771178139,
+          "calculated_displacement_t": 20344.883624640886,
+          "calculated_LCB_AP_m": 88.3704270953567,
+          "calculated_VCB_BL_m": -0.8217810556510814,
+          "calculated_TCB_heel_rotated_port_m": -9.195677926092355,
+          "residual_mass_t": 0.0013983971111883875,
+          "residual_horizontal_BG_m": -1.7687812631506095e-06,
+          "iterations": 2,
+          "heel_deg": 40,
+          "GZ_m": 4.503895683150028,
+          "delta_from_scaled_parent_m": 0.021635387766719916
+        },
+        {
+          "case_id": "TGT_BALLAST_ARR",
+          "mid_draft_m": 1.4102387172182436,
+          "stern_trim_m": 0.11551636684264222,
+          "draft_AP_m": 1.4679969006395646,
+          "draft_FP_m": 1.3524805337969226,
+          "calculated_displacement_t": 20344.88361121914,
+          "calculated_LCB_AP_m": 88.3801514926504,
+          "calculated_VCB_BL_m": -2.4976957277826326,
+          "calculated_TCB_heel_rotated_port_m": -9.885142299056948,
+          "residual_mass_t": 0.0013849753631802741,
+          "residual_horizontal_BG_m": -1.2103244709273098e-06,
+          "iterations": 2,
+          "heel_deg": 50,
+          "GZ_m": 4.293693955360709,
+          "delta_from_scaled_parent_m": 0.025840092065785747
+        },
+        {
+          "case_id": "TGT_BALLAST_ARR",
+          "mid_draft_m": -0.04877629917387988,
+          "stern_trim_m": -0.13485977444610803,
+          "draft_AP_m": -0.11620618639693389,
+          "draft_FP_m": 0.018653588049174136,
+          "calculated_displacement_t": 20344.88435732819,
+          "calculated_LCB_AP_m": 88.39117105725161,
+          "calculated_VCB_BL_m": -4.2364835999618045,
+          "calculated_TCB_heel_rotated_port_m": -9.951617278010367,
+          "residual_mass_t": 0.002131084413122153,
+          "residual_horizontal_BG_m": -2.301750308401039e-06,
+          "iterations": 2,
+          "heel_deg": 60,
+          "GZ_m": 3.630396162074044,
+          "delta_from_scaled_parent_m": 0.02922784011191837
+        }
+      ]
+    },
+    {
+      "case_id": "TGT_BALLAST_ARR",
+      "scenario": "WBT12345_FPT_empty_geometry",
+      "mass_t": 20344.882226243775,
+      "LCG_AP_m": 88.384973243787,
+      "KG_BL_m": 7.132721604030333,
+      "screening_FSM_tm": 2544.549185361426,
+      "rows": [
+        {
+          "case_id": "TGT_BALLAST_ARR",
+          "mid_draft_m": 5.325223223826257,
+          "stern_trim_m": 1.7472245726008957,
+          "draft_AP_m": 6.198835510126705,
+          "draft_FP_m": 4.4516109375258095,
+          "calculated_displacement_t": 20344.884147546098,
+          "calculated_LCB_AP_m": 88.34000381452167,
+          "calculated_VCB_BL_m": 2.765163248193943,
+          "calculated_TCB_heel_rotated_port_m": 0.0,
+          "residual_mass_t": 0.0019213023224438075,
+          "residual_horizontal_BG_m": -6.786521523284572e-06,
+          "iterations": 2,
+          "heel_deg": 0,
+          "GZ_m": -0.0,
+          "delta_from_scaled_parent_m": 0.0
+        },
+        {
+          "case_id": "TGT_BALLAST_ARR",
+          "mid_draft_m": 5.2974693142639495,
+          "stern_trim_m": 1.7133412029500825,
+          "draft_AP_m": 6.154139915738991,
+          "draft_FP_m": 4.440798712788908,
+          "calculated_displacement_t": 20344.884178844593,
+          "calculated_LCB_AP_m": 88.34055679050668,
+          "calculated_VCB_BL_m": 2.7064242210314364,
+          "calculated_TCB_heel_rotated_port_m": -1.3469761392526503,
+          "residual_mass_t": 0.0019526008181856014,
+          "residual_horizontal_BG_m": -6.784953774728597e-06,
+          "iterations": 2,
+          "heel_deg": 5,
+          "GZ_m": 0.7144178580422739,
+          "delta_from_scaled_parent_m": 0.006485087158466851
+        },
+        {
+          "case_id": "TGT_BALLAST_ARR",
+          "mid_draft_m": 5.213938568893681,
+          "stern_trim_m": 1.6125917265762626,
+          "draft_AP_m": 6.020234432181812,
+          "draft_FP_m": 4.40764270560555,
+          "calculated_displacement_t": 20344.884188441603,
+          "calculated_LCB_AP_m": 88.34226149597349,
+          "calculated_VCB_BL_m": 2.529755098260839,
+          "calculated_TCB_heel_rotated_port_m": -2.703969514011264,
+          "residual_mass_t": 0.001962197828106582,
+          "residual_horizontal_BG_m": -6.594253412137152e-06,
+          "iterations": 2,
+          "heel_deg": 10,
+          "GZ_m": 1.4436671020596554,
+          "delta_from_scaled_parent_m": 0.012921126389709547
+        },
+        {
+          "case_id": "TGT_BALLAST_ARR",
+          "mid_draft_m": 4.86383956339999,
+          "stern_trim_m": 1.228560144260469,
+          "draft_AP_m": 5.478119635530224,
+          "draft_FP_m": 4.249559491269756,
+          "calculated_displacement_t": 20344.884519941494,
+          "calculated_LCB_AP_m": 88.34961380953274,
+          "calculated_VCB_BL_m": 1.8184382019597687,
+          "calculated_TCB_heel_rotated_port_m": -5.437843379650119,
+          "residual_mass_t": 0.002293697718414478,
+          "residual_horizontal_BG_m": -4.680799319527196e-06,
+          "iterations": 2,
+          "heel_deg": 20,
+          "GZ_m": 2.9555322067902594,
+          "delta_from_scaled_parent_m": 0.0254788188555084
+        },
+        {
+          "case_id": "TGT_BALLAST_ARR",
+          "mid_draft_m": 4.08394067925537,
+          "stern_trim_m": 0.7743625495362786,
+          "draft_AP_m": 4.471121954023509,
+          "draft_FP_m": 3.696759404487231,
+          "calculated_displacement_t": 20344.884841128613,
+          "calculated_LCB_AP_m": 88.35980473669098,
+          "calculated_VCB_BL_m": 0.6613116631367978,
+          "calculated_TCB_heel_rotated_port_m": -7.67706316952438,
+          "residual_mass_t": 0.002614884837385034,
+          "residual_horizontal_BG_m": -2.301327893205335e-06,
+          "iterations": 2,
+          "heel_deg": 30,
+          "GZ_m": 4.048167004633553,
+          "delta_from_scaled_parent_m": 0.037391552452284316
+        },
+        {
+          "case_id": "TGT_BALLAST_ARR",
+          "mid_draft_m": 2.8221291640513226,
+          "stern_trim_m": 0.3927107857463679,
+          "draft_AP_m": 3.0184845569245065,
+          "draft_FP_m": 2.625773771178139,
+          "calculated_displacement_t": 20344.883624640886,
+          "calculated_LCB_AP_m": 88.3704270953567,
+          "calculated_VCB_BL_m": -0.8217810556510814,
+          "calculated_TCB_heel_rotated_port_m": -9.195677926092355,
+          "residual_mass_t": 0.0013983971111883875,
+          "residual_horizontal_BG_m": -1.7687812631506095e-06,
+          "iterations": 2,
+          "heel_deg": 40,
+          "GZ_m": 4.530458942830707,
+          "delta_from_scaled_parent_m": 0.04819864744739899
+        },
+        {
+          "case_id": "TGT_BALLAST_ARR",
+          "mid_draft_m": 1.4102387172182436,
+          "stern_trim_m": 0.11551636684264222,
+          "draft_AP_m": 1.4679969006395646,
+          "draft_FP_m": 1.3524805337969226,
+          "calculated_displacement_t": 20344.88361121914,
+          "calculated_LCB_AP_m": 88.3801514926504,
+          "calculated_VCB_BL_m": -2.4976957277826326,
+          "calculated_TCB_heel_rotated_port_m": -9.885142299056948,
+          "residual_mass_t": 0.0013849753631802741,
+          "residual_horizontal_BG_m": -1.2103244709273098e-06,
+          "iterations": 2,
+          "heel_deg": 50,
+          "GZ_m": 4.325350815516172,
+          "delta_from_scaled_parent_m": 0.057496952221248954
+        },
+        {
+          "case_id": "TGT_BALLAST_ARR",
+          "mid_draft_m": -0.04877629917387988,
+          "stern_trim_m": -0.13485977444610803,
+          "draft_AP_m": -0.11620618639693389,
+          "draft_FP_m": 0.018653588049174136,
+          "calculated_displacement_t": 20344.88435732819,
+          "calculated_LCB_AP_m": 88.39117105725161,
+          "calculated_VCB_BL_m": -4.2364835999618045,
+          "calculated_TCB_heel_rotated_port_m": -9.951617278010367,
+          "residual_mass_t": 0.002131084413122153,
+          "residual_horizontal_BG_m": -2.301750308401039e-06,
+          "iterations": 2,
+          "heel_deg": 60,
+          "GZ_m": 3.6661847450276097,
+          "delta_from_scaled_parent_m": 0.06501642306548394
+        }
+      ]
+    }
+  ],
+  "formal_target_net_capacity": null
+}
